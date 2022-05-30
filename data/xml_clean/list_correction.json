@@ -1,0 +1,2404 @@
+[
+   {
+      "word": "fo",
+      "type": "INTJ",
+      "location": "179_a.xml, line : 3",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "Yo",
+         "to",
+         "lo",
+         "po",
+         "Lo",
+         "ro",
+         "yo",
+         "no",
+         "do",
+         "fe",
+         "fé",
+         "o"
+      ]
+   },
+   {
+      "word": "mm",
+      "type": "NUM",
+      "location": "179_a.xml, line : 3",
+      "corrected": "me",
+      "probability": 0.0,
+      "suggestions": [
+         "pm",
+         "mí",
+         "ms",
+         "mi",
+         "ma",
+         "m"
+      ]
+   },
+   {
+      "word": "sses",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 3",
+      "corrected": "se",
+      "probability": 0.0,
+      "suggestions": [
+         "bases",
+         "sea",
+         "sus",
+         "les",
+         "meses",
+         "eres",
+         "pases",
+         "ser",
+         "mes",
+         "esos",
+         "tres",
+         "seis",
+         "sabes",
+         "pues",
+         "seles",
+         "se",
+         "Pues",
+         "Les",
+         "ese",
+         "asus",
+         "sed",
+         "esas"
+      ]
+   },
+   {
+      "word": "Co",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 3",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "Yo",
+         "to",
+         "lo",
+         "po",
+         "Lo",
+         "ro",
+         "yo",
+         "no",
+         "C",
+         "do",
+         "Con",
+         "o"
+      ]
+   },
+   {
+      "word": "ton",
+      "type": "DET",
+      "location": "179_a.xml, line : 4",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "Don",
+         "to",
+         "tan",
+         "Con",
+         "Son",
+         "son"
+      ]
+   },
+   {
+      "word": "comm",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 4",
+      "corrected": "como",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "pomas",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 5",
+      "corrected": "Tomas",
+      "probability": 0.0,
+      "suggestions": [
+         "pocas"
+      ]
+   },
+   {
+      "word": "comet",
+      "type": "VERB",
+      "location": "179_a.xml, line : 5",
+      "corrected": "comer",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "trocnio",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 6",
+      "corrected": "tonio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "inder",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 7",
+      "corrected": "poder",
+      "probability": 0.0,
+      "suggestions": [
+         "ind",
+         "indio",
+         "idea",
+         "poder"
+      ]
+   },
+   {
+      "word": "tar",
+      "type": "INTJ",
+      "location": "179_a.xml, line : 8",
+      "corrected": "tan",
+      "probability": 0.0,
+      "suggestions": [
+         "tan",
+         "tr",
+         "dar",
+         "ta",
+         "tal"
+      ]
+   },
+   {
+      "word": "eo",
+      "type": "INTJ",
+      "location": "179_a.xml, line : 8",
+      "corrected": "el",
+      "probability": 0.0,
+      "suggestions": [
+         "yo",
+         "Veo",
+         "o",
+         "reo",
+         "po",
+         "e",
+         "no",
+         "en",
+         "No",
+         "Yo",
+         "eu",
+         "lo",
+         "Lo",
+         "el",
+         "beo",
+         "eso",
+         "do",
+         "to",
+         "ro",
+         "veo",
+         "es"
+      ]
+   },
+   {
+      "word": "eo",
+      "type": "INTJ",
+      "location": "179_a.xml, line : 8",
+      "corrected": "el",
+      "probability": 0.0,
+      "suggestions": [
+         "yo",
+         "Veo",
+         "o",
+         "reo",
+         "po",
+         "e",
+         "no",
+         "en",
+         "No",
+         "Yo",
+         "eu",
+         "lo",
+         "Lo",
+         "el",
+         "beo",
+         "eso",
+         "do",
+         "to",
+         "ro",
+         "veo",
+         "es"
+      ]
+   },
+   {
+      "word": "huurto",
+      "type": "VERB",
+      "location": "179_a.xml, line : 8",
+      "corrected": "puerto",
+      "probability": 0.0,
+      "suggestions": [
+         "puerto"
+      ]
+   },
+   {
+      "word": "dU",
+      "type": "ADJ",
+      "location": "179_a.xml, line : 9",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "Ud",
+         "da",
+         "dí",
+         "dⁿ",
+         "dá",
+         "do",
+         "de",
+         "U",
+         "dé",
+         "d"
+      ]
+   },
+   {
+      "word": "hares",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 9",
+      "corrected": "hacer",
+      "probability": 0.0,
+      "suggestions": [
+         "bases",
+         "Varas",
+         "darles",
+         "tores",
+         "has",
+         "eres",
+         "hacen",
+         "pases",
+         "habras",
+         "darse",
+         "haría",
+         "hayas",
+         "haber",
+         "haré",
+         "varas",
+         "partes",
+         "tres",
+         "hará",
+         "haberes",
+         "hayer",
+         "hacer",
+         "males",
+         "hace",
+         "azares",
+         "sabes"
+      ]
+   },
+   {
+      "word": "empender",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 9",
+      "corrected": "emprender",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "montoncio",
+      "type": "ADV",
+      "location": "179_a.xml, line : 9",
+      "corrected": "montonero",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "penn",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 10",
+      "corrected": "pena",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ienste",
+      "type": "VERB",
+      "location": "179_a.xml, line : 10",
+      "corrected": "este",
+      "probability": 0.0,
+      "suggestions": [
+         "este",
+         "Oeste"
+      ]
+   },
+   {
+      "word": "sescor",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 11",
+      "corrected": "secar",
+      "probability": 0.0,
+      "suggestions": [
+         "sesar",
+         "secar"
+      ]
+   },
+   {
+      "word": "timo",
+      "type": "VERB",
+      "location": "179_a.xml, line : 12",
+      "corrected": "como",
+      "probability": 0.0,
+      "suggestions": [
+         "todo",
+         "aiso",
+         "sima",
+         "mio",
+         "tuvo",
+         "mismo",
+         "Como",
+         "piso",
+         "afmo",
+         "dio",
+         "último",
+         "tuyo",
+         "sido",
+         "rio",
+         "Bio",
+         "vivo",
+         "hizo",
+         "tomó",
+         "hijo",
+         "tiempo",
+         "jiro",
+         "temor",
+         "teme",
+         "dijo",
+         "Mismo",
+         "como",
+         "lio",
+         "cómo",
+         "to",
+         "digo",
+         "migo",
+         "vino",
+         "sino",
+         "pido"
+      ]
+   },
+   {
+      "word": "cessta",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 13",
+      "corrected": "esta",
+      "probability": 0.0,
+      "suggestions": [
+         "resta",
+         "esta"
+      ]
+   },
+   {
+      "word": "fenerar",
+      "type": "VERB",
+      "location": "179_a.xml, line : 13",
+      "corrected": "General",
+      "probability": 0.0,
+      "suggestions": [
+         "Jeneral",
+         "entrar"
+      ]
+   },
+   {
+      "word": "purrto",
+      "type": "VERB",
+      "location": "179_a.xml, line : 13",
+      "corrected": "puerto",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "nero",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 14",
+      "corrected": "pero",
+      "probability": 0.0,
+      "suggestions": [
+         "Enero",
+         "pero"
+      ]
+   },
+   {
+      "word": "evdtae",
+      "type": "NOUN",
+      "location": "179_a.xml, line : 14",
+      "corrected": "evitar",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ul",
+      "type": "NUM",
+      "location": "179_a.xml, line : 15",
+      "corrected": "el",
+      "probability": 0.0,
+      "suggestions": [
+         "uq",
+         "un",
+         "l",
+         "ue",
+         "u",
+         "el",
+         "él",
+         "al",
+         "Al"
+      ]
+   },
+   {
+      "word": "pnto",
+      "type": "ADJ",
+      "location": "179_a.xml, line : 16",
+      "corrected": "punto",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "alguos",
+      "type": "DET",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "algunos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "sfin",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "sin",
+      "probability": 0.0,
+      "suggestions": [
+         "fin",
+         "afin"
+      ]
+   },
+   {
+      "word": "degue",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "deque",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "rirvas",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "Sirvase",
+      "probability": 0.0,
+      "suggestions": [
+         "sirva"
+      ]
+   },
+   {
+      "word": "allos",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 1",
+      "corrected": "ellos",
+      "probability": 0.0,
+      "suggestions": [
+         "alos"
+      ]
+   },
+   {
+      "word": "dieen",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 1",
+      "corrected": "dicen",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "logu",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 1",
+      "corrected": "log",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "vimos",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 1",
+      "corrected": "Dios",
+      "probability": 0.0,
+      "suggestions": [
+         "hijos",
+         "Dios",
+         "finos",
+         "vivo",
+         "visas",
+         "vino",
+         "vos",
+         "mismos"
+      ]
+   },
+   {
+      "word": "atro",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 1",
+      "corrected": "otro",
+      "probability": 0.0,
+      "suggestions": [
+         "otro"
+      ]
+   },
+   {
+      "word": "aar",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 2",
+      "corrected": "dar",
+      "probability": 0.0,
+      "suggestions": [
+         "dar"
+      ]
+   },
+   {
+      "word": "quisas",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 2",
+      "corrected": "guias",
+      "probability": 0.0,
+      "suggestions": [
+         "guias",
+         "quitar",
+         "visas"
+      ]
+   },
+   {
+      "word": "traten",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 2",
+      "corrected": "traen",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cmpedir",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 3",
+      "corrected": "pedir",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "resuelpe",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 3",
+      "corrected": "resuelto",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "prerro",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 4",
+      "corrected": "pero",
+      "probability": 0.0,
+      "suggestions": [
+         "puerto",
+         "Ferro",
+         "preso",
+         "precio",
+         "fierro"
+      ]
+   },
+   {
+      "word": "moyal",
+      "type": "ADV",
+      "location": "177_2a.xml, line : 5",
+      "corrected": "mal",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "am",
+      "type": "NUM",
+      "location": "177_2a.xml, line : 5",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "amí",
+         "ai",
+         "al",
+         "as",
+         "pm",
+         "ami",
+         "ma",
+         "afm",
+         "m",
+         "a"
+      ]
+   },
+   {
+      "word": "p",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 5",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "l",
+         "D",
+         "B",
+         "Y",
+         "o",
+         "s",
+         "U",
+         "m",
+         "r",
+         "pe",
+         "N",
+         "T",
+         "Q",
+         "po",
+         "n",
+         "á",
+         "ó",
+         "e",
+         "C",
+         "i",
+         "é",
+         "pr",
+         "à",
+         "y",
+         "q",
+         "M",
+         "g",
+         "u",
+         "J",
+         "pa",
+         "pm",
+         "S",
+         "d",
+         "h",
+         "pᵃ",
+         "A",
+         "P"
+      ]
+   },
+   {
+      "word": "paro",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 5",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "parto",
+         "pago",
+         "para",
+         "paso"
+      ]
+   },
+   {
+      "word": "ventaj",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 6",
+      "corrected": "ventaja",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "rellos",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 6",
+      "corrected": "ellos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "conoreo",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 6",
+      "corrected": "correo",
+      "probability": 0.0,
+      "suggestions": [
+         "conocer",
+         "conoces"
+      ]
+   },
+   {
+      "word": "dlementos",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 7",
+      "corrected": "elementos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "gurel",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 7",
+      "corrected": "gue",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "mcho",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 8",
+      "corrected": "mucho",
+      "probability": 0.0,
+      "suggestions": [
+         "echo",
+         "mucho"
+      ]
+   },
+   {
+      "word": "pocio",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 9",
+      "corrected": "poco",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "elleos",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 9",
+      "corrected": "ellos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "sabran",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 9",
+      "corrected": "habian",
+      "probability": 0.0,
+      "suggestions": [
+         "ñaban",
+         "seran",
+         "habrían",
+         "habian",
+         "habras",
+         "habían",
+         "salgan"
+      ]
+   },
+   {
+      "word": "valon",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 9",
+      "corrected": "malon",
+      "probability": 0.0,
+      "suggestions": [
+         "malon"
+      ]
+   },
+   {
+      "word": "lapinte",
+      "type": "ADV",
+      "location": "177_2a.xml, line : 10",
+      "corrected": "apunte",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "orici",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 11",
+      "corrected": "oficio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "piemo",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 12",
+      "corrected": "pero",
+      "probability": 0.0,
+      "suggestions": [
+         "tiempo",
+         "puedo",
+         "preso",
+         "piso",
+         "mismo",
+         "pieza",
+         "Mismo",
+         "pido",
+         "viejo"
+      ]
+   },
+   {
+      "word": "hraierse",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 12",
+      "corrected": "haberse",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cangus",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 12",
+      "corrected": "cargos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "hraga",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 12",
+      "corrected": "haga",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "detodos",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 13",
+      "corrected": "todos",
+      "probability": 0.0,
+      "suggestions": [
+         "dejados",
+         "todos",
+         "metidos"
+      ]
+   },
+   {
+      "word": "mdios",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 13",
+      "corrected": "medios",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "hasto",
+      "type": "ADV",
+      "location": "177_2a.xml, line : 13",
+      "corrected": "hasta",
+      "probability": 0.0,
+      "suggestions": [
+         "hasta"
+      ]
+   },
+   {
+      "word": "emperial",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 14",
+      "corrected": "Imperial",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "timetes",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 14",
+      "corrected": "timides",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ques",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 14",
+      "corrected": "que",
+      "probability": 0.0,
+      "suggestions": [
+         "pues",
+         "que"
+      ]
+   },
+   {
+      "word": "carigue",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 15",
+      "corrected": "cacique",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "conrel",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 15",
+      "corrected": "correo",
+      "probability": 0.0,
+      "suggestions": [
+         "correo",
+         "correr"
+      ]
+   },
+   {
+      "word": "nomibre",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 16",
+      "corrected": "nombre",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "carquis",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 16",
+      "corrected": "Maquis",
+      "probability": 0.0,
+      "suggestions": [
+         "Maquis"
+      ]
+   },
+   {
+      "word": "restan",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 16",
+      "corrected": "estan",
+      "probability": 0.0,
+      "suggestions": [
+         "estan"
+      ]
+   },
+   {
+      "word": "corrd",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 19",
+      "corrected": "correo",
+      "probability": 0.0,
+      "suggestions": [
+         "corrido",
+         "correr",
+         "correo",
+         "corto",
+         "corte",
+         "corrᵗᵉ"
+      ]
+   },
+   {
+      "word": "oy",
+      "type": "DET",
+      "location": "177_2a.xml, line : 19",
+      "corrected": "y",
+      "probability": 0.0,
+      "suggestions": [
+         "ob",
+         "doy",
+         "yo",
+         "Hoy",
+         "soy",
+         "o",
+         "y",
+         "hoy"
+      ]
+   },
+   {
+      "word": "ve",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 20",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "Le",
+         "Te",
+         "vez",
+         "ví",
+         "te",
+         "de",
+         "pe",
+         "De",
+         "e",
+         "fe",
+         "Me",
+         "vé",
+         "Se",
+         "vea",
+         "me",
+         "le",
+         "be",
+         "se",
+         "vá",
+         "ue",
+         "va",
+         "ver",
+         "he",
+         "veo"
+      ]
+   },
+   {
+      "word": "recultadros",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 21",
+      "corrected": "resultados",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "sod",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "son",
+      "probability": 0.0,
+      "suggestions": [
+         "sol",
+         "sud",
+         "sed",
+         "son"
+      ]
+   },
+   {
+      "word": "aque",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "que",
+      "probability": 0.0,
+      "suggestions": [
+         "aquí",
+         "jaque",
+         "que",
+         "aquel"
+      ]
+   },
+   {
+      "word": "ppedire",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "pedir",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "aa",
+      "type": "ADV",
+      "location": "177_2a.xml, line : 23",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "ya",
+         "ca",
+         "Ya",
+         "La",
+         "Ha",
+         "ai",
+         "ra",
+         "as",
+         "ha",
+         "pa",
+         "ta",
+         "ma",
+         "ala",
+         "la",
+         "da",
+         "va",
+         "al",
+         "a"
+      ]
+   },
+   {
+      "word": "antordos",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 23",
+      "corrected": "atodos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "paircipal",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 23",
+      "corrected": "principal",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "predir",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "pedir",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "vi",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "i",
+      "probability": 0.0,
+      "suggestions": [
+         "Mi",
+         "vá",
+         "ai",
+         "ci",
+         "va",
+         "ví",
+         "i",
+         "vé",
+         "mi",
+         "Si",
+         "si",
+         "ni"
+      ]
+   },
+   {
+      "word": "fentre",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "entre",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "elos",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "los",
+      "probability": 0.0,
+      "suggestions": [
+         "alos",
+         "delos",
+         "los",
+         "ellos",
+         "rlos",
+         "melos"
+      ]
+   },
+   {
+      "word": "tescan",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "estan",
+      "probability": 0.0,
+      "suggestions": [
+         "estan"
+      ]
+   },
+   {
+      "word": "rs",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 25",
+      "corrected": "es",
+      "probability": 0.0,
+      "suggestions": [
+         "rá",
+         "as",
+         "ro",
+         "Es",
+         "ms",
+         "ra",
+         "s",
+         "r"
+      ]
+   },
+   {
+      "word": "tmna",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 26",
+      "corrected": "una",
+      "probability": 0.0,
+      "suggestions": [
+         "tan",
+         "tinta",
+         "mía",
+         "auna",
+         "ta",
+         "tuya",
+         "cuna",
+         "tenga",
+         "toda",
+         "una",
+         "ma",
+         "tanta",
+         "pena"
+      ]
+   },
+   {
+      "word": "porcion",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 26",
+      "corrected": "posecion",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ftra",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 26",
+      "corrected": "otra",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "puera",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 27",
+      "corrected": "pueda",
+      "probability": 0.0,
+      "suggestions": [
+         "pueda"
+      ]
+   },
+   {
+      "word": "alvanne",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 27",
+      "corrected": "alcance",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "antoridas",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 27",
+      "corrected": "autoridad",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cvi",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 27",
+      "corrected": "ci",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "pare",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 28",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "parte",
+         "padre",
+         "para"
+      ]
+   },
+   {
+      "word": "suresivo",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 28",
+      "corrected": "sucesivo",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "mon",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 28",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "Don",
+         "Con",
+         "mun",
+         "Son",
+         "son"
+      ]
+   },
+   {
+      "word": "toneras",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 29",
+      "corrected": "traeras",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "prerente",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 29",
+      "corrected": "presente",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cion",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 30",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "con"
+      ]
+   },
+   {
+      "word": "pare",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 30",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "parte",
+         "padre",
+         "para"
+      ]
+   },
+   {
+      "word": "resto",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 30",
+      "corrected": "esto",
+      "probability": 0.0,
+      "suggestions": [
+         "esto"
+      ]
+   },
+   {
+      "word": "abusando",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 30",
+      "corrected": "causando",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ron",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "Don",
+         "ro",
+         "Con",
+         "Son",
+         "son"
+      ]
+   },
+   {
+      "word": "cnales",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "cuales",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "dega",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "dela",
+      "probability": 0.0,
+      "suggestions": [
+         "deja",
+         "dela"
+      ]
+   },
+   {
+      "word": "obrraf",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 32",
+      "corrected": "obrar",
+      "probability": 0.0,
+      "suggestions": [
+         "obra"
+      ]
+   },
+   {
+      "word": "dete",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 33",
+      "corrected": "debe",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ecoptar",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 33",
+      "corrected": "contar",
+      "probability": 0.0,
+      "suggestions": [
+         "contar"
+      ]
+   },
+   {
+      "word": "restas",
+      "type": "ADJ",
+      "location": "177_2a.xml, line : 33",
+      "corrected": "estas",
+      "probability": 0.0,
+      "suggestions": [
+         "estas"
+      ]
+   },
+   {
+      "word": "somto",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 34",
+      "corrected": "como",
+      "probability": 0.0,
+      "suggestions": [
+         "solo",
+         "roto",
+         "corto",
+         "Como",
+         "fonto",
+         "sordo",
+         "como"
+      ]
+   },
+   {
+      "word": "tos",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 35",
+      "corrected": "los",
+      "probability": 0.0,
+      "suggestions": [
+         "dos",
+         "to",
+         "Los",
+         "nos",
+         "ntos",
+         "los",
+         "Dos",
+         "vos"
+      ]
+   },
+   {
+      "word": "invios",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 35",
+      "corrected": "indios",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "convienen",
+      "type": "VERB",
+      "location": "177_2a.xml, line : 35",
+      "corrected": "conviene",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "antrega",
+      "type": "NOUN",
+      "location": "177_2a.xml, line : 35",
+      "corrected": "entrega",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Do",
+      "type": "ADP",
+      "location": "168_a.xml, line : 0",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "Don",
+         "Yo",
+         "to",
+         "DE",
+         "lo",
+         "po",
+         "Lo",
+         "ro",
+         "yo",
+         "D",
+         "no",
+         "do",
+         "Dos",
+         "No",
+         "o",
+         "Dⁿ",
+         "De"
+      ]
+   },
+   {
+      "word": "mgro",
+      "type": "ADJ",
+      "location": "168_a.xml, line : 2",
+      "corrected": "moro",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Aporodecho",
+      "type": "VERB",
+      "location": "168_a.xml, line : 3",
+      "corrected": "Aprovecho",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "caludarte",
+      "type": "PRON",
+      "location": "168_a.xml, line : 4",
+      "corrected": "saludarle",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "dho",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 4",
+      "corrected": "dha",
+      "probability": 0.0,
+      "suggestions": [
+         "dha",
+         "dio"
+      ]
+   },
+   {
+      "word": "tuque",
+      "type": "VERB",
+      "location": "168_a.xml, line : 4",
+      "corrected": "buque",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "carabinas",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 5",
+      "corrected": "Carabina",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "nemero",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 5",
+      "corrected": "número",
+      "probability": 0.0,
+      "suggestions": [
+         "numero"
+      ]
+   },
+   {
+      "word": "bando",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 5",
+      "corrected": "mando",
+      "probability": 0.0,
+      "suggestions": [
+         "mando",
+         "ando"
+      ]
+   },
+   {
+      "word": "at",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 7",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "ai",
+         "as",
+         "ta",
+         "al",
+         "a"
+      ]
+   },
+   {
+      "word": "vict",
+      "type": "ADJ",
+      "location": "168_a.xml, line : 9",
+      "corrected": "dice",
+      "probability": 0.0,
+      "suggestions": [
+         "Dicᵉ",
+         "Hice",
+         "vida",
+         "viva",
+         "vista",
+         "Dicᵇ",
+         "vivo",
+         "dice",
+         "vino",
+         "vive",
+         "visto"
+      ]
+   },
+   {
+      "word": "babaro",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 10",
+      "corrected": "pajaro",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "motoneros",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 10",
+      "corrected": "montoneros",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "biero",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 11",
+      "corrected": "bieron",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "resuecto",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 11",
+      "corrected": "respecto",
+      "probability": 0.0,
+      "suggestions": [
+         "resuelto"
+      ]
+   },
+   {
+      "word": "gures",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 12",
+      "corrected": "pues",
+      "probability": 0.0,
+      "suggestions": [
+         "guardes",
+         "guias",
+         "Pues",
+         "pues",
+         "gue",
+         "eres",
+         "tores"
+      ]
+   },
+   {
+      "word": "auemnentar",
+      "type": "VERB",
+      "location": "168_a.xml, line : 12",
+      "corrected": "aumentar",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "evistente",
+      "type": "ADV",
+      "location": "168_a.xml, line : 13",
+      "corrected": "existente",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ejercito",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 13",
+      "corrected": "ejercicio",
+      "probability": 0.0,
+      "suggestions": [
+         "ejércíto",
+         "Ejército"
+      ]
+   },
+   {
+      "word": "crmunicado",
+      "type": "VERB",
+      "location": "168_a.xml, line : 14",
+      "corrected": "comunicado",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "heccion",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 15",
+      "corrected": "accion",
+      "probability": 0.0,
+      "suggestions": [
+         "accion"
+      ]
+   },
+   {
+      "word": "feneral",
+      "type": "ADJ",
+      "location": "168_a.xml, line : 15",
+      "corrected": "General",
+      "probability": 0.0,
+      "suggestions": [
+         "Jeneral"
+      ]
+   },
+   {
+      "word": "predido",
+      "type": "VERB",
+      "location": "168_a.xml, line : 15",
+      "corrected": "pedido",
+      "probability": 0.0,
+      "suggestions": [
+         "perdido"
+      ]
+   },
+   {
+      "word": "aumen",
+      "type": "VERB",
+      "location": "168_a.xml, line : 15",
+      "corrected": "quien",
+      "probability": 0.0,
+      "suggestions": [
+         "aun",
+         "Carmen",
+         "buen"
+      ]
+   },
+   {
+      "word": "batadon",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 16",
+      "corrected": "batallon",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cons",
+      "type": "ADV",
+      "location": "168_a.xml, line : 16",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "nimeno",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 16",
+      "corrected": "número",
+      "probability": 0.0,
+      "suggestions": [
+         "numero"
+      ]
+   },
+   {
+      "word": "sucesos",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 17",
+      "corrected": "suceso",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "tendan",
+      "type": "VERB",
+      "location": "168_a.xml, line : 18",
+      "corrected": "tengan",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "agudar",
+      "type": "VERB",
+      "location": "168_a.xml, line : 19",
+      "corrected": "acudir",
+      "probability": 0.0,
+      "suggestions": [
+         "aguada",
+         "acudir",
+         "guar",
+         "saludar",
+         "agua"
+      ]
+   },
+   {
+      "word": "In",
+      "type": "ADP",
+      "location": "168_a.xml, line : 20",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "En",
+         "un",
+         "IN",
+         "n",
+         "en",
+         "Un"
+      ]
+   },
+   {
+      "word": "ens",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 20",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "en"
+      ]
+   },
+   {
+      "word": "sentido",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 20",
+      "corrected": "tenido",
+      "probability": 0.0,
+      "suggestions": [
+         "tenido",
+         "servido",
+         "benido",
+         "entodo"
+      ]
+   },
+   {
+      "word": "avisame",
+      "type": "VERB",
+      "location": "168_a.xml, line : 20",
+      "corrected": "avisar",
+      "probability": 0.0,
+      "suggestions": [
+         "avisado",
+         "avisar"
+      ]
+   },
+   {
+      "word": "nimero",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 21",
+      "corrected": "número",
+      "probability": 0.0,
+      "suggestions": [
+         "numero"
+      ]
+   },
+   {
+      "word": "impreso",
+      "type": "NOUN",
+      "location": "168_a.xml, line : 23",
+      "corrected": "impuesto",
+      "probability": 0.0,
+      "suggestions": [
+         "impuesto"
+      ]
+   },
+   {
+      "word": "pura",
+      "type": "ADJ",
+      "location": "168_a.xml, line : 23",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "cura",
+         "para"
+      ]
+   },
+   {
+      "word": "deco",
+      "type": "ADJ",
+      "location": "168_a.xml, line : 24",
+      "corrected": "debo",
+      "probability": 0.0,
+      "suggestions": [
+         "dejo",
+         "delo"
+      ]
+   },
+   {
+      "word": "dca",
+      "type": "NUM",
+      "location": "168_a.xml, line : 24",
+      "corrected": "dia",
+      "probability": 0.0,
+      "suggestions": [
+         "ca",
+         "da",
+         "día",
+         "dia"
+      ]
+   },
+   {
+      "word": "ten",
+      "type": "VERB",
+      "location": "168_a.xml, line : 24",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "tan",
+         "den",
+         "en",
+         "Ten"
+      ]
+   },
+   {
+      "word": "estube",
+      "type": "VERB",
+      "location": "164_a.xml, line : 2",
+      "corrected": "estuve",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "descoso",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 3",
+      "corrected": "deseos",
+      "probability": 0.0,
+      "suggestions": [
+         "escaso"
+      ]
+   },
+   {
+      "word": "veslo",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 3",
+      "corrected": "verlo",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "entregarle",
+      "type": "VERB",
+      "location": "164_a.xml, line : 3",
+      "corrected": "entregar",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "senales",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 4",
+      "corrected": "reales",
+      "probability": 0.0,
+      "suggestions": [
+         "legales",
+         "reales"
+      ]
+   },
+   {
+      "word": "tralar",
+      "type": "VERB",
+      "location": "164_a.xml, line : 4",
+      "corrected": "traer",
+      "probability": 0.0,
+      "suggestions": [
+         "trata",
+         "traía",
+         "traer",
+         "gravar"
+      ]
+   },
+   {
+      "word": "acordar",
+      "type": "VERB",
+      "location": "164_a.xml, line : 4",
+      "corrected": "acomodar",
+      "probability": 0.0,
+      "suggestions": [
+         "acordado",
+         "acomodar"
+      ]
+   },
+   {
+      "word": "convenia",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 5",
+      "corrected": "convenga",
+      "probability": 0.0,
+      "suggestions": [
+         "contenia",
+         "convenía"
+      ]
+   },
+   {
+      "word": "na",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 5",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "ya",
+         "ca",
+         "Ya",
+         "ni",
+         "La",
+         "Ha",
+         "n",
+         "no",
+         "ra",
+         "nó",
+         "ha",
+         "ta",
+         "pa",
+         "ma",
+         "la",
+         "Una",
+         "da",
+         "va",
+         "una"
+      ]
+   },
+   {
+      "word": "peude",
+      "type": "VERB",
+      "location": "164_a.xml, line : 6",
+      "corrected": "puede",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "sasas",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 9",
+      "corrected": "casas",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "esanto",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 10",
+      "corrected": "esto",
+      "probability": 0.0,
+      "suggestions": [
+         "asalto",
+         "estando",
+         "tanto",
+         "asunto",
+         "esto"
+      ]
+   },
+   {
+      "word": "viveres",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 10",
+      "corrected": "víveres",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "somo",
+      "type": "AUX",
+      "location": "164_a.xml, line : 10",
+      "corrected": "como",
+      "probability": 0.0,
+      "suggestions": [
+         "Como",
+         "solo"
+      ]
+   },
+   {
+      "word": "bnque",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 11",
+      "corrected": "buque",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cresida",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 11",
+      "corrected": "creido",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "vey",
+      "type": "AUX",
+      "location": "164_a.xml, line : 12",
+      "corrected": "veo",
+      "probability": 0.0,
+      "suggestions": [
+         "vez",
+         "ver",
+         "veo",
+         "ley"
+      ]
+   },
+   {
+      "word": "agrado",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 12",
+      "corrected": "ganado",
+      "probability": 0.0,
+      "suggestions": [
+         "aguada",
+         "ganado",
+         "arriado",
+         "logrado",
+         "jirado",
+         "abrazo",
+         "gradᵒ",
+         "grad"
+      ]
+   },
+   {
+      "word": "hacertes",
+      "type": "DET",
+      "location": "164_a.xml, line : 12",
+      "corrected": "hacerles",
+      "probability": 0.0,
+      "suggestions": [
+         "hacerte"
+      ]
+   },
+   {
+      "word": "guna",
+      "type": "DET",
+      "location": "164_a.xml, line : 13",
+      "corrected": "una",
+      "probability": 0.0,
+      "suggestions": [
+         "una",
+         "auna",
+         "cuna"
+      ]
+   },
+   {
+      "word": "partei",
+      "type": "VERB",
+      "location": "164_a.xml, line : 13",
+      "corrected": "parte",
+      "probability": 0.0,
+      "suggestions": [
+         "parte"
+      ]
+   },
+   {
+      "word": "aucede",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 13",
+      "corrected": "puede",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ello",
+      "type": "PRON",
+      "location": "164_a.xml, line : 13",
+      "corrected": "ellos",
+      "probability": 0.0,
+      "suggestions": [
+         "ella"
+      ]
+   },
+   {
+      "word": "avseme",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 13",
+      "corrected": "seme",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ordenando",
+      "type": "VERB",
+      "location": "164_a.xml, line : 13",
+      "corrected": "ordenado",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "sumero",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 14",
+      "corrected": "numero",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "aune",
+      "type": "VERB",
+      "location": "164_a.xml, line : 16",
+      "corrected": "aun",
+      "probability": 0.0,
+      "suggestions": [
+         "aun"
+      ]
+   },
+   {
+      "word": "rios",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 17",
+      "corrected": "Dios",
+      "probability": 0.0,
+      "suggestions": [
+         "rlos",
+         "Dios",
+         "Rios"
+      ]
+   },
+   {
+      "word": "opera",
+      "type": "VERB",
+      "location": "164_a.xml, line : 17",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "espera",
+         "obra",
+         "otra",
+         "para",
+         "fuera",
+         "podra",
+         "era",
+         "pero"
+      ]
+   },
+   {
+      "word": "costosa",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 18",
+      "corrected": "costoso",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "hasto",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 18",
+      "corrected": "hasta",
+      "probability": 0.0,
+      "suggestions": [
+         "hasta"
+      ]
+   },
+   {
+      "word": "morosa",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 18",
+      "corrected": "amorosas",
+      "probability": 0.0,
+      "suggestions": [
+         "modos",
+         "moro"
+      ]
+   },
+   {
+      "word": "algano",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 18",
+      "corrected": "alguno",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "so",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 19",
+      "corrected": "se",
+      "probability": 0.0,
+      "suggestions": [
+         "yo",
+         "o",
+         "su",
+         "s",
+         "po",
+         "no",
+         "sé",
+         "son",
+         "soy",
+         "No",
+         "si",
+         "Yo",
+         "lo",
+         "Lo",
+         "eso",
+         "do",
+         "sí",
+         "se",
+         "to",
+         "sol"
+      ]
+   },
+   {
+      "word": "tiena",
+      "type": "VERB",
+      "location": "164_a.xml, line : 21",
+      "corrected": "tiene",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "proio",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 21",
+      "corrected": "propio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "dicmpo",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 21",
+      "corrected": "tiempo",
+      "probability": 0.0,
+      "suggestions": [
+         "tiempo"
+      ]
+   },
+   {
+      "word": "tina",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 21",
+      "corrected": "tinta",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "agae",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 21",
+      "corrected": "haga",
+      "probability": 0.0,
+      "suggestions": [
+         "trae",
+         "haga",
+         "hagan",
+         "gue",
+         "ala",
+         "agua",
+         "abe",
+         "pague"
+      ]
+   },
+   {
+      "word": "tugar",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 22",
+      "corrected": "lugar",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "in",
+      "type": "ADP",
+      "location": "164_a.xml, line : 23",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "fin",
+         "En",
+         "un",
+         "sin",
+         "ind",
+         "n",
+         "ir",
+         "i",
+         "en",
+         "Un",
+         "Sin",
+         "Sn"
+      ]
+   },
+   {
+      "word": "espuesto",
+      "type": "ADJ",
+      "location": "164_a.xml, line : 23",
+      "corrected": "expuesto",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "dera",
+      "type": "VERB",
+      "location": "164_a.xml, line : 23",
+      "corrected": "dela",
+      "probability": 0.0,
+      "suggestions": [
+         "deba",
+         "dela",
+         "dura",
+         "deja"
+      ]
+   },
+   {
+      "word": "harer",
+      "type": "VERB",
+      "location": "164_a.xml, line : 24",
+      "corrected": "hacer",
+      "probability": 0.0,
+      "suggestions": [
+         "hacer",
+         "haber"
+      ]
+   },
+   {
+      "word": "Talnda",
+      "type": "NOUN",
+      "location": "164_a.xml, line : 25",
+      "corrected": "manda",
+      "probability": 0.0,
+      "suggestions": [
+         "Saluda",
+         "manda",
+         "salida"
+      ]
+   }
+]
