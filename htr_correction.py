@@ -1,6 +1,5 @@
 import os
 import json
-import re
 
 from tqdm import tqdm
 import spacy
@@ -77,6 +76,7 @@ def ner_geo(word: str):
                     return False
         except KeyError:
             pass
+
 
 def journal_activity(path, file, n, p_word, c_word):
     """
@@ -173,9 +173,25 @@ def word_parsing(frequency, text):
                         else:
                             if dict_sugg["corrected"] is not None:
                                 list_files.append(dict_sugg)
-                    elif token.pos_ != "PROPN":
+                    elif token.pos_ == "PROPN":
                         if ner_geo(str(token)) is False:
-                            print(type(token))
+                            dict_sugg = {
+                                "word": str(token),
+                                "type": str(token.pos_),
+                                "location": str(file) + ", line : " + str(n_line),
+                                "corrected": spell.correction(str(token)) if spell.correction(str(token)) != str(
+                                    token) else None,
+                                "probability": spell.word_usage_frequency(str(token)),
+                                "suggestions": [sugg for sugg in spell.candidates(str(token))][:-1]
+                            }
+
+                            # Registering spellchecker
+                            if dict_sugg["corrected"] is not None and dict_sugg["suggestions"] is None:
+                                dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
+                            # Add suggestion dict
+                            else:
+                                if dict_sugg["corrected"] is not None:
+                                    list_files.append(dict_sugg)
 
 
                 # pour PNOUN geo, regex capture les premieres mots dans dict, si plusieurs resultat utilse la nature en fonction des tokens precedent

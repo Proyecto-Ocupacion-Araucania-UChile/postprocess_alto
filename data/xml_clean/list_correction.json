@@ -1,22 +1,42 @@
 [
    {
+      "word": "Murmin",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 0",
+      "corrected": "Fermin",
+      "probability": 0.0,
+      "suggestions": [
+         "Martin"
+      ]
+   },
+   {
+      "word": "cooel",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 2",
+      "corrected": "coronel",
+      "probability": 0.0,
+      "suggestions": [
+         "comer"
+      ]
+   },
+   {
       "word": "fo",
       "type": "INTJ",
       "location": "179_a.xml, line : 3",
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "Yo",
          "to",
-         "lo",
-         "po",
          "Lo",
-         "ro",
-         "yo",
-         "no",
-         "do",
-         "fe",
          "fé",
+         "yo",
+         "fe",
+         "No",
+         "po",
+         "do",
+         "Yo",
+         "lo",
+         "no",
          "o"
       ]
    },
@@ -29,10 +49,10 @@
       "suggestions": [
          "pm",
          "mí",
-         "ms",
          "mi",
-         "ma",
-         "m"
+         "me",
+         "ms",
+         "ma"
       ]
    },
    {
@@ -42,28 +62,28 @@
       "corrected": "se",
       "probability": 0.0,
       "suggestions": [
-         "bases",
-         "sea",
-         "sus",
-         "les",
-         "meses",
-         "eres",
-         "pases",
-         "ser",
-         "mes",
-         "esos",
-         "tres",
-         "seis",
          "sabes",
-         "pues",
-         "seles",
          "se",
+         "pases",
          "Pues",
-         "Les",
-         "ese",
+         "sea",
+         "tres",
+         "les",
+         "es",
          "asus",
-         "sed",
-         "esas"
+         "eres",
+         "meses",
+         "ese",
+         "esos",
+         "mes",
+         "seles",
+         "pues",
+         "bases",
+         "Les",
+         "ser",
+         "seis",
+         "sus",
+         "sed"
       ]
    },
    {
@@ -73,18 +93,57 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "Yo",
-         "to",
-         "lo",
-         "po",
-         "Lo",
-         "ro",
-         "yo",
-         "no",
-         "C",
-         "do",
          "Con",
+         "to",
+         "Lo",
+         "yo",
+         "No",
+         "po",
+         "do",
+         "C",
+         "Yo",
+         "lo",
+         "no",
          "o"
+      ]
+   },
+   {
+      "word": "Anto",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 3",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "to",
+         "roto",
+         "Antes",
+         "Artᵃ",
+         "punto",
+         "Angol",
+         "ntos",
+         "alto",
+         "fonto",
+         "no",
+         "dato",
+         "Esto",
+         "ando",
+         "uno",
+         "Soto",
+         "Intᵉ",
+         "junto",
+         "Alta",
+         "acto",
+         "tanto"
+      ]
+   },
+   {
+      "word": "senson",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 3",
+      "corrected": "pension",
+      "probability": 0.0,
+      "suggestions": [
+         "pension"
       ]
    },
    {
@@ -94,12 +153,54 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "Don",
-         "to",
-         "tan",
          "Con",
+         "to",
+         "son",
+         "Don",
          "Son",
-         "son"
+         "con"
+      ]
+   },
+   {
+      "word": "pror",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 4",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "prox",
+         "peor"
+      ]
+   },
+   {
+      "word": "com",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 4",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "como"
+      ]
+   },
+   {
+      "word": "us",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 4",
+      "corrected": "su",
+      "probability": 0.0,
+      "suggestions": [
+         "es",
+         "tus",
+         "su",
+         "Tus",
+         "uq",
+         "u",
+         "sus",
+         "ue",
+         "as",
+         "ms",
+         "un",
+         "s"
       ]
    },
    {
@@ -129,10 +230,97 @@
       "suggestions": []
    },
    {
+      "word": "Cas",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 5",
+      "corrected": "las",
+      "probability": 0.0,
+      "suggestions": [
+         "mas",
+         "Las",
+         "las",
+         "as",
+         "Mas",
+         "das"
+      ]
+   },
+   {
       "word": "trocnio",
       "type": "NOUN",
       "location": "179_a.xml, line : 6",
       "corrected": "tonio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "omi",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 6",
+      "corrected": "mi",
+      "probability": 0.0,
+      "suggestions": [
+         "mi"
+      ]
+   },
+   {
+      "word": "Cne",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 6",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "Con",
+         "en",
+         "de",
+         "se",
+         "Una",
+         "una",
+         "2nd",
+         "Que",
+         "ue",
+         "Un",
+         "ni",
+         "ele",
+         "pte",
+         "he",
+         "En",
+         "e",
+         "Te",
+         "den",
+         "Sn",
+         "te",
+         "ind",
+         "fue",
+         "no",
+         "ese",
+         "Ten",
+         "be",
+         "que",
+         "De",
+         "abe",
+         "C",
+         "CIA",
+         "Corne",
+         "Me",
+         "un",
+         "pe",
+         "uno",
+         "Ope",
+         "He",
+         "Le",
+         "le",
+         "n",
+         "fe",
+         "Se",
+         "me",
+         "nó"
+      ]
+   },
+   {
+      "word": "aror",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 7",
+      "corrected": "ardor",
       "probability": 0.0,
       "suggestions": []
    },
@@ -143,11 +331,19 @@
       "corrected": "poder",
       "probability": 0.0,
       "suggestions": [
-         "ind",
-         "indio",
          "idea",
-         "poder"
+         "poder",
+         "ind",
+         "Andes"
       ]
+   },
+   {
+      "word": "sobeeo",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 7",
+      "corrected": "sobre",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "tar",
@@ -156,11 +352,11 @@
       "corrected": "tan",
       "probability": 0.0,
       "suggestions": [
-         "tan",
-         "tr",
+         "tal",
          "dar",
          "ta",
-         "tal"
+         "tan",
+         "tr"
       ]
    },
    {
@@ -170,27 +366,27 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "yo",
-         "Veo",
-         "o",
-         "reo",
-         "po",
-         "e",
-         "no",
          "en",
-         "No",
-         "Yo",
-         "eu",
-         "lo",
-         "Lo",
-         "el",
-         "beo",
-         "eso",
-         "do",
          "to",
-         "ro",
+         "Beo",
+         "do",
+         "Yo",
+         "lo",
+         "eso",
+         "es",
+         "e",
+         "beo",
+         "No",
+         "no",
+         "o",
+         "Veo",
          "veo",
-         "es"
+         "po",
+         "eu",
+         "el",
+         "reo",
+         "ro",
+         "Lo"
       ]
    },
    {
@@ -200,27 +396,27 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "yo",
-         "Veo",
-         "o",
-         "reo",
-         "po",
-         "e",
-         "no",
          "en",
-         "No",
-         "Yo",
-         "eu",
-         "lo",
-         "Lo",
-         "el",
-         "beo",
-         "eso",
-         "do",
          "to",
-         "ro",
+         "Beo",
+         "do",
+         "Yo",
+         "lo",
+         "eso",
+         "es",
+         "e",
+         "beo",
+         "No",
+         "no",
+         "o",
+         "Veo",
          "veo",
-         "es"
+         "po",
+         "eu",
+         "el",
+         "reo",
+         "ro",
+         "Lo"
       ]
    },
    {
@@ -241,15 +437,15 @@
       "probability": 0.0,
       "suggestions": [
          "Ud",
-         "da",
-         "dí",
-         "dⁿ",
-         "dá",
-         "do",
          "de",
-         "U",
          "dé",
-         "d"
+         "dá",
+         "da",
+         "do",
+         "di",
+         "d",
+         "U",
+         "dⁿ"
       ]
    },
    {
@@ -259,31 +455,31 @@
       "corrected": "hacer",
       "probability": 0.0,
       "suggestions": [
-         "bases",
-         "Varas",
-         "darles",
-         "tores",
-         "has",
-         "eres",
-         "hacen",
+         "haberes",
+         "sabes",
          "pases",
          "habras",
-         "darse",
          "haría",
-         "hayas",
-         "haber",
-         "haré",
-         "varas",
+         "Tales",
          "partes",
          "tres",
-         "hará",
-         "haberes",
-         "hayer",
-         "hacer",
-         "males",
+         "Varas",
+         "hayas",
+         "darse",
+         "eres",
          "hace",
-         "azares",
-         "sabes"
+         "hacen",
+         "tores",
+         "hará",
+         "hacer",
+         "darles",
+         "bases",
+         "has",
+         "males",
+         "haré",
+         "hayer",
+         "haber",
+         "azares"
       ]
    },
    {
@@ -293,6 +489,19 @@
       "corrected": "emprender",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "cortri",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 9",
+      "corrected": "contra",
+      "probability": 0.0,
+      "suggestions": [
+         "contra",
+         "corte",
+         "corto",
+         "corta"
+      ]
    },
    {
       "word": "montoncio",
@@ -311,6 +520,23 @@
       "suggestions": []
    },
    {
+      "word": "resfe",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 10",
+      "corrected": "este",
+      "probability": 0.0,
+      "suggestions": [
+         "Oeste",
+         "resma",
+         "este",
+         "resta",
+         "Jefe",
+         "Desde",
+         "desde",
+         "jefe"
+      ]
+   },
+   {
       "word": "ienste",
       "type": "VERB",
       "location": "179_a.xml, line : 10",
@@ -322,15 +548,59 @@
       ]
    },
    {
+      "word": "Gior",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 10",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "mio",
+         "rio",
+         "peor",
+         "Dtor",
+         "Rios",
+         "dio",
+         "jiro",
+         "Bio",
+         "Gob",
+         "ir",
+         "por",
+         "lio",
+         "flor",
+         "Dios"
+      ]
+   },
+   {
+      "word": "bre",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 11",
+      "corrected": "Dbre",
+      "probability": 0.0,
+      "suggestions": [
+         "be",
+         "Nbre",
+         "Obre",
+         "Dbre"
+      ]
+   },
+   {
       "word": "sescor",
       "type": "NOUN",
       "location": "179_a.xml, line : 11",
       "corrected": "secar",
       "probability": 0.0,
       "suggestions": [
-         "sesar",
+         "secos",
          "secar"
       ]
+   },
+   {
+      "word": "hondene",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 12",
+      "corrected": "ordene",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "timo",
@@ -339,40 +609,90 @@
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "todo",
-         "aiso",
-         "sima",
-         "mio",
-         "tuvo",
-         "mismo",
-         "Como",
-         "piso",
-         "afmo",
-         "dio",
-         "último",
-         "tuyo",
-         "sido",
-         "rio",
-         "Bio",
-         "vivo",
-         "hizo",
-         "tomó",
-         "hijo",
-         "tiempo",
-         "jiro",
-         "temor",
-         "teme",
-         "dijo",
-         "Mismo",
-         "como",
-         "lio",
-         "cómo",
          "to",
-         "digo",
-         "migo",
-         "vino",
+         "vivo",
+         "todo",
+         "sido",
          "sino",
-         "pido"
+         "tiempo",
+         "temor",
+         "cómo",
+         "dijo",
+         "tuvo",
+         "Mismo",
+         "digo",
+         "sima",
+         "dio",
+         "pido",
+         "mio",
+         "Spmo",
+         "vino",
+         "último",
+         "como",
+         "aiso",
+         "piso",
+         "rio",
+         "teme",
+         "tomó",
+         "Bio",
+         "hijo",
+         "mismo",
+         "tuyo",
+         "jiro",
+         "migo",
+         "Como",
+         "hizo",
+         "afmo"
+      ]
+   },
+   {
+      "word": "dg",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 12",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "de",
+         "dé",
+         "dá",
+         "da",
+         "do",
+         "di",
+         "d",
+         "dⁿ",
+         "dí"
+      ]
+   },
+   {
+      "word": "bier",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 12",
+      "corrected": "bien",
+      "probability": 0.0,
+      "suggestions": [
+         "bien"
+      ]
+   },
+   {
+      "word": "pu",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 12",
+      "corrected": "su",
+      "probability": 0.0,
+      "suggestions": [
+         "pm",
+         "su",
+         "pr",
+         "u",
+         "Su",
+         "po",
+         "pun",
+         "gu",
+         "pa",
+         "tu",
+         "Tu",
+         "pᵃ",
+         "pe"
       ]
    },
    {
@@ -382,8 +702,8 @@
       "corrected": "esta",
       "probability": 0.0,
       "suggestions": [
-         "resta",
-         "esta"
+         "costa",
+         "resta"
       ]
    },
    {
@@ -393,8 +713,8 @@
       "corrected": "General",
       "probability": 0.0,
       "suggestions": [
-         "Jeneral",
-         "entrar"
+         "entrar",
+         "Jeneral"
       ]
    },
    {
@@ -406,14 +726,89 @@
       "suggestions": []
    },
    {
+      "word": "gua",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 13",
+      "corrected": "gu",
+      "probability": 0.0,
+      "suggestions": [
+         "agua",
+         "gu",
+         "guar",
+         "gue"
+      ]
+   },
+   {
+      "word": "gus",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 13",
+      "corrected": "sus",
+      "probability": 0.0,
+      "suggestions": [
+         "tus",
+         "Tus",
+         "sus",
+         "gu"
+      ]
+   },
+   {
       "word": "nero",
       "type": "NOUN",
       "location": "179_a.xml, line : 14",
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "Enero",
-         "pero"
+         "pero",
+         "negro"
+      ]
+   },
+   {
+      "word": "ign",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 14",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "en",
+         "Con",
+         "fin",
+         "Un",
+         "son",
+         "ni",
+         "con",
+         "San",
+         "gu",
+         "iba",
+         "mun",
+         "digna",
+         "En",
+         "den",
+         "Sn",
+         "Don",
+         "Son",
+         "iran",
+         "ind",
+         "pun",
+         "iré",
+         "digo",
+         "Sin",
+         "dan",
+         "Ten",
+         "Aun",
+         "i",
+         "tan",
+         "un",
+         "cien",
+         "aun",
+         "ir",
+         "Han",
+         "n",
+         "migo",
+         "sin",
+         "irá",
+         "han",
+         "Tan",
+         "bien"
       ]
    },
    {
@@ -425,22 +820,125 @@
       "suggestions": []
    },
    {
+      "word": "soltr",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 14",
+      "corrected": "solo",
+      "probability": 0.0,
+      "suggestions": [
+         "volar",
+         "sol",
+         "salir",
+         "solo"
+      ]
+   },
+   {
       "word": "ul",
       "type": "NUM",
       "location": "179_a.xml, line : 15",
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "uq",
-         "un",
-         "l",
-         "ue",
-         "u",
-         "el",
-         "él",
          "al",
-         "Al"
+         "l",
+         "uq",
+         "u",
+         "ue",
+         "él",
+         "Al",
+         "El",
+         "un"
       ]
+   },
+   {
+      "word": "nem",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 15",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "en",
+         "de",
+         "se",
+         "Beo",
+         "sea",
+         "ue",
+         "ni",
+         "les",
+         "nos",
+         "del",
+         "es",
+         "he",
+         "e",
+         "Del",
+         "Te",
+         "seme",
+         "den",
+         "beo",
+         "te",
+         "no",
+         "Mei",
+         "ver",
+         "ber",
+         "vea",
+         "Veo",
+         "Ten",
+         "be",
+         "De",
+         "teme",
+         "mes",
+         "veo",
+         "Me",
+         "afm",
+         "pe",
+         "el",
+         "eu",
+         "reo",
+         "pm",
+         "demi",
+         "ley",
+         "Les",
+         "ser",
+         "He",
+         "n",
+         "Le",
+         "le",
+         "sed",
+         "fe",
+         "me",
+         "Se",
+         "nó",
+         "vez"
+      ]
+   },
+   {
+      "word": "tiemepo",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 15",
+      "corrected": "tiempo",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "ter",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 16",
+      "corrected": "te",
+      "probability": 0.0,
+      "suggestions": [
+         "ser",
+         "te",
+         "ver",
+         "tr"
+      ]
+   },
+   {
+      "word": "pevgue",
+      "type": "PROPN",
+      "location": "179_a.xml, line : 16",
+      "corrected": "pague",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "pnto",
@@ -451,10 +949,52 @@
       "suggestions": []
    },
    {
+      "word": "ba",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "Ya",
+         "la",
+         "be",
+         "a",
+         "va",
+         "da",
+         "iba",
+         "Ha",
+         "ta",
+         "pa",
+         "ra",
+         "La",
+         "ya",
+         "ca",
+         "ma"
+      ]
+   },
+   {
       "word": "alguos",
       "type": "DET",
       "location": "177_2a.xml, line : 0",
       "corrected": "algunos",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cho",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "echo",
+      "probability": 0.0,
+      "suggestions": [
+         "echo"
+      ]
+   },
+   {
+      "word": "puerras",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 0",
+      "corrected": "puertas",
       "probability": 0.0,
       "suggestions": []
    },
@@ -465,8 +1005,8 @@
       "corrected": "sin",
       "probability": 0.0,
       "suggestions": [
-         "fin",
-         "afin"
+         "sin",
+         "fin"
       ]
    },
    {
@@ -484,7 +1024,7 @@
       "corrected": "Sirvase",
       "probability": 0.0,
       "suggestions": [
-         "sirva"
+         "Sirvase"
       ]
    },
    {
@@ -494,7 +1034,7 @@
       "corrected": "ellos",
       "probability": 0.0,
       "suggestions": [
-         "alos"
+         "ellos"
       ]
    },
    {
@@ -520,14 +1060,14 @@
       "corrected": "Dios",
       "probability": 0.0,
       "suggestions": [
-         "hijos",
-         "Dios",
-         "finos",
-         "vivo",
-         "visas",
-         "vino",
          "vos",
-         "mismos"
+         "vino",
+         "visas",
+         "vivo",
+         "mismos",
+         "Rios",
+         "finos",
+         "hijos"
       ]
    },
    {
@@ -537,7 +1077,7 @@
       "corrected": "otro",
       "probability": 0.0,
       "suggestions": [
-         "otro"
+         "Mtro"
       ]
    },
    {
@@ -547,7 +1087,23 @@
       "corrected": "dar",
       "probability": 0.0,
       "suggestions": [
-         "dar"
+         "ar"
+      ]
+   },
+   {
+      "word": "lorva",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 2",
+      "corrected": "corta",
+      "probability": 0.0,
+      "suggestions": [
+         "poría",
+         "gloria",
+         "lleva",
+         "Mora",
+         "larga",
+         "corta",
+         "sirva"
       ]
    },
    {
@@ -557,9 +1113,9 @@
       "corrected": "guias",
       "probability": 0.0,
       "suggestions": [
+         "quiso",
          "guias",
-         "quitar",
-         "visas"
+         "quitar"
       ]
    },
    {
@@ -579,6 +1135,33 @@
       "suggestions": []
    },
    {
+      "word": "sen",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 3",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "en",
+         "Ten",
+         "se",
+         "seno",
+         "ser",
+         "den",
+         "sin",
+         "son",
+         "sed",
+         "sean"
+      ]
+   },
+   {
+      "word": "Sestoi",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 3",
+      "corrected": "estoi",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "resuelpe",
       "type": "NOUN",
       "location": "177_2a.xml, line : 3",
@@ -587,17 +1170,27 @@
       "suggestions": []
    },
    {
+      "word": "hauerjo",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 3",
+      "corrected": "hacerlo",
+      "probability": 0.0,
+      "suggestions": [
+         "hacerlo"
+      ]
+   },
+   {
       "word": "prerro",
       "type": "NOUN",
       "location": "177_2a.xml, line : 4",
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "puerto",
-         "Ferro",
+         "pero",
+         "fierro",
          "preso",
-         "precio",
-         "fierro"
+         "puerto",
+         "Ferro"
       ]
    },
    {
@@ -615,16 +1208,16 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "amí",
-         "ai",
          "al",
-         "as",
          "pm",
+         "a",
+         "as",
+         "amí",
          "ami",
-         "ma",
+         "ai",
          "afm",
-         "m",
-         "a"
+         "ma",
+         "ar"
       ]
    },
    {
@@ -634,42 +1227,42 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "l",
-         "D",
-         "B",
-         "Y",
-         "o",
-         "s",
-         "U",
-         "m",
-         "r",
-         "pe",
-         "N",
-         "T",
+         "a",
+         "u",
+         "q",
+         "S",
+         "pa",
          "Q",
-         "po",
-         "n",
-         "á",
-         "ó",
+         "N",
+         "h",
          "e",
-         "C",
-         "i",
-         "é",
-         "pr",
+         "Y",
+         "d",
+         "á",
+         "U",
+         "J",
+         "o",
          "à",
          "y",
-         "q",
+         "pr",
+         "po",
+         "C",
+         "i",
+         "D",
          "M",
-         "g",
-         "u",
-         "J",
-         "pa",
-         "pm",
-         "S",
-         "d",
-         "h",
-         "pᵃ",
+         "r",
+         "é",
+         "s",
          "A",
+         "pe",
+         "T",
+         "pm",
+         "l",
+         "n",
+         "ó",
+         "B",
+         "pᵃ",
+         "g",
          "P"
       ]
    },
@@ -680,10 +1273,20 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "parto",
-         "pago",
+         "pero",
          "para",
-         "paso"
+         "paso",
+         "parto"
+      ]
+   },
+   {
+      "word": "Hv",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 6",
+      "corrected": "He",
+      "probability": 0.0,
+      "suggestions": [
+         "He"
       ]
    },
    {
@@ -709,8 +1312,20 @@
       "corrected": "correo",
       "probability": 0.0,
       "suggestions": [
-         "conocer",
-         "conoces"
+         "conoces",
+         "conocer"
+      ]
+   },
+   {
+      "word": "dod",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 6",
+      "corrected": "dos",
+      "probability": 0.0,
+      "suggestions": [
+         "doy",
+         "dos",
+         "doi"
       ]
    },
    {
@@ -728,6 +1343,19 @@
       "corrected": "gue",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "losha",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 7",
+      "corrected": "los",
+      "probability": 0.0,
+      "suggestions": [
+         "los",
+         "costa",
+         "lista",
+         "cosa"
+      ]
    },
    {
       "word": "mcho",
@@ -763,13 +1391,13 @@
       "corrected": "habian",
       "probability": 0.0,
       "suggestions": [
-         "ñaban",
-         "seran",
-         "habrían",
-         "habian",
          "habras",
-         "habían",
-         "salgan"
+         "habrían",
+         "ñaban",
+         "salgan",
+         "sabrá",
+         "seran",
+         "habian"
       ]
    },
    {
@@ -791,6 +1419,27 @@
       "suggestions": []
    },
    {
+      "word": "fltos",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 11",
+      "corrected": "los",
+      "probability": 0.0,
+      "suggestions": [
+         "los",
+         "éstos",
+         "estos",
+         "rlos",
+         "ntos",
+         "actos",
+         "finos",
+         "alto",
+         "datos",
+         "alos",
+         "faltas",
+         "flor"
+      ]
+   },
+   {
       "word": "orici",
       "type": "ADJ",
       "location": "177_2a.xml, line : 11",
@@ -805,15 +1454,15 @@
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "tiempo",
-         "puedo",
-         "preso",
-         "piso",
-         "mismo",
          "pieza",
-         "Mismo",
+         "pero",
+         "piso",
+         "preso",
+         "puedo",
+         "mismo",
+         "tiempo",
          "pido",
-         "viejo"
+         "Mismo"
       ]
    },
    {
@@ -847,8 +1496,8 @@
       "corrected": "todos",
       "probability": 0.0,
       "suggestions": [
-         "dejados",
          "todos",
+         "dejados",
          "metidos"
       ]
    },
@@ -867,7 +1516,7 @@
       "corrected": "hasta",
       "probability": 0.0,
       "suggestions": [
-         "hasta"
+         "pasto"
       ]
    },
    {
@@ -887,14 +1536,35 @@
       "suggestions": []
    },
    {
+      "word": "dipartamendto",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 14",
+      "corrected": "departamento",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "cai",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 14",
+      "corrected": "hai",
+      "probability": 0.0,
+      "suggestions": [
+         "hai",
+         "ai",
+         "ca",
+         "cau"
+      ]
+   },
+   {
       "word": "ques",
       "type": "NOUN",
       "location": "177_2a.xml, line : 14",
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
-         "pues",
-         "que"
+         "que",
+         "pues"
       ]
    },
    {
@@ -906,14 +1576,22 @@
       "suggestions": []
    },
    {
+      "word": "Atros",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 15",
+      "corrected": "otros",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "conrel",
       "type": "ADJ",
       "location": "177_2a.xml, line : 15",
       "corrected": "correo",
       "probability": 0.0,
       "suggestions": [
-         "correo",
-         "correr"
+         "correr",
+         "correo"
       ]
    },
    {
@@ -945,6 +1623,178 @@
       ]
    },
    {
+      "word": "bujo",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 16",
+      "corrected": "bajo",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "tasos",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 16",
+      "corrected": "casos",
+      "probability": 0.0,
+      "suggestions": [
+         "pasos"
+      ]
+   },
+   {
+      "word": "ders",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 17",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "debo",
+         "de",
+         "daré",
+         "demis",
+         "dejes",
+         "dejo",
+         "dará",
+         "dejó",
+         "tres",
+         "les",
+         "das",
+         "veré",
+         "seras",
+         "del",
+         "es",
+         "demás",
+         "pero",
+         "detras",
+         "deja",
+         "dos",
+         "dela",
+         "den",
+         "demas",
+         "darse",
+         "serás",
+         "delo",
+         "dar",
+         "eres",
+         "ver",
+         "era",
+         "ber",
+         "diré",
+         "delas",
+         "mes",
+         "Perú",
+         "veras",
+         "veas",
+         "será",
+         "desu",
+         "duró",
+         "dura",
+         "debe",
+         "verá",
+         "demi",
+         "Les",
+         "seis",
+         "días",
+         "ser",
+         "dias",
+         "debes",
+         "deba",
+         "delos"
+      ]
+   },
+   {
+      "word": "dnche",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 17",
+      "corrected": "dice",
+      "probability": 0.0,
+      "suggestions": [
+         "noche",
+         "dicho",
+         "anoche",
+         "ancho",
+         "dice",
+         "doce",
+         "dicha"
+      ]
+   },
+   {
+      "word": "sero",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 17",
+      "corrected": "pero",
+      "probability": 0.0,
+      "suggestions": [
+         "pero",
+         "seno",
+         "ser",
+         "selo",
+         "serio"
+      ]
+   },
+   {
+      "word": "God",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 17",
+      "corrected": "Gob",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "dil",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 18",
+      "corrected": "del",
+      "probability": 0.0,
+      "suggestions": [
+         "dile",
+         "mil",
+         "dia",
+         "di",
+         "Jil",
+         "dél",
+         "dio",
+         "dió"
+      ]
+   },
+   {
+      "word": "onten",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 18",
+      "corrected": "orden",
+      "probability": 0.0,
+      "suggestions": [
+         "antes",
+         "Intend",
+         "Antes",
+         "Tolten",
+         "orden"
+      ]
+   },
+   {
+      "word": "eta",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 18",
+      "corrected": "esta",
+      "probability": 0.0,
+      "suggestions": [
+         "ta",
+         "esa",
+         "esta"
+      ]
+   },
+   {
+      "word": "pud",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 18",
+      "corrected": "pudo",
+      "probability": 0.0,
+      "suggestions": [
+         "pun",
+         "Sud",
+         "pudo"
+      ]
+   },
+   {
       "word": "corrd",
       "type": "NOUN",
       "location": "177_2a.xml, line : 19",
@@ -954,9 +1804,19 @@
          "corrido",
          "correr",
          "correo",
-         "corto",
          "corte",
-         "corrᵗᵉ"
+         "corto",
+         "corta"
+      ]
+   },
+   {
+      "word": "sfe",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 19",
+      "corrected": "se",
+      "probability": 0.0,
+      "suggestions": [
+         "se"
       ]
    },
    {
@@ -966,13 +1826,13 @@
       "corrected": "y",
       "probability": 0.0,
       "suggestions": [
-         "ob",
-         "doy",
-         "yo",
          "Hoy",
-         "soy",
-         "o",
          "y",
+         "yo",
+         "boy",
+         "doy",
+         "o",
+         "ob",
          "hoy"
       ]
    },
@@ -983,30 +1843,30 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "Le",
-         "Te",
-         "vez",
-         "ví",
-         "te",
          "de",
-         "pe",
-         "De",
-         "e",
-         "fe",
-         "Me",
-         "vé",
-         "Se",
-         "vea",
-         "me",
-         "le",
-         "be",
          "se",
-         "vá",
          "ue",
+         "he",
+         "e",
+         "Te",
+         "te",
          "va",
          "ver",
-         "he",
-         "veo"
+         "vea",
+         "be",
+         "De",
+         "veo",
+         "vé",
+         "Me",
+         "pe",
+         "He",
+         "Le",
+         "le",
+         "fe",
+         "Se",
+         "me",
+         "vá",
+         "ví"
       ]
    },
    {
@@ -1018,16 +1878,45 @@
       "suggestions": []
    },
    {
+      "word": "quiends",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 21",
+      "corrected": "quienes",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "tor",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 21",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "to",
+         "Dtor",
+         "por",
+         "tr"
+      ]
+   },
+   {
+      "word": "Diod",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 21",
+      "corrected": "Dios",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "sod",
       "type": "NOUN",
       "location": "177_2a.xml, line : 22",
       "corrected": "son",
       "probability": 0.0,
       "suggestions": [
-         "sol",
          "sud",
-         "sed",
-         "son"
+         "sol",
+         "son",
+         "sed"
       ]
    },
    {
@@ -1037,10 +1926,10 @@
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
-         "aquí",
-         "jaque",
          "que",
-         "aquel"
+         "aqui",
+         "jaque",
+         "aquí"
       ]
    },
    {
@@ -1052,30 +1941,93 @@
       "suggestions": []
    },
    {
+      "word": "juerra",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "guerra",
+      "probability": 0.0,
+      "suggestions": [
+         "guerra"
+      ]
+   },
+   {
+      "word": "pare",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "para",
+      "probability": 0.0,
+      "suggestions": [
+         "padre",
+         "para",
+         "parte"
+      ]
+   },
+   {
+      "word": "haceric",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "hacer",
+      "probability": 0.0,
+      "suggestions": [
+         "hacer",
+         "hacerle",
+         "hacerte",
+         "hacerlo"
+      ]
+   },
+   {
+      "word": "ric",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 22",
+      "corrected": "rio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "aa",
       "type": "ADV",
       "location": "177_2a.xml, line : 23",
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "ya",
-         "ca",
-         "Ya",
-         "La",
-         "Ha",
-         "ai",
-         "ra",
-         "as",
-         "ha",
-         "pa",
-         "ta",
-         "ma",
-         "ala",
          "la",
-         "da",
+         "a",
+         "pa",
+         "ca",
          "va",
+         "ra",
+         "ma",
+         "ar",
+         "Ya",
+         "ala",
+         "Ha",
+         "ta",
+         "La",
          "al",
-         "a"
+         "as",
+         "da",
+         "ya",
+         "ai"
+      ]
+   },
+   {
+      "word": "qu",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 23",
+      "corrected": "que",
+      "probability": 0.0,
+      "suggestions": [
+         "qᵉ",
+         "qué",
+         "que",
+         "su",
+         "uq",
+         "u",
+         "q",
+         "Su",
+         "gu",
+         "tu",
+         "Tu"
       ]
    },
    {
@@ -1095,6 +2047,19 @@
       "suggestions": []
    },
    {
+      "word": "im",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 23",
+      "corrected": "i",
+      "probability": 0.0,
+      "suggestions": [
+         "pm",
+         "i",
+         "mi",
+         "ir"
+      ]
+   },
+   {
       "word": "predir",
       "type": "VERB",
       "location": "177_2a.xml, line : 24",
@@ -1109,18 +2074,18 @@
       "corrected": "i",
       "probability": 0.0,
       "suggestions": [
-         "Mi",
          "vá",
-         "ai",
-         "ci",
          "va",
-         "ví",
-         "i",
+         "ni",
+         "di",
          "vé",
+         "i",
+         "si",
+         "ai",
+         "ví",
          "mi",
          "Si",
-         "si",
-         "ni"
+         "ci"
       ]
    },
    {
@@ -1138,12 +2103,29 @@
       "corrected": "los",
       "probability": 0.0,
       "suggestions": [
-         "alos",
-         "delos",
+         "esos",
          "los",
-         "ellos",
+         "melos",
+         "delos",
          "rlos",
-         "melos"
+         "alos"
+      ]
+   },
+   {
+      "word": "est",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "este",
+      "probability": 0.0,
+      "suggestions": [
+         "es",
+         "está",
+         "este",
+         "esta",
+         "esa",
+         "eso",
+         "esto",
+         "esté"
       ]
    },
    {
@@ -1153,7 +2135,27 @@
       "corrected": "estan",
       "probability": 0.0,
       "suggestions": [
-         "estan"
+         "tengan"
+      ]
+   },
+   {
+      "word": "prade",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 24",
+      "corrected": "puede",
+      "probability": 0.0,
+      "suggestions": [
+         "tarde",
+         "traje",
+         "pase",
+         "pide",
+         "padre",
+         "grad",
+         "Pradel",
+         "puede",
+         "gradᵒ",
+         "trae",
+         "grande"
       ]
    },
    {
@@ -1163,14 +2165,39 @@
       "corrected": "es",
       "probability": 0.0,
       "suggestions": [
-         "rá",
+         "es",
          "as",
-         "ro",
-         "Es",
+         "rá",
          "ms",
+         "r",
          "ra",
          "s",
-         "r"
+         "Es"
+      ]
+   },
+   {
+      "word": "frbles",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 25",
+      "corrected": "sables",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "can",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 25",
+      "corrected": "con",
+      "probability": 0.0,
+      "suggestions": [
+         "dan",
+         "con",
+         "han",
+         "San",
+         "tan",
+         "Tan",
+         "ca",
+         "cau"
       ]
    },
    {
@@ -1180,19 +2207,19 @@
       "corrected": "una",
       "probability": 0.0,
       "suggestions": [
-         "tan",
-         "tinta",
-         "mía",
-         "auna",
-         "ta",
-         "tuya",
+         "pena",
          "cuna",
-         "tenga",
-         "toda",
+         "Una",
          "una",
-         "ma",
+         "tuya",
+         "tinta",
          "tanta",
-         "pena"
+         "toda",
+         "mía",
+         "ta",
+         "tan",
+         "tenga",
+         "auna"
       ]
    },
    {
@@ -1204,12 +2231,49 @@
       "suggestions": []
    },
    {
+      "word": "qu",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 26",
+      "corrected": "que",
+      "probability": 0.0,
+      "suggestions": [
+         "qᵉ",
+         "qué",
+         "que",
+         "su",
+         "uq",
+         "u",
+         "q",
+         "Su",
+         "gu",
+         "tu",
+         "Tu"
+      ]
+   },
+   {
       "word": "ftra",
       "type": "VERB",
       "location": "177_2a.xml, line : 26",
       "corrected": "otra",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "har",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 26",
+      "corrected": "ha",
+      "probability": 0.0,
+      "suggestions": [
+         "hai",
+         "hay",
+         "haré",
+         "ha",
+         "hará",
+         "dar",
+         "han",
+         "ar"
+      ]
    },
    {
       "word": "puera",
@@ -1246,15 +2310,29 @@
       "suggestions": []
    },
    {
+      "word": "tar",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 28",
+      "corrected": "tan",
+      "probability": 0.0,
+      "suggestions": [
+         "tal",
+         "dar",
+         "ta",
+         "tan",
+         "tr"
+      ]
+   },
+   {
       "word": "pare",
       "type": "VERB",
       "location": "177_2a.xml, line : 28",
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "parte",
          "padre",
-         "para"
+         "para",
+         "parte"
       ]
    },
    {
@@ -1272,11 +2350,11 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "Don",
          "Con",
-         "mun",
+         "son",
+         "Don",
          "Son",
-         "son"
+         "con"
       ]
    },
    {
@@ -1286,6 +2364,17 @@
       "corrected": "traeras",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "coro",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 29",
+      "corrected": "como",
+      "probability": 0.0,
+      "suggestions": [
+         "corto",
+         "moro"
+      ]
    },
    {
       "word": "prerente",
@@ -1302,7 +2391,7 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "con"
+         "cien"
       ]
    },
    {
@@ -1312,9 +2401,9 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "parte",
          "padre",
-         "para"
+         "para",
+         "parte"
       ]
    },
    {
@@ -1324,7 +2413,7 @@
       "corrected": "esto",
       "probability": 0.0,
       "suggestions": [
-         "esto"
+         "resta"
       ]
    },
    {
@@ -1336,17 +2425,86 @@
       "suggestions": []
    },
    {
+      "word": "mdie",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 30",
+      "corrected": "de",
+      "probability": 0.0,
+      "suggestions": [
+         "de",
+         "pide",
+         "mis",
+         "nadie",
+         "madre",
+         "mi",
+         "diez",
+         "dio",
+         "mio",
+         "mil",
+         "dia",
+         "di",
+         "mui",
+         "media",
+         "dile",
+         "dió",
+         "mire",
+         "me",
+         "dice"
+      ]
+   },
+   {
       "word": "ron",
       "type": "NOUN",
       "location": "177_2a.xml, line : 31",
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "Don",
-         "ro",
          "Con",
+         "son",
+         "Don",
          "Son",
-         "son"
+         "con"
+      ]
+   },
+   {
+      "word": "sor",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "sur",
+         "ser",
+         "sol",
+         "son",
+         "por",
+         "soy"
+      ]
+   },
+   {
+      "word": "Ind",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "2nd",
+      "probability": 0.0,
+      "suggestions": [
+         "ind"
+      ]
+   },
+   {
+      "word": "Valpan",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 31",
+      "corrected": "Valpᵒ",
+      "probability": 0.0,
+      "suggestions": [
+         "galpón",
+         "galpon",
+         "Valpᵒ",
+         "hallan",
+         "salgan",
+         "faltan",
+         "Valpᵃ"
       ]
    },
    {
@@ -1387,6 +2545,14 @@
       "suggestions": []
    },
    {
+      "word": "jconter",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 33",
+      "corrected": "contar",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "ecoptar",
       "type": "VERB",
       "location": "177_2a.xml, line : 33",
@@ -1407,19 +2573,42 @@
       ]
    },
    {
+      "word": "medi",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 33",
+      "corrected": "media",
+      "probability": 0.0,
+      "suggestions": [
+         "media"
+      ]
+   },
+   {
       "word": "somto",
       "type": "VERB",
       "location": "177_2a.xml, line : 34",
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "solo",
+         "como",
          "roto",
-         "corto",
+         "sordo",
+         "solo",
          "Como",
          "fonto",
-         "sordo",
-         "como"
+         "corto"
+      ]
+   },
+   {
+      "word": "D6",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 34",
+      "corrected": "D",
+      "probability": 0.0,
+      "suggestions": [
+         "De",
+         "Dⁿ",
+         "D",
+         "DE"
       ]
    },
    {
@@ -1429,14 +2618,14 @@
       "corrected": "los",
       "probability": 0.0,
       "suggestions": [
-         "dos",
          "to",
-         "Los",
-         "nos",
-         "ntos",
+         "vos",
+         "tus",
          "los",
-         "Dos",
-         "vos"
+         "dos",
+         "ntos",
+         "nos",
+         "Dos"
       ]
    },
    {
@@ -1456,6 +2645,19 @@
       "suggestions": []
    },
    {
+      "word": "ien",
+      "type": "PROPN",
+      "location": "177_2a.xml, line : 35",
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "en",
+         "Ten",
+         "den",
+         "cien"
+      ]
+   },
+   {
       "word": "antrega",
       "type": "NOUN",
       "location": "177_2a.xml, line : 35",
@@ -1470,23 +2672,49 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "Don",
-         "Yo",
          "to",
-         "DE",
-         "lo",
-         "po",
          "Lo",
-         "ro",
+         "Dˢ",
          "yo",
-         "D",
-         "no",
-         "do",
-         "Dos",
+         "De",
+         "Don",
          "No",
-         "o",
+         "po",
+         "do",
+         "Yo",
+         "D",
+         "lo",
          "Dⁿ",
-         "De"
+         "no",
+         "o",
+         "DE",
+         "Dos"
+      ]
+   },
+   {
+      "word": "Mauriio",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 0",
+      "corrected": "Mauricio",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Aauco",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 1",
+      "corrected": "Arauco",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Gueredo",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 2",
+      "corrected": "querido",
+      "probability": 0.0,
+      "suggestions": [
+         "Querido"
       ]
    },
    {
@@ -1504,6 +2732,16 @@
       "corrected": "Aprovecho",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "Salidta",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 3",
+      "corrected": "salida",
+      "probability": 0.0,
+      "suggestions": [
+         "Saluda"
+      ]
    },
    {
       "word": "caludarte",
@@ -1547,7 +2785,7 @@
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "numero"
+         "número"
       ]
    },
    {
@@ -1557,8 +2795,107 @@
       "corrected": "mando",
       "probability": 0.0,
       "suggestions": [
-         "mando",
+         "dando",
          "ando"
+      ]
+   },
+   {
+      "word": "Ceras",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 6",
+      "corrected": "seras",
+      "probability": 0.0,
+      "suggestions": [
+         "veras"
+      ]
+   },
+   {
+      "word": "Sor",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 6",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "Sur",
+         "Soi",
+         "Sr",
+         "Son",
+         "Sñr",
+         "por"
+      ]
+   },
+   {
+      "word": "Bay",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 6",
+      "corrected": "hay",
+      "probability": 0.0,
+      "suggestions": [
+         "hay"
+      ]
+   },
+   {
+      "word": "Co",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 6",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "Con",
+         "to",
+         "Lo",
+         "yo",
+         "No",
+         "po",
+         "do",
+         "C",
+         "Yo",
+         "lo",
+         "no",
+         "o"
+      ]
+   },
+   {
+      "word": "mel",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 7",
+      "corrected": "el",
+      "probability": 0.0,
+      "suggestions": [
+         "Del",
+         "mes",
+         "mil",
+         "me",
+         "mal",
+         "melo",
+         "el"
+      ]
+   },
+   {
+      "word": "tine",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 7",
+      "corrected": "tiene",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "encarjo",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 7",
+      "corrected": "encargo",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "envire",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 7",
+      "corrected": "entre",
+      "probability": 0.0,
+      "suggestions": [
+         "entre",
+         "enviarse"
       ]
    },
    {
@@ -1568,11 +2905,11 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "ai",
+         "al",
+         "a",
          "as",
          "ta",
-         "al",
-         "a"
+         "ai"
       ]
    },
    {
@@ -1583,16 +2920,16 @@
       "probability": 0.0,
       "suggestions": [
          "Dicᵉ",
-         "Hice",
-         "vida",
+         "vino",
          "viva",
+         "vivo",
+         "hice",
+         "Hice",
          "vista",
          "Dicᵇ",
-         "vivo",
+         "vida",
          "dice",
-         "vino",
-         "vive",
-         "visto"
+         "vive"
       ]
    },
    {
@@ -1636,13 +2973,13 @@
       "corrected": "pues",
       "probability": 0.0,
       "suggestions": [
-         "guardes",
-         "guias",
+         "tores",
          "Pues",
-         "pues",
-         "gue",
+         "tres",
+         "guias",
          "eres",
-         "tores"
+         "guardes",
+         "pues"
       ]
    },
    {
@@ -1673,12 +3010,51 @@
       ]
    },
    {
+      "word": "Sispongo",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 13",
+      "corrected": "disponga",
+      "probability": 0.0,
+      "suggestions": [
+         "Disponga"
+      ]
+   },
+   {
       "word": "crmunicado",
       "type": "VERB",
       "location": "168_a.xml, line : 14",
       "corrected": "comunicado",
       "probability": 0.0,
       "suggestions": []
+   },
+   {
+      "word": "So",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 14",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "to",
+         "do",
+         "S",
+         "Yo",
+         "lo",
+         "Sn",
+         "Son",
+         "No",
+         "no",
+         "o",
+         "Sⁿ",
+         "Soi",
+         "Sr",
+         "po",
+         "ro",
+         "Lo",
+         "yo",
+         "Se",
+         "Su",
+         "SS"
+      ]
    },
    {
       "word": "heccion",
@@ -1717,9 +3093,23 @@
       "corrected": "quien",
       "probability": 0.0,
       "suggestions": [
-         "aun",
-         "Carmen",
-         "buen"
+         "quien",
+         "buen",
+         "Carmen"
+      ]
+   },
+   {
+      "word": "tar",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 16",
+      "corrected": "tan",
+      "probability": 0.0,
+      "suggestions": [
+         "tal",
+         "dar",
+         "ta",
+         "tan",
+         "tr"
       ]
    },
    {
@@ -1745,7 +3135,7 @@
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "numero"
+         "número"
       ]
    },
    {
@@ -1765,17 +3155,42 @@
       "suggestions": []
    },
    {
+      "word": "quesbo",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 18",
+      "corrected": "puesto",
+      "probability": 0.0,
+      "suggestions": [
+         "quedo",
+         "quiso"
+      ]
+   },
+   {
+      "word": "ess",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 19",
+      "corrected": "es",
+      "probability": 0.0,
+      "suggestions": [
+         "es",
+         "esos",
+         "esas",
+         "esa",
+         "eso"
+      ]
+   },
+   {
       "word": "agudar",
       "type": "VERB",
       "location": "168_a.xml, line : 19",
       "corrected": "acudir",
       "probability": 0.0,
       "suggestions": [
-         "aguada",
+         "agua",
          "acudir",
-         "guar",
          "saludar",
-         "agua"
+         "guar",
+         "ayudan"
       ]
    },
    {
@@ -1785,12 +3200,12 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "En",
-         "un",
-         "IN",
-         "n",
          "en",
-         "Un"
+         "En",
+         "n",
+         "Un",
+         "Sn",
+         "un"
       ]
    },
    {
@@ -1800,7 +3215,7 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en"
+         "es"
       ]
    },
    {
@@ -1810,10 +3225,10 @@
       "corrected": "tenido",
       "probability": 0.0,
       "suggestions": [
-         "tenido",
-         "servido",
          "benido",
-         "entodo"
+         "venido",
+         "entodo",
+         "servido"
       ]
    },
    {
@@ -1828,13 +3243,41 @@
       ]
    },
    {
+      "word": "dtare",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 21",
+      "corrected": "dar",
+      "probability": 0.0,
+      "suggestions": [
+         "darle",
+         "Otbre",
+         "tarde",
+         "daré",
+         "darse",
+         "dale",
+         "dar",
+         "dará"
+      ]
+   },
+   {
       "word": "nimero",
       "type": "NOUN",
       "location": "168_a.xml, line : 21",
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "numero"
+         "número"
+      ]
+   },
+   {
+      "word": "bur",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 22",
+      "corrected": "Sur",
+      "probability": 0.0,
+      "suggestions": [
+         "sur",
+         "ber"
       ]
    },
    {
@@ -1844,7 +3287,7 @@
       "corrected": "impuesto",
       "probability": 0.0,
       "suggestions": [
-         "impuesto"
+         "preso"
       ]
    },
    {
@@ -1854,9 +3297,17 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "cura",
-         "para"
+         "dura",
+         "cura"
       ]
+   },
+   {
+      "word": "Cimpongas",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 24",
+      "corrected": "dispongas",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "deco",
@@ -1865,7 +3316,7 @@
       "corrected": "debo",
       "probability": 0.0,
       "suggestions": [
-         "dejo",
+         "debo",
          "delo"
       ]
    },
@@ -1876,10 +3327,10 @@
       "corrected": "dia",
       "probability": 0.0,
       "suggestions": [
-         "ca",
-         "da",
+         "dha",
          "día",
-         "dia"
+         "dia",
+         "da"
       ]
    },
    {
@@ -1889,17 +3340,92 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "tan",
-         "den",
          "en",
-         "Ten"
+         "Ten",
+         "den",
+         "te"
       ]
+   },
+   {
+      "word": "Valpardiso",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 25",
+      "corrected": "Valparaiso",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Noriembre",
+      "type": "PROPN",
+      "location": "168_a.xml, line : 25",
+      "corrected": "Noviembre",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Sor",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 0",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "Sur",
+         "Soi",
+         "Sr",
+         "Son",
+         "Sñr",
+         "por"
+      ]
+   },
+   {
+      "word": "Sarbosa",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 0",
+      "corrected": "Barbosa",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Raypu",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 1",
+      "corrected": "Maipu",
+      "probability": 0.0,
+      "suggestions": [
+         "Maipu"
+      ]
+   },
+   {
+      "word": "Prreciado",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 2",
+      "corrected": "apreciado",
+      "probability": 0.0,
+      "suggestions": [
+         "apreciado"
+      ]
+   },
+   {
+      "word": "ayes",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 2",
+      "corrected": "ayer",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "estube",
       "type": "VERB",
       "location": "164_a.xml, line : 2",
       "corrected": "estuve",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "lasgo",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 2",
+      "corrected": "largo",
       "probability": 0.0,
       "suggestions": []
    },
@@ -1936,9 +3462,17 @@
       "corrected": "reales",
       "probability": 0.0,
       "suggestions": [
-         "legales",
-         "reales"
+         "seles",
+         "legales"
       ]
+   },
+   {
+      "word": "aajunto",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 4",
+      "corrected": "adjunto",
+      "probability": 0.0,
+      "suggestions": []
    },
    {
       "word": "tralar",
@@ -1948,9 +3482,9 @@
       "probability": 0.0,
       "suggestions": [
          "trata",
-         "traía",
          "traer",
-         "gravar"
+         "gravar",
+         "traía"
       ]
    },
    {
@@ -1971,7 +3505,7 @@
       "corrected": "convenga",
       "probability": 0.0,
       "suggestions": [
-         "contenia",
+         "convenga",
          "convenía"
       ]
    },
@@ -1982,25 +3516,25 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "ya",
-         "ca",
-         "Ya",
-         "ni",
-         "La",
-         "Ha",
-         "n",
-         "no",
-         "ra",
-         "nó",
-         "ha",
-         "ta",
-         "pa",
-         "ma",
          "la",
          "Una",
-         "da",
+         "una",
+         "a",
+         "ni",
+         "pa",
+         "ca",
          "va",
-         "una"
+         "ra",
+         "no",
+         "ma",
+         "Ya",
+         "Ha",
+         "ta",
+         "La",
+         "n",
+         "da",
+         "nó",
+         "ya"
       ]
    },
    {
@@ -2012,6 +3546,50 @@
       "suggestions": []
    },
    {
+      "word": "hiaber",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 7",
+      "corrected": "haber",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "Sor",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 7",
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "Sur",
+         "Soi",
+         "Sr",
+         "Son",
+         "Sñr",
+         "por"
+      ]
+   },
+   {
+      "word": "Gobunador",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 8",
+      "corrected": "Gobernador",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
+      "word": "encontraria",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 8",
+      "corrected": "encontraba",
+      "probability": 0.0,
+      "suggestions": [
+         "encontrarme",
+         "encontraba",
+         "encontrar",
+         "encontrarse"
+      ]
+   },
+   {
       "word": "sasas",
       "type": "NOUN",
       "location": "164_a.xml, line : 9",
@@ -2020,16 +3598,30 @@
       "suggestions": []
    },
    {
+      "word": "habra",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 9",
+      "corrected": "había",
+      "probability": 0.0,
+      "suggestions": [
+         "habla",
+         "habré",
+         "habras",
+         "había",
+         "habrá"
+      ]
+   },
+   {
       "word": "esanto",
       "type": "NOUN",
       "location": "164_a.xml, line : 10",
       "corrected": "esto",
       "probability": 0.0,
       "suggestions": [
-         "asalto",
-         "estando",
-         "tanto",
+         "cuanto",
          "asunto",
+         "asalto",
+         "tanto",
          "esto"
       ]
    },
@@ -2048,8 +3640,8 @@
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "Como",
-         "solo"
+         "solo",
+         "como"
       ]
    },
    {
@@ -2075,10 +3667,10 @@
       "corrected": "veo",
       "probability": 0.0,
       "suggestions": [
-         "vez",
-         "ver",
+         "ley",
          "veo",
-         "ley"
+         "ver",
+         "vez"
       ]
    },
    {
@@ -2088,14 +3680,25 @@
       "corrected": "ganado",
       "probability": 0.0,
       "suggestions": [
-         "aguada",
-         "ganado",
-         "arriado",
-         "logrado",
-         "jirado",
          "abrazo",
+         "logrado",
+         "grad",
+         "arriado",
          "gradᵒ",
-         "grad"
+         "jirado",
+         "ganado",
+         "atraso"
+      ]
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 12",
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "Ud",
+         "U"
       ]
    },
    {
@@ -2115,9 +3718,9 @@
       "corrected": "una",
       "probability": 0.0,
       "suggestions": [
-         "una",
-         "auna",
-         "cuna"
+         "guía",
+         "cuna",
+         "una"
       ]
    },
    {
@@ -2189,9 +3792,9 @@
       "corrected": "Dios",
       "probability": 0.0,
       "suggestions": [
-         "rlos",
-         "Dios",
-         "Rios"
+         "Rios",
+         "rio",
+         "Dios"
       ]
    },
    {
@@ -2201,14 +3804,14 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
+         "pero",
          "espera",
-         "obra",
-         "otra",
+         "pena",
          "para",
-         "fuera",
          "podra",
-         "era",
-         "pero"
+         "obra",
+         "fuera",
+         "era"
       ]
    },
    {
@@ -2226,7 +3829,7 @@
       "corrected": "hasta",
       "probability": 0.0,
       "suggestions": [
-         "hasta"
+         "pasto"
       ]
    },
    {
@@ -2236,8 +3839,8 @@
       "corrected": "amorosas",
       "probability": 0.0,
       "suggestions": [
-         "modos",
-         "moro"
+         "moro",
+         "modos"
       ]
    },
    {
@@ -2249,32 +3852,53 @@
       "suggestions": []
    },
    {
+      "word": "fasil",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 19",
+      "corrected": "asi",
+      "probability": 0.0,
+      "suggestions": [
+         "asi"
+      ]
+   },
+   {
       "word": "so",
       "type": "NOUN",
       "location": "164_a.xml, line : 19",
       "corrected": "se",
       "probability": 0.0,
       "suggestions": [
-         "yo",
-         "o",
-         "su",
-         "s",
-         "po",
-         "no",
-         "sé",
+         "to",
+         "se",
+         "sol",
          "son",
-         "soy",
-         "No",
-         "si",
+         "do",
          "Yo",
          "lo",
-         "Lo",
          "eso",
-         "do",
          "sí",
-         "se",
-         "to",
-         "sol"
+         "No",
+         "no",
+         "soy",
+         "o",
+         "su",
+         "po",
+         "si",
+         "s",
+         "ro",
+         "Lo",
+         "yo"
+      ]
+   },
+   {
+      "word": "ague",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 20",
+      "corrected": "gue",
+      "probability": 0.0,
+      "suggestions": [
+         "gue",
+         "agua"
       ]
    },
    {
@@ -2312,20 +3936,28 @@
       "suggestions": []
    },
    {
+      "word": "visila",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 21",
+      "corrected": "visita",
+      "probability": 0.0,
+      "suggestions": []
+   },
+   {
       "word": "agae",
       "type": "NOUN",
       "location": "164_a.xml, line : 21",
       "corrected": "haga",
       "probability": 0.0,
       "suggestions": [
-         "trae",
-         "haga",
          "hagan",
-         "gue",
-         "ala",
+         "haga",
          "agua",
+         "ala",
          "abe",
-         "pague"
+         "alas",
+         "pague",
+         "trae"
       ]
    },
    {
@@ -2343,18 +3975,18 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
+         "en",
          "fin",
          "En",
-         "un",
-         "sin",
-         "ind",
          "n",
-         "ir",
-         "i",
-         "en",
          "Un",
-         "Sin",
-         "Sn"
+         "sin",
+         "Sn",
+         "ni",
+         "i",
+         "ind",
+         "un",
+         "ir"
       ]
    },
    {
@@ -2372,10 +4004,34 @@
       "corrected": "dela",
       "probability": 0.0,
       "suggestions": [
-         "deba",
+         "deja",
          "dela",
-         "dura",
-         "deja"
+         "deba",
+         "era"
+      ]
+   },
+   {
+      "word": "bo",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 24",
+      "corrected": "no",
+      "probability": 0.0,
+      "suggestions": [
+         "to",
+         "Lo",
+         "be",
+         "yo",
+         "beo",
+         "No",
+         "po",
+         "do",
+         "boz",
+         "boy",
+         "lo",
+         "Yo",
+         "no",
+         "ob",
+         "o"
       ]
    },
    {
@@ -2385,8 +4041,8 @@
       "corrected": "hacer",
       "probability": 0.0,
       "suggestions": [
-         "hacer",
-         "haber"
+         "haber",
+         "hayer"
       ]
    },
    {
@@ -2397,8 +4053,43 @@
       "probability": 0.0,
       "suggestions": [
          "Saluda",
-         "manda",
+         "anda",
          "salida"
       ]
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 25",
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "Ud",
+         "U"
+      ]
+   },
+   {
+      "word": "S.",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 25",
+      "corrected": "S",
+      "probability": 0.0,
+      "suggestions": [
+         "Sn",
+         "Sr",
+         "Se",
+         "Su",
+         "S",
+         "SS",
+         "Si"
+      ]
+   },
+   {
+      "word": "Escalo",
+      "type": "PROPN",
+      "location": "164_a.xml, line : 26",
+      "corrected": "Escala",
+      "probability": 0.0,
+      "suggestions": []
    }
 ]
