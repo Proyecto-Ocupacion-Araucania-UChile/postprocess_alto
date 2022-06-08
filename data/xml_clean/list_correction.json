@@ -6,7 +6,7 @@
       "corrected": "Fermin",
       "probability": 0.0,
       "suggestions": [
-         "Martin"
+         "Fermin"
       ]
    },
    {
@@ -26,18 +26,18 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "to",
          "Lo",
-         "fé",
-         "yo",
-         "fe",
-         "No",
-         "po",
-         "do",
-         "Yo",
          "lo",
+         "ro",
          "no",
-         "o"
+         "fe",
+         "po",
+         "to",
+         "Yo",
+         "yo",
+         "o",
+         "No",
+         "do"
       ]
    },
    {
@@ -47,12 +47,12 @@
       "corrected": "me",
       "probability": 0.0,
       "suggestions": [
-         "pm",
-         "mí",
-         "mi",
          "me",
+         "mí",
+         "pm",
          "ms",
-         "ma"
+         "ma",
+         "m"
       ]
    },
    {
@@ -62,28 +62,28 @@
       "corrected": "se",
       "probability": 0.0,
       "suggestions": [
-         "sabes",
-         "se",
-         "pases",
-         "Pues",
-         "sea",
-         "tres",
-         "les",
-         "es",
-         "asus",
-         "eres",
-         "meses",
-         "ese",
-         "esos",
-         "mes",
-         "seles",
-         "pues",
-         "bases",
          "Les",
-         "ser",
-         "seis",
+         "sea",
+         "Pues",
+         "seles",
+         "ese",
          "sus",
-         "sed"
+         "esos",
+         "pues",
+         "ser",
+         "eres",
+         "les",
+         "asus",
+         "seis",
+         "es",
+         "mes",
+         "bases",
+         "tres",
+         "sed",
+         "sabes",
+         "esas",
+         "meses",
+         "pases"
       ]
    },
    {
@@ -93,18 +93,18 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
+         "Lo",
+         "lo",
+         "C",
+         "ro",
+         "no",
+         "po",
          "Con",
          "to",
-         "Lo",
-         "yo",
-         "No",
-         "po",
-         "do",
-         "C",
          "Yo",
-         "lo",
-         "no",
-         "o"
+         "yo",
+         "o",
+         "No"
       ]
    },
    {
@@ -115,25 +115,25 @@
       "probability": 0.0,
       "suggestions": [
          "to",
-         "roto",
-         "Antes",
-         "Artᵃ",
-         "punto",
-         "Angol",
-         "ntos",
-         "alto",
-         "fonto",
-         "no",
-         "dato",
          "Esto",
-         "ando",
-         "uno",
+         "Alta",
          "Soto",
+         "uno",
+         "ntos",
+         "esto",
+         "dato",
+         "tanto",
+         "alto",
+         "Antes",
+         "roto",
+         "fonto",
+         "ando",
          "Intᵉ",
          "junto",
-         "Alta",
-         "acto",
-         "tanto"
+         "no",
+         "Angol",
+         "Artᵃ",
+         "acto"
       ]
    },
    {
@@ -155,10 +155,10 @@
       "suggestions": [
          "Con",
          "to",
-         "son",
          "Don",
-         "Son",
-         "con"
+         "son",
+         "con",
+         "tan"
       ]
    },
    {
@@ -168,8 +168,8 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
-         "prox",
-         "peor"
+         "por",
+         "prox"
       ]
    },
    {
@@ -179,7 +179,7 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "como"
+         "con"
       ]
    },
    {
@@ -189,18 +189,18 @@
       "corrected": "su",
       "probability": 0.0,
       "suggestions": [
-         "es",
          "tus",
-         "su",
-         "Tus",
-         "uq",
-         "u",
-         "sus",
+         "es",
          "ue",
-         "as",
-         "ms",
+         "s",
+         "Tus",
+         "sus",
+         "su",
          "un",
-         "s"
+         "ms",
+         "uq",
+         "Es",
+         "u"
       ]
    },
    {
@@ -236,11 +236,11 @@
       "corrected": "las",
       "probability": 0.0,
       "suggestions": [
-         "mas",
+         "has",
          "Las",
          "las",
-         "as",
          "Mas",
+         "as",
          "das"
       ]
    },
@@ -259,7 +259,7 @@
       "corrected": "mi",
       "probability": 0.0,
       "suggestions": [
-         "mi"
+         "ami"
       ]
    },
    {
@@ -269,51 +269,51 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "Con",
-         "en",
-         "de",
-         "se",
-         "Una",
-         "una",
-         "2nd",
-         "Que",
-         "ue",
-         "Un",
-         "ni",
-         "ele",
-         "pte",
-         "he",
-         "En",
-         "e",
-         "Te",
-         "den",
-         "Sn",
-         "te",
-         "ind",
          "fue",
-         "no",
-         "ese",
-         "Ten",
-         "be",
-         "que",
-         "De",
-         "abe",
-         "C",
-         "CIA",
-         "Corne",
-         "Me",
-         "un",
-         "pe",
-         "uno",
-         "Ope",
-         "He",
-         "Le",
-         "le",
-         "n",
-         "fe",
-         "Se",
          "me",
-         "nó"
+         "he",
+         "Un",
+         "gue",
+         "pte",
+         "den",
+         "ese",
+         "Corne",
+         "te",
+         "pe",
+         "Que",
+         "le",
+         "Ope",
+         "CIA",
+         "be",
+         "ni",
+         "fe",
+         "un",
+         "Me",
+         "uno",
+         "He",
+         "n",
+         "abe",
+         "ele",
+         "ue",
+         "que",
+         "C",
+         "Una",
+         "Ten",
+         "En",
+         "Se",
+         "Te",
+         "una",
+         "Sn",
+         "de",
+         "nó",
+         "e",
+         "no",
+         "Con",
+         "2nd",
+         "ind",
+         "De",
+         "Le",
+         "en"
       ]
    },
    {
@@ -331,10 +331,10 @@
       "corrected": "poder",
       "probability": 0.0,
       "suggestions": [
-         "idea",
-         "poder",
+         "indio",
          "ind",
-         "Andes"
+         "Andes",
+         "poder"
       ]
    },
    {
@@ -352,11 +352,11 @@
       "corrected": "tan",
       "probability": 0.0,
       "suggestions": [
-         "tal",
          "dar",
+         "tr",
+         "tal",
          "ta",
-         "tan",
-         "tr"
+         "ar"
       ]
    },
    {
@@ -366,27 +366,27 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "en",
          "to",
-         "Beo",
-         "do",
-         "Yo",
-         "lo",
-         "eso",
-         "es",
-         "e",
-         "beo",
-         "No",
-         "no",
-         "o",
-         "Veo",
          "veo",
+         "do",
+         "beo",
          "po",
-         "eu",
          "el",
+         "eu",
          "reo",
+         "es",
+         "Veo",
+         "lo",
+         "yo",
+         "eso",
+         "e",
+         "Lo",
          "ro",
-         "Lo"
+         "no",
+         "Beo",
+         "Yo",
+         "en",
+         "o"
       ]
    },
    {
@@ -396,27 +396,27 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "en",
          "to",
-         "Beo",
-         "do",
-         "Yo",
-         "lo",
-         "eso",
-         "es",
-         "e",
-         "beo",
-         "No",
-         "no",
-         "o",
-         "Veo",
          "veo",
+         "do",
+         "beo",
          "po",
-         "eu",
          "el",
+         "eu",
          "reo",
+         "es",
+         "Veo",
+         "lo",
+         "yo",
+         "eso",
+         "e",
+         "Lo",
          "ro",
-         "Lo"
+         "no",
+         "Beo",
+         "Yo",
+         "en",
+         "o"
       ]
    },
    {
@@ -426,7 +426,7 @@
       "corrected": "puerto",
       "probability": 0.0,
       "suggestions": [
-         "puerto"
+         "muerto"
       ]
    },
    {
@@ -436,16 +436,16 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "Ud",
-         "de",
-         "dé",
-         "dá",
          "da",
-         "do",
-         "di",
-         "d",
          "U",
-         "dⁿ"
+         "Ud",
+         "di",
+         "dá",
+         "d",
+         "dⁿ",
+         "dí",
+         "dé",
+         "de"
       ]
    },
    {
@@ -455,31 +455,31 @@
       "corrected": "hacer",
       "probability": 0.0,
       "suggestions": [
-         "haberes",
-         "sabes",
-         "pases",
-         "habras",
-         "haría",
-         "Tales",
-         "partes",
-         "tres",
-         "Varas",
-         "hayas",
-         "darse",
-         "eres",
          "hace",
          "hacen",
-         "tores",
-         "hará",
+         "darse",
+         "haría",
+         "males",
+         "varas",
+         "Tales",
          "hacer",
+         "eres",
+         "azares",
+         "haber",
+         "haré",
          "darles",
+         "hayer",
+         "Varas",
+         "hayas",
+         "tores",
          "bases",
          "has",
-         "males",
-         "haré",
-         "hayer",
-         "haber",
-         "azares"
+         "partes",
+         "habras",
+         "tres",
+         "sabes",
+         "hará",
+         "haberes"
       ]
    },
    {
@@ -497,10 +497,10 @@
       "corrected": "contra",
       "probability": 0.0,
       "suggestions": [
-         "contra",
+         "cortar",
          "corte",
          "corto",
-         "corta"
+         "contra"
       ]
    },
    {
@@ -526,14 +526,14 @@
       "corrected": "este",
       "probability": 0.0,
       "suggestions": [
-         "Oeste",
-         "resma",
-         "este",
-         "resta",
          "Jefe",
+         "resma",
          "Desde",
          "desde",
-         "jefe"
+         "resta",
+         "Oeste",
+         "jefe",
+         "ese"
       ]
    },
    {
@@ -543,8 +543,8 @@
       "corrected": "este",
       "probability": 0.0,
       "suggestions": [
-         "este",
-         "Oeste"
+         "Oeste",
+         "gente"
       ]
    },
    {
@@ -554,20 +554,20 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
+         "jiro",
+         "flor",
+         "Bio",
          "mio",
-         "rio",
          "peor",
+         "Gob",
          "Dtor",
+         "Por",
+         "ir",
          "Rios",
          "dio",
-         "jiro",
-         "Bio",
-         "Gob",
-         "ir",
          "por",
-         "lio",
-         "flor",
-         "Dios"
+         "Dios",
+         "lio"
       ]
    },
    {
@@ -578,8 +578,8 @@
       "probability": 0.0,
       "suggestions": [
          "be",
+         "ber",
          "Nbre",
-         "Obre",
          "Dbre"
       ]
    },
@@ -590,7 +590,7 @@
       "corrected": "secar",
       "probability": 0.0,
       "suggestions": [
-         "secos",
+         "sesar",
          "secar"
       ]
    },
@@ -609,40 +609,40 @@
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "to",
-         "vivo",
-         "todo",
-         "sido",
-         "sino",
-         "tiempo",
-         "temor",
-         "cómo",
-         "dijo",
-         "tuvo",
-         "Mismo",
-         "digo",
-         "sima",
-         "dio",
-         "pido",
-         "mio",
-         "Spmo",
-         "vino",
-         "último",
-         "como",
-         "aiso",
-         "piso",
-         "rio",
-         "teme",
-         "tomó",
-         "Bio",
-         "hijo",
          "mismo",
-         "tuyo",
-         "jiro",
+         "Spmo",
+         "to",
+         "como",
+         "sido",
+         "último",
          "migo",
-         "Como",
+         "todo",
+         "lio",
          "hizo",
-         "afmo"
+         "cómo",
+         "tomó",
+         "vino",
+         "teme",
+         "Como",
+         "dio",
+         "temor",
+         "rio",
+         "Mismo",
+         "piso",
+         "afmo",
+         "digo",
+         "dijo",
+         "sino",
+         "sima",
+         "jiro",
+         "vivo",
+         "Bio",
+         "mio",
+         "tiempo",
+         "hijo",
+         "tuvo",
+         "aiso",
+         "pido"
       ]
    },
    {
@@ -652,15 +652,15 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "de",
-         "dé",
-         "dá",
          "da",
-         "do",
          "di",
+         "dá",
+         "g",
          "d",
          "dⁿ",
-         "dí"
+         "dí",
+         "dé",
+         "de"
       ]
    },
    {
@@ -680,19 +680,19 @@
       "corrected": "su",
       "probability": 0.0,
       "suggestions": [
-         "pm",
-         "su",
-         "pr",
-         "u",
-         "Su",
-         "po",
+         "Tu",
+         "eu",
          "pun",
          "gu",
-         "pa",
-         "tu",
-         "Tu",
+         "su",
+         "pr",
+         "pm",
          "pᵃ",
-         "pe"
+         "po",
+         "tu",
+         "u",
+         "pa",
+         "Su"
       ]
    },
    {
@@ -702,8 +702,8 @@
       "corrected": "esta",
       "probability": 0.0,
       "suggestions": [
-         "costa",
-         "resta"
+         "resta",
+         "costa"
       ]
    },
    {
@@ -713,8 +713,8 @@
       "corrected": "General",
       "probability": 0.0,
       "suggestions": [
-         "entrar",
-         "Jeneral"
+         "General",
+         "entrar"
       ]
    },
    {
@@ -732,9 +732,9 @@
       "corrected": "gu",
       "probability": 0.0,
       "suggestions": [
-         "agua",
          "gu",
          "guar",
+         "guía",
          "gue"
       ]
    },
@@ -746,8 +746,8 @@
       "probability": 0.0,
       "suggestions": [
          "tus",
-         "Tus",
          "sus",
+         "Tus",
          "gu"
       ]
    },
@@ -758,8 +758,8 @@
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "pero",
-         "negro"
+         "negro",
+         "pero"
       ]
    },
    {
@@ -769,46 +769,46 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
-         "Con",
-         "fin",
-         "Un",
-         "son",
-         "ni",
-         "con",
-         "San",
-         "gu",
-         "iba",
-         "mun",
-         "digna",
-         "En",
-         "den",
-         "Sn",
-         "Don",
-         "Son",
-         "iran",
-         "ind",
          "pun",
-         "iré",
-         "digo",
-         "Sin",
-         "dan",
-         "Ten",
-         "Aun",
-         "i",
-         "tan",
-         "un",
          "cien",
-         "aun",
-         "ir",
-         "Han",
-         "n",
-         "migo",
-         "sin",
-         "irá",
-         "han",
+         "Un",
+         "Don",
+         "Sin",
          "Tan",
-         "bien"
+         "son",
+         "iba",
+         "bien",
+         "den",
+         "migo",
+         "ni",
+         "Han",
+         "digna",
+         "un",
+         "i",
+         "iran",
+         "Aun",
+         "iré",
+         "dan",
+         "mun",
+         "n",
+         "San",
+         "Son",
+         "digo",
+         "irá",
+         "Ten",
+         "En",
+         "sin",
+         "fin",
+         "ir",
+         "con",
+         "Sn",
+         "g",
+         "gu",
+         "Con",
+         "ind",
+         "aun",
+         "en",
+         "han"
       ]
    },
    {
@@ -827,9 +827,9 @@
       "probability": 0.0,
       "suggestions": [
          "volar",
+         "solo",
          "sol",
-         "salir",
-         "solo"
+         "salir"
       ]
    },
    {
@@ -839,15 +839,15 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "al",
-         "l",
-         "uq",
-         "u",
-         "ue",
          "él",
+         "ue",
+         "un",
+         "al",
          "Al",
+         "uq",
          "El",
-         "un"
+         "el",
+         "l"
       ]
    },
    {
@@ -857,58 +857,58 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "en",
-         "de",
-         "se",
-         "Beo",
-         "sea",
-         "ue",
-         "ni",
-         "les",
-         "nos",
-         "del",
-         "es",
-         "he",
-         "e",
-         "Del",
-         "Te",
-         "seme",
-         "den",
-         "beo",
-         "te",
-         "no",
-         "Mei",
-         "ver",
-         "ber",
-         "vea",
-         "Veo",
-         "Ten",
-         "be",
-         "De",
-         "teme",
-         "mes",
-         "veo",
-         "Me",
-         "afm",
-         "pe",
-         "el",
-         "eu",
-         "reo",
-         "pm",
-         "demi",
-         "ley",
-         "Les",
-         "ser",
-         "He",
-         "n",
-         "Le",
-         "le",
-         "sed",
-         "fe",
          "me",
+         "he",
+         "seme",
+         "veo",
+         "Les",
+         "sea",
+         "den",
+         "pe",
+         "te",
+         "m",
+         "beo",
+         "ni",
+         "be",
+         "le",
+         "fe",
+         "del",
+         "ser",
+         "pm",
+         "el",
+         "Me",
+         "teme",
+         "vea",
+         "He",
+         "eu",
+         "les",
+         "n",
+         "es",
+         "reo",
+         "mes",
+         "Veo",
+         "ue",
+         "Ten",
+         "ley",
+         "demi",
          "Se",
+         "Te",
+         "Del",
          "nó",
-         "vez"
+         "de",
+         "e",
+         "ber",
+         "no",
+         "sed",
+         "Beo",
+         "De",
+         "Le",
+         "Mei",
+         "afm",
+         "nos",
+         "en",
+         "vez",
+         "se"
       ]
    },
    {
@@ -926,10 +926,10 @@
       "corrected": "te",
       "probability": 0.0,
       "suggestions": [
+         "ber",
+         "tr",
          "ser",
-         "te",
-         "ver",
-         "tr"
+         "te"
       ]
    },
    {
@@ -955,21 +955,21 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "Ya",
-         "la",
-         "be",
-         "a",
-         "va",
          "da",
-         "iba",
-         "Ha",
-         "ta",
-         "pa",
-         "ra",
+         "be",
          "La",
+         "ma",
          "ya",
+         "la",
+         "Ha",
+         "Ya",
+         "iba",
+         "a",
+         "pa",
          "ca",
-         "ma"
+         "ha",
+         "ta",
+         "va"
       ]
    },
    {
@@ -1006,7 +1006,7 @@
       "probability": 0.0,
       "suggestions": [
          "sin",
-         "fin"
+         "afin"
       ]
    },
    {
@@ -1034,7 +1034,7 @@
       "corrected": "ellos",
       "probability": 0.0,
       "suggestions": [
-         "ellos"
+         "alos"
       ]
    },
    {
@@ -1060,13 +1060,13 @@
       "corrected": "Dios",
       "probability": 0.0,
       "suggestions": [
-         "vos",
-         "vino",
          "visas",
          "vivo",
          "mismos",
-         "Rios",
+         "vos",
          "finos",
+         "vino",
+         "Rios",
          "hijos"
       ]
    },
@@ -1077,7 +1077,7 @@
       "corrected": "otro",
       "probability": 0.0,
       "suggestions": [
-         "Mtro"
+         "otro"
       ]
    },
    {
@@ -1097,13 +1097,13 @@
       "corrected": "corta",
       "probability": 0.0,
       "suggestions": [
-         "poría",
-         "gloria",
-         "lleva",
+         "llva",
          "Mora",
-         "larga",
+         "lleva",
+         "gloria",
          "corta",
-         "sirva"
+         "sirva",
+         "larga"
       ]
    },
    {
@@ -1113,9 +1113,9 @@
       "corrected": "guias",
       "probability": 0.0,
       "suggestions": [
-         "quiso",
+         "quitar",
          "guias",
-         "quitar"
+         "quiso"
       ]
    },
    {
@@ -1141,16 +1141,16 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
-         "Ten",
-         "se",
-         "seno",
+         "sean",
          "ser",
-         "den",
-         "sin",
-         "son",
          "sed",
-         "sean"
+         "Ten",
+         "son",
+         "sin",
+         "sea",
+         "en",
+         "den",
+         "se"
       ]
    },
    {
@@ -1176,7 +1176,7 @@
       "corrected": "hacerlo",
       "probability": 0.0,
       "suggestions": [
-         "hacerlo"
+         "haberlo"
       ]
    },
    {
@@ -1187,9 +1187,9 @@
       "probability": 0.0,
       "suggestions": [
          "pero",
-         "fierro",
-         "preso",
+         "precio",
          "puerto",
+         "preso",
          "Ferro"
       ]
    },
@@ -1208,15 +1208,15 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
+         "ai",
          "al",
          "pm",
+         "ma",
+         "afm",
          "a",
          "as",
          "amí",
          "ami",
-         "ai",
-         "afm",
-         "ma",
          "ar"
       ]
    },
@@ -1227,43 +1227,43 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "a",
-         "u",
-         "q",
-         "S",
-         "pa",
-         "Q",
-         "N",
-         "h",
-         "e",
-         "Y",
-         "d",
-         "á",
-         "U",
-         "J",
-         "o",
-         "à",
-         "y",
-         "pr",
-         "po",
-         "C",
-         "i",
-         "D",
-         "M",
-         "r",
-         "é",
          "s",
-         "A",
+         "N",
+         "M",
+         "u",
+         "a",
+         "á",
+         "à",
          "pe",
-         "T",
-         "pm",
-         "l",
-         "n",
-         "ó",
+         "r",
+         "J",
+         "m",
          "B",
+         "po",
+         "pm",
          "pᵃ",
+         "l",
+         "i",
+         "S",
+         "n",
+         "T",
+         "P",
+         "Q",
+         "Y",
+         "U",
+         "C",
+         "pr",
+         "d",
+         "é",
+         "h",
+         "A",
          "g",
-         "P"
+         "e",
+         "pa",
+         "D",
+         "o",
+         "ó",
+         "y"
       ]
    },
    {
@@ -1273,10 +1273,10 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "pero",
+         "parto",
          "para",
-         "paso",
-         "parto"
+         "pero",
+         "pago"
       ]
    },
    {
@@ -1286,7 +1286,7 @@
       "corrected": "He",
       "probability": 0.0,
       "suggestions": [
-         "He"
+         "Ha"
       ]
    },
    {
@@ -1312,8 +1312,8 @@
       "corrected": "correo",
       "probability": 0.0,
       "suggestions": [
-         "conoces",
-         "conocer"
+         "conocer",
+         "correo"
       ]
    },
    {
@@ -1324,8 +1324,8 @@
       "probability": 0.0,
       "suggestions": [
          "doy",
-         "dos",
-         "doi"
+         "doi",
+         "dos"
       ]
    },
    {
@@ -1351,9 +1351,9 @@
       "corrected": "los",
       "probability": 0.0,
       "suggestions": [
-         "los",
          "costa",
-         "lista",
+         "Costa",
+         "los",
          "cosa"
       ]
    },
@@ -1365,7 +1365,7 @@
       "probability": 0.0,
       "suggestions": [
          "echo",
-         "mucho"
+         "ocho"
       ]
    },
    {
@@ -1391,13 +1391,13 @@
       "corrected": "habian",
       "probability": 0.0,
       "suggestions": [
+         "habían",
          "habras",
-         "habrían",
-         "ñaban",
-         "salgan",
          "sabrá",
+         "habrían",
          "seran",
-         "habian"
+         "ñaban",
+         "salgan"
       ]
    },
    {
@@ -1407,7 +1407,7 @@
       "corrected": "malon",
       "probability": 0.0,
       "suggestions": [
-         "malon"
+         "valor"
       ]
    },
    {
@@ -1425,18 +1425,18 @@
       "corrected": "los",
       "probability": 0.0,
       "suggestions": [
-         "los",
+         "flor",
          "éstos",
-         "estos",
-         "rlos",
-         "ntos",
          "actos",
+         "los",
+         "ellos",
          "finos",
          "alto",
          "datos",
-         "alos",
          "faltas",
-         "flor"
+         "estos",
+         "rlos",
+         "alos"
       ]
    },
    {
@@ -1454,15 +1454,15 @@
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "pieza",
+         "mismo",
          "pero",
-         "piso",
+         "viejo",
+         "tiempo",
          "preso",
          "puedo",
-         "mismo",
-         "tiempo",
          "pido",
-         "Mismo"
+         "Mismo",
+         "piso"
       ]
    },
    {
@@ -1497,7 +1497,7 @@
       "probability": 0.0,
       "suggestions": [
          "todos",
-         "dejados",
+         "atodos",
          "metidos"
       ]
    },
@@ -1550,10 +1550,10 @@
       "corrected": "hai",
       "probability": 0.0,
       "suggestions": [
-         "hai",
          "ai",
+         "cau",
          "ca",
-         "cau"
+         "hai"
       ]
    },
    {
@@ -1563,8 +1563,8 @@
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
-         "que",
-         "pues"
+         "pues",
+         "Pues"
       ]
    },
    {
@@ -1590,8 +1590,8 @@
       "corrected": "correo",
       "probability": 0.0,
       "suggestions": [
-         "correr",
-         "correo"
+         "correo",
+         "correr"
       ]
    },
    {
@@ -1609,7 +1609,7 @@
       "corrected": "Maquis",
       "probability": 0.0,
       "suggestions": [
-         "Maquis"
+         "charqui"
       ]
    },
    {
@@ -1619,7 +1619,7 @@
       "corrected": "estan",
       "probability": 0.0,
       "suggestions": [
-         "estan"
+         "resta"
       ]
    },
    {
@@ -1637,7 +1637,7 @@
       "corrected": "casos",
       "probability": 0.0,
       "suggestions": [
-         "pasos"
+         "casos"
       ]
    },
    {
@@ -1647,58 +1647,58 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "debo",
-         "de",
+         "dar",
+         "días",
+         "dela",
+         "Les",
+         "delos",
+         "das",
+         "den",
          "daré",
-         "demis",
+         "darse",
+         "desu",
+         "deja",
+         "dias",
+         "verá",
+         "del",
+         "ser",
+         "debes",
+         "veré",
+         "será",
+         "eres",
+         "delo",
+         "veras",
+         "les",
+         "detras",
+         "seis",
+         "verás",
          "dejes",
          "dejo",
-         "dará",
-         "dejó",
-         "tres",
-         "les",
-         "das",
-         "veré",
-         "seras",
-         "del",
          "es",
-         "demás",
-         "pero",
-         "detras",
-         "deja",
-         "dos",
-         "dela",
-         "den",
-         "demas",
-         "darse",
-         "serás",
-         "delo",
-         "dar",
-         "eres",
-         "ver",
-         "era",
-         "ber",
-         "diré",
-         "delas",
          "mes",
-         "Perú",
-         "veras",
-         "veas",
-         "será",
-         "desu",
          "duró",
-         "dura",
-         "debe",
-         "verá",
-         "demi",
-         "Les",
-         "seis",
-         "días",
-         "ser",
-         "dias",
-         "debes",
          "deba",
-         "delos"
+         "demás",
+         "demis",
+         "dura",
+         "serás",
+         "Perú",
+         "demi",
+         "era",
+         "dos",
+         "demas",
+         "delas",
+         "de",
+         "dejó",
+         "debe",
+         "dará",
+         "ber",
+         "tres",
+         "seras",
+         "pero",
+         "diré",
+         "veas",
+         "debo"
       ]
    },
    {
@@ -1708,13 +1708,13 @@
       "corrected": "dice",
       "probability": 0.0,
       "suggestions": [
-         "noche",
-         "dicho",
          "anoche",
+         "dicho",
          "ancho",
-         "dice",
+         "dicha",
+         "decae",
          "doce",
-         "dicha"
+         "noche"
       ]
    },
    {
@@ -1724,11 +1724,11 @@
       "corrected": "pero",
       "probability": 0.0,
       "suggestions": [
-         "pero",
-         "seno",
          "ser",
-         "selo",
-         "serio"
+         "pero",
+         "será",
+         "serio",
+         "selo"
       ]
    },
    {
@@ -1746,14 +1746,14 @@
       "corrected": "del",
       "probability": 0.0,
       "suggestions": [
-         "dile",
-         "mil",
-         "dia",
-         "di",
          "Jil",
+         "del",
+         "dile",
+         "di",
+         "dió",
+         "mil",
          "dél",
-         "dio",
-         "dió"
+         "dio"
       ]
    },
    {
@@ -1763,11 +1763,11 @@
       "corrected": "orden",
       "probability": 0.0,
       "suggestions": [
-         "antes",
          "Intend",
-         "Antes",
          "Tolten",
-         "orden"
+         "Pontón",
+         "antes",
+         "Antes"
       ]
    },
    {
@@ -1777,9 +1777,9 @@
       "corrected": "esta",
       "probability": 0.0,
       "suggestions": [
-         "ta",
-         "esa",
-         "esta"
+         "esta",
+         "era",
+         "esa"
       ]
    },
    {
@@ -1789,9 +1789,9 @@
       "corrected": "pudo",
       "probability": 0.0,
       "suggestions": [
-         "pun",
-         "Sud",
-         "pudo"
+         "pudo",
+         "sud",
+         "Sud"
       ]
    },
    {
@@ -1801,12 +1801,12 @@
       "corrected": "correo",
       "probability": 0.0,
       "suggestions": [
+         "corrᵗᵉ",
          "corrido",
-         "correr",
-         "correo",
          "corte",
          "corto",
-         "corta"
+         "corta",
+         "correr"
       ]
    },
    {
@@ -1826,14 +1826,14 @@
       "corrected": "y",
       "probability": 0.0,
       "suggestions": [
-         "Hoy",
-         "y",
-         "yo",
-         "boy",
          "doy",
-         "o",
+         "soy",
          "ob",
-         "hoy"
+         "hoy",
+         "boy",
+         "Hoy",
+         "yo",
+         "o"
       ]
    },
    {
@@ -1843,30 +1843,30 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "de",
-         "se",
-         "ue",
-         "he",
-         "e",
-         "Te",
-         "te",
-         "va",
-         "ver",
-         "vea",
-         "be",
-         "De",
-         "veo",
-         "vé",
-         "Me",
-         "pe",
-         "He",
-         "Le",
-         "le",
-         "fe",
-         "Se",
          "me",
+         "he",
+         "veo",
+         "va",
+         "pe",
+         "te",
+         "le",
+         "be",
+         "fe",
+         "Me",
+         "ví",
+         "vea",
+         "He",
+         "ue",
+         "Se",
          "vá",
-         "ví"
+         "Te",
+         "de",
+         "e",
+         "De",
+         "Le",
+         "vez",
+         "vé",
+         "se"
       ]
    },
    {
@@ -1892,10 +1892,10 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
+         "tr",
          "to",
          "Dtor",
-         "por",
-         "tr"
+         "Por"
       ]
    },
    {
@@ -1914,9 +1914,9 @@
       "probability": 0.0,
       "suggestions": [
          "sud",
-         "sol",
-         "son",
-         "sed"
+         "soy",
+         "sed",
+         "son"
       ]
    },
    {
@@ -1926,10 +1926,10 @@
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
+         "aquí",
          "que",
-         "aqui",
-         "jaque",
-         "aquí"
+         "aquel",
+         "jaque"
       ]
    },
    {
@@ -1947,7 +1947,7 @@
       "corrected": "guerra",
       "probability": 0.0,
       "suggestions": [
-         "guerra"
+         "Guerra"
       ]
    },
    {
@@ -1957,9 +1957,9 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "padre",
          "para",
-         "parte"
+         "parte",
+         "pase"
       ]
    },
    {
@@ -1969,10 +1969,10 @@
       "corrected": "hacer",
       "probability": 0.0,
       "suggestions": [
-         "hacer",
-         "hacerle",
+         "hacerme",
          "hacerte",
-         "hacerlo"
+         "hacerle",
+         "hacer"
       ]
    },
    {
@@ -1990,24 +1990,24 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "la",
-         "a",
-         "pa",
-         "ca",
-         "va",
-         "ra",
-         "ma",
-         "ar",
-         "Ya",
-         "ala",
-         "Ha",
-         "ta",
-         "La",
-         "al",
-         "as",
          "da",
+         "ma",
          "ya",
-         "ai"
+         "a",
+         "ca",
+         "as",
+         "va",
+         "al",
+         "ala",
+         "la",
+         "Ya",
+         "ar",
+         "ai",
+         "ha",
+         "ra",
+         "Ha",
+         "pa",
+         "ta"
       ]
    },
    {
@@ -2017,17 +2017,17 @@
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
-         "qᵉ",
-         "qué",
+         "Tu",
          "que",
+         "gu",
          "su",
          "uq",
-         "u",
-         "q",
-         "Su",
-         "gu",
          "tu",
-         "Tu"
+         "u",
+         "qᵉ",
+         "Su",
+         "eu",
+         "qué"
       ]
    },
    {
@@ -2055,8 +2055,8 @@
       "suggestions": [
          "pm",
          "i",
-         "mi",
-         "ir"
+         "ir",
+         "m"
       ]
    },
    {
@@ -2074,18 +2074,18 @@
       "corrected": "i",
       "probability": 0.0,
       "suggestions": [
-         "vá",
-         "va",
          "ni",
+         "ai",
          "di",
          "vé",
-         "i",
-         "si",
-         "ai",
-         "ví",
-         "mi",
          "Si",
-         "ci"
+         "mi",
+         "i",
+         "vá",
+         "va",
+         "ví",
+         "Mi",
+         "si"
       ]
    },
    {
@@ -2104,11 +2104,11 @@
       "probability": 0.0,
       "suggestions": [
          "esos",
-         "los",
          "melos",
+         "los",
+         "ellos",
          "delos",
-         "rlos",
-         "alos"
+         "rlos"
       ]
    },
    {
@@ -2118,14 +2118,14 @@
       "corrected": "este",
       "probability": 0.0,
       "suggestions": [
-         "es",
-         "está",
-         "este",
-         "esta",
-         "esa",
-         "eso",
          "esto",
-         "esté"
+         "es",
+         "esa",
+         "está",
+         "esta",
+         "esté",
+         "ese",
+         "eso"
       ]
    },
    {
@@ -2145,17 +2145,17 @@
       "corrected": "puede",
       "probability": 0.0,
       "suggestions": [
+         "trae",
+         "grad",
+         "parte",
+         "gradᵒ",
+         "pide",
+         "puede",
          "tarde",
          "traje",
-         "pase",
-         "pide",
          "padre",
-         "grad",
-         "Pradel",
-         "puede",
-         "gradᵒ",
-         "trae",
-         "grande"
+         "grande",
+         "Pradel"
       ]
    },
    {
@@ -2166,13 +2166,13 @@
       "probability": 0.0,
       "suggestions": [
          "es",
-         "as",
-         "rá",
-         "ms",
-         "r",
-         "ra",
          "s",
-         "Es"
+         "ro",
+         "ms",
+         "Es",
+         "as",
+         "r",
+         "rá"
       ]
    },
    {
@@ -2190,14 +2190,14 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
+         "Han",
+         "Tan",
+         "ca",
          "dan",
          "con",
          "han",
-         "San",
          "tan",
-         "Tan",
-         "ca",
-         "cau"
+         "San"
       ]
    },
    {
@@ -2207,19 +2207,19 @@
       "corrected": "una",
       "probability": 0.0,
       "suggestions": [
-         "pena",
-         "cuna",
-         "Una",
-         "una",
-         "tuya",
          "tinta",
-         "tanta",
+         "pena",
+         "Una",
+         "ma",
          "toda",
-         "mía",
-         "ta",
-         "tan",
+         "tuya",
+         "cuna",
          "tenga",
-         "auna"
+         "una",
+         "ta",
+         "mía",
+         "tanta",
+         "tan"
       ]
    },
    {
@@ -2237,17 +2237,17 @@
       "corrected": "que",
       "probability": 0.0,
       "suggestions": [
-         "qᵉ",
-         "qué",
+         "Tu",
          "que",
+         "gu",
          "su",
          "uq",
-         "u",
-         "q",
-         "Su",
-         "gu",
          "tu",
-         "Tu"
+         "u",
+         "qᵉ",
+         "Su",
+         "eu",
+         "qué"
       ]
    },
    {
@@ -2265,14 +2265,14 @@
       "corrected": "ha",
       "probability": 0.0,
       "suggestions": [
-         "hai",
-         "hay",
+         "has",
          "haré",
+         "dar",
          "ha",
          "hará",
-         "dar",
-         "han",
-         "ar"
+         "hay",
+         "ar",
+         "han"
       ]
    },
    {
@@ -2282,7 +2282,7 @@
       "corrected": "pueda",
       "probability": 0.0,
       "suggestions": [
-         "pueda"
+         "fuera"
       ]
    },
    {
@@ -2316,11 +2316,11 @@
       "corrected": "tan",
       "probability": 0.0,
       "suggestions": [
-         "tal",
          "dar",
+         "tr",
+         "tal",
          "ta",
-         "tan",
-         "tr"
+         "ar"
       ]
    },
    {
@@ -2330,9 +2330,9 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "padre",
          "para",
-         "parte"
+         "parte",
+         "pase"
       ]
    },
    {
@@ -2351,10 +2351,10 @@
       "probability": 0.0,
       "suggestions": [
          "Con",
-         "son",
          "Don",
-         "Son",
-         "con"
+         "son",
+         "con",
+         "mun"
       ]
    },
    {
@@ -2372,8 +2372,8 @@
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "corto",
-         "moro"
+         "moro",
+         "como"
       ]
    },
    {
@@ -2391,7 +2391,7 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "cien"
+         "con"
       ]
    },
    {
@@ -2401,9 +2401,9 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "padre",
          "para",
-         "parte"
+         "parte",
+         "pase"
       ]
    },
    {
@@ -2413,7 +2413,7 @@
       "corrected": "esto",
       "probability": 0.0,
       "suggestions": [
-         "resta"
+         "esto"
       ]
    },
    {
@@ -2431,25 +2431,25 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
-         "de",
-         "pide",
-         "mis",
-         "nadie",
-         "madre",
-         "mi",
-         "diez",
-         "dio",
-         "mio",
-         "mil",
-         "dia",
-         "di",
-         "mui",
-         "media",
-         "dile",
-         "dió",
-         "mire",
          "me",
-         "dice"
+         "di",
+         "media",
+         "nadie",
+         "mis",
+         "dice",
+         "pide",
+         "dio",
+         "dile",
+         "mire",
+         "dió",
+         "mil",
+         "medio",
+         "mui",
+         "de",
+         "mi",
+         "madre",
+         "diez",
+         "mio"
       ]
    },
    {
@@ -2459,10 +2459,10 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
+         "ro",
          "Con",
-         "son",
          "Don",
-         "Son",
+         "son",
          "con"
       ]
    },
@@ -2473,12 +2473,12 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
-         "sur",
+         "soy",
          "ser",
-         "sol",
          "son",
-         "por",
-         "soy"
+         "sol",
+         "Por",
+         "por"
       ]
    },
    {
@@ -2498,13 +2498,13 @@
       "corrected": "Valpᵒ",
       "probability": 0.0,
       "suggestions": [
-         "galpón",
-         "galpon",
-         "Valpᵒ",
-         "hallan",
-         "salgan",
          "faltan",
-         "Valpᵃ"
+         "galpon",
+         "galpón",
+         "Valpᵃ",
+         "salgan",
+         "Valpᵒ",
+         "hallan"
       ]
    },
    {
@@ -2522,7 +2522,7 @@
       "corrected": "dela",
       "probability": 0.0,
       "suggestions": [
-         "deja",
+         "deba",
          "dela"
       ]
    },
@@ -2533,7 +2533,7 @@
       "corrected": "obrar",
       "probability": 0.0,
       "suggestions": [
-         "obra"
+         "obrar"
       ]
    },
    {
@@ -2559,7 +2559,7 @@
       "corrected": "contar",
       "probability": 0.0,
       "suggestions": [
-         "contar"
+         "cortar"
       ]
    },
    {
@@ -2569,7 +2569,7 @@
       "corrected": "estas",
       "probability": 0.0,
       "suggestions": [
-         "estas"
+         "resta"
       ]
    },
    {
@@ -2589,13 +2589,13 @@
       "corrected": "como",
       "probability": 0.0,
       "suggestions": [
-         "como",
-         "roto",
+         "fonto",
          "sordo",
+         "como",
+         "corto",
          "solo",
          "Como",
-         "fonto",
-         "corto"
+         "Soto"
       ]
    },
    {
@@ -2605,10 +2605,10 @@
       "corrected": "D",
       "probability": 0.0,
       "suggestions": [
+         "DE",
          "De",
-         "Dⁿ",
          "D",
-         "DE"
+         "Dˢ"
       ]
    },
    {
@@ -2618,14 +2618,14 @@
       "corrected": "los",
       "probability": 0.0,
       "suggestions": [
-         "to",
-         "vos",
+         "Dos",
          "tus",
+         "to",
          "los",
-         "dos",
-         "ntos",
          "nos",
-         "Dos"
+         "Los",
+         "dos",
+         "vos"
       ]
    },
    {
@@ -2651,10 +2651,10 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
+         "cien",
          "Ten",
-         "den",
-         "cien"
+         "en",
+         "bien"
       ]
    },
    {
@@ -2672,23 +2672,23 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "to",
+         "Dos",
          "Lo",
-         "Dˢ",
-         "yo",
-         "De",
-         "Don",
-         "No",
+         "lo",
+         "ro",
+         "no",
+         "DE",
          "po",
-         "do",
+         "De",
+         "to",
+         "Don",
          "Yo",
          "D",
-         "lo",
-         "Dⁿ",
-         "no",
+         "yo",
          "o",
-         "DE",
-         "Dos"
+         "Dˢ",
+         "No",
+         "do"
       ]
    },
    {
@@ -2758,8 +2758,8 @@
       "corrected": "dha",
       "probability": 0.0,
       "suggestions": [
-         "dha",
-         "dio"
+         "dio",
+         "dha"
       ]
    },
    {
@@ -2785,7 +2785,7 @@
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "número"
+         "numero"
       ]
    },
    {
@@ -2795,8 +2795,8 @@
       "corrected": "mando",
       "probability": 0.0,
       "suggestions": [
-         "dando",
-         "ando"
+         "ando",
+         "mando"
       ]
    },
    {
@@ -2806,7 +2806,7 @@
       "corrected": "seras",
       "probability": 0.0,
       "suggestions": [
-         "veras"
+         "seras"
       ]
    },
    {
@@ -2816,11 +2816,11 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
-         "Sur",
          "Soi",
+         "Sur",
          "Sr",
-         "Son",
          "Sñr",
+         "Por",
          "por"
       ]
    },
@@ -2841,18 +2841,18 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
+         "Lo",
+         "lo",
+         "C",
+         "ro",
+         "no",
+         "po",
          "Con",
          "to",
-         "Lo",
-         "yo",
-         "No",
-         "po",
-         "do",
-         "C",
          "Yo",
-         "lo",
-         "no",
-         "o"
+         "yo",
+         "o",
+         "No"
       ]
    },
    {
@@ -2862,13 +2862,13 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "Del",
          "mes",
-         "mil",
          "me",
-         "mal",
          "melo",
-         "el"
+         "del",
+         "mal",
+         "el",
+         "mil"
       ]
    },
    {
@@ -2905,11 +2905,11 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
+         "ai",
          "al",
          "a",
          "as",
-         "ta",
-         "ai"
+         "ta"
       ]
    },
    {
@@ -2919,17 +2919,17 @@
       "corrected": "dice",
       "probability": 0.0,
       "suggestions": [
-         "Dicᵉ",
-         "vino",
-         "viva",
-         "vivo",
-         "hice",
-         "Hice",
          "vista",
-         "Dicᵇ",
+         "vivo",
+         "viva",
+         "hice",
+         "visto",
+         "vino",
+         "Hice",
          "vida",
-         "dice",
-         "vive"
+         "vive",
+         "Dicᵇ",
+         "dice"
       ]
    },
    {
@@ -2973,13 +2973,13 @@
       "corrected": "pues",
       "probability": 0.0,
       "suggestions": [
-         "tores",
-         "Pues",
          "tres",
-         "guias",
+         "pues",
+         "Pues",
+         "gue",
          "eres",
-         "guardes",
-         "pues"
+         "guias",
+         "tores"
       ]
    },
    {
@@ -3005,8 +3005,8 @@
       "corrected": "ejercicio",
       "probability": 0.0,
       "suggestions": [
-         "ejércíto",
-         "Ejército"
+         "Ejército",
+         "ejercicio"
       ]
    },
    {
@@ -3034,26 +3034,26 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "to",
-         "do",
-         "S",
-         "Yo",
-         "lo",
-         "Sn",
-         "Son",
-         "No",
-         "no",
-         "o",
-         "Sⁿ",
          "Soi",
-         "Sr",
+         "to",
+         "Sⁿ",
+         "do",
          "po",
-         "ro",
-         "Lo",
-         "yo",
+         "Sr",
+         "S",
+         "Son",
+         "SS",
+         "lo",
          "Se",
+         "yo",
          "Su",
-         "SS"
+         "Sn",
+         "Lo",
+         "ro",
+         "no",
+         "Si",
+         "Yo",
+         "o"
       ]
    },
    {
@@ -3093,8 +3093,8 @@
       "corrected": "quien",
       "probability": 0.0,
       "suggestions": [
-         "quien",
          "buen",
+         "quien",
          "Carmen"
       ]
    },
@@ -3105,11 +3105,11 @@
       "corrected": "tan",
       "probability": 0.0,
       "suggestions": [
-         "tal",
          "dar",
+         "tr",
+         "tal",
          "ta",
-         "tan",
-         "tr"
+         "ar"
       ]
    },
    {
@@ -3135,7 +3135,7 @@
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "número"
+         "numero"
       ]
    },
    {
@@ -3174,9 +3174,9 @@
       "suggestions": [
          "es",
          "esos",
-         "esas",
          "esa",
-         "eso"
+         "esas",
+         "ese"
       ]
    },
    {
@@ -3186,11 +3186,11 @@
       "corrected": "acudir",
       "probability": 0.0,
       "suggestions": [
-         "agua",
+         "aguada",
          "acudir",
-         "saludar",
+         "ayudan",
          "guar",
-         "ayudan"
+         "agua"
       ]
    },
    {
@@ -3200,12 +3200,12 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
-         "En",
-         "n",
+         "un",
          "Un",
-         "Sn",
-         "un"
+         "IN",
+         "En",
+         "en",
+         "Sn"
       ]
    },
    {
@@ -3225,10 +3225,10 @@
       "corrected": "tenido",
       "probability": 0.0,
       "suggestions": [
+         "servido",
          "benido",
-         "venido",
-         "entodo",
-         "servido"
+         "tenido",
+         "entodo"
       ]
    },
    {
@@ -3249,14 +3249,14 @@
       "corrected": "dar",
       "probability": 0.0,
       "suggestions": [
-         "darle",
-         "Otbre",
-         "tarde",
-         "daré",
-         "darse",
-         "dale",
+         "trae",
          "dar",
-         "dará"
+         "dale",
+         "dará",
+         "darle",
+         "tarde",
+         "Otbre",
+         "daré"
       ]
    },
    {
@@ -3266,7 +3266,7 @@
       "corrected": "número",
       "probability": 0.0,
       "suggestions": [
-         "número"
+         "numero"
       ]
    },
    {
@@ -3276,8 +3276,8 @@
       "corrected": "Sur",
       "probability": 0.0,
       "suggestions": [
-         "sur",
-         "ber"
+         "Sur",
+         "sur"
       ]
    },
    {
@@ -3287,7 +3287,7 @@
       "corrected": "impuesto",
       "probability": 0.0,
       "suggestions": [
-         "preso"
+         "impuesto"
       ]
    },
    {
@@ -3297,7 +3297,7 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "dura",
+         "para",
          "cura"
       ]
    },
@@ -3316,8 +3316,8 @@
       "corrected": "debo",
       "probability": 0.0,
       "suggestions": [
-         "debo",
-         "delo"
+         "dejo",
+         "debo"
       ]
    },
    {
@@ -3327,10 +3327,10 @@
       "corrected": "dia",
       "probability": 0.0,
       "suggestions": [
-         "dha",
+         "da",
          "día",
-         "dia",
-         "da"
+         "ca",
+         "dha"
       ]
    },
    {
@@ -3340,10 +3340,10 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
+         "te",
          "Ten",
-         "den",
-         "te"
+         "en",
+         "den"
       ]
    },
    {
@@ -3369,11 +3369,11 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
-         "Sur",
          "Soi",
+         "Sur",
          "Sr",
-         "Son",
          "Sñr",
+         "Por",
          "por"
       ]
    },
@@ -3392,7 +3392,7 @@
       "corrected": "Maipu",
       "probability": 0.0,
       "suggestions": [
-         "Maipu"
+         "Maypú"
       ]
    },
    {
@@ -3402,7 +3402,7 @@
       "corrected": "apreciado",
       "probability": 0.0,
       "suggestions": [
-         "apreciado"
+         "Apreciado"
       ]
    },
    {
@@ -3462,7 +3462,7 @@
       "corrected": "reales",
       "probability": 0.0,
       "suggestions": [
-         "seles",
+         "reales",
          "legales"
       ]
    },
@@ -3481,10 +3481,10 @@
       "corrected": "traer",
       "probability": 0.0,
       "suggestions": [
-         "trata",
+         "traía",
          "traer",
-         "gravar",
-         "traía"
+         "atracar",
+         "trata"
       ]
    },
    {
@@ -3494,7 +3494,7 @@
       "corrected": "acomodar",
       "probability": 0.0,
       "suggestions": [
-         "acordado",
+         "cortar",
          "acomodar"
       ]
    },
@@ -3516,25 +3516,25 @@
       "corrected": "a",
       "probability": 0.0,
       "suggestions": [
-         "la",
-         "Una",
-         "una",
+         "da",
+         "ma",
+         "ya",
          "a",
-         "ni",
-         "pa",
          "ca",
          "va",
-         "ra",
-         "no",
-         "ma",
+         "ni",
+         "la",
          "Ya",
-         "Ha",
-         "ta",
-         "La",
          "n",
-         "da",
+         "Una",
+         "ha",
+         "una",
+         "ra",
          "nó",
-         "ya"
+         "no",
+         "Ha",
+         "pa",
+         "ta"
       ]
    },
    {
@@ -3560,11 +3560,11 @@
       "corrected": "por",
       "probability": 0.0,
       "suggestions": [
-         "Sur",
          "Soi",
+         "Sur",
          "Sr",
-         "Son",
          "Sñr",
+         "Por",
          "por"
       ]
    },
@@ -3583,10 +3583,10 @@
       "corrected": "encontraba",
       "probability": 0.0,
       "suggestions": [
+         "encontrarse",
          "encontrarme",
-         "encontraba",
          "encontrar",
-         "encontrarse"
+         "encontraron"
       ]
    },
    {
@@ -3604,11 +3604,11 @@
       "corrected": "había",
       "probability": 0.0,
       "suggestions": [
-         "habla",
+         "habia",
          "habré",
          "habras",
          "había",
-         "habrá"
+         "habla"
       ]
    },
    {
@@ -3618,11 +3618,11 @@
       "corrected": "esto",
       "probability": 0.0,
       "suggestions": [
+         "esto",
+         "tanto",
          "cuanto",
          "asunto",
-         "asalto",
-         "tanto",
-         "esto"
+         "asalto"
       ]
    },
    {
@@ -3641,7 +3641,7 @@
       "probability": 0.0,
       "suggestions": [
          "solo",
-         "como"
+         "Como"
       ]
    },
    {
@@ -3667,10 +3667,10 @@
       "corrected": "veo",
       "probability": 0.0,
       "suggestions": [
-         "ley",
          "veo",
-         "ver",
-         "vez"
+         "ley",
+         "vez",
+         "vea"
       ]
    },
    {
@@ -3680,14 +3680,14 @@
       "corrected": "ganado",
       "probability": 0.0,
       "suggestions": [
-         "abrazo",
-         "logrado",
          "grad",
-         "arriado",
+         "logrado",
+         "aguada",
          "gradᵒ",
-         "jirado",
-         "ganado",
-         "atraso"
+         "abrazo",
+         "arriado",
+         "atraso",
+         "jirado"
       ]
    },
    {
@@ -3697,7 +3697,7 @@
       "corrected": "Ud",
       "probability": 0.0,
       "suggestions": [
-         "Ud",
+         "Un",
          "U"
       ]
    },
@@ -3708,7 +3708,7 @@
       "corrected": "hacerles",
       "probability": 0.0,
       "suggestions": [
-         "hacerte"
+         "hacerles"
       ]
    },
    {
@@ -3718,9 +3718,9 @@
       "corrected": "una",
       "probability": 0.0,
       "suggestions": [
+         "auna",
          "guía",
-         "cuna",
-         "una"
+         "cuna"
       ]
    },
    {
@@ -3782,7 +3782,7 @@
       "corrected": "aun",
       "probability": 0.0,
       "suggestions": [
-         "aun"
+         "auna"
       ]
    },
    {
@@ -3793,8 +3793,8 @@
       "probability": 0.0,
       "suggestions": [
          "Rios",
-         "rio",
-         "Dios"
+         "Dios",
+         "rio"
       ]
    },
    {
@@ -3804,14 +3804,14 @@
       "corrected": "para",
       "probability": 0.0,
       "suggestions": [
-         "pero",
-         "espera",
          "pena",
          "para",
          "podra",
+         "pero",
          "obra",
+         "era",
          "fuera",
-         "era"
+         "espera"
       ]
    },
    {
@@ -3839,8 +3839,8 @@
       "corrected": "amorosas",
       "probability": 0.0,
       "suggestions": [
-         "moro",
-         "modos"
+         "modos",
+         "moro"
       ]
    },
    {
@@ -3858,7 +3858,7 @@
       "corrected": "asi",
       "probability": 0.0,
       "suggestions": [
-         "asi"
+         "fácil"
       ]
    },
    {
@@ -3868,26 +3868,26 @@
       "corrected": "se",
       "probability": 0.0,
       "suggestions": [
-         "to",
-         "se",
-         "sol",
-         "son",
-         "do",
-         "Yo",
-         "lo",
-         "eso",
-         "sí",
-         "No",
-         "no",
-         "soy",
-         "o",
-         "su",
-         "po",
-         "si",
          "s",
-         "ro",
+         "to",
+         "son",
+         "sol",
+         "do",
+         "po",
+         "sí",
+         "lo",
+         "soy",
+         "yo",
+         "eso",
+         "si",
          "Lo",
-         "yo"
+         "ro",
+         "no",
+         "su",
+         "sé",
+         "Yo",
+         "o",
+         "No"
       ]
    },
    {
@@ -3897,8 +3897,8 @@
       "corrected": "gue",
       "probability": 0.0,
       "suggestions": [
-         "gue",
-         "agua"
+         "pague",
+         "gue"
       ]
    },
    {
@@ -3924,7 +3924,7 @@
       "corrected": "tiempo",
       "probability": 0.0,
       "suggestions": [
-         "tiempo"
+         "dicho"
       ]
    },
    {
@@ -3950,14 +3950,14 @@
       "corrected": "haga",
       "probability": 0.0,
       "suggestions": [
+         "trae",
+         "pague",
+         "ala",
+         "gue",
          "hagan",
          "haga",
-         "agua",
-         "ala",
-         "abe",
          "alas",
-         "pague",
-         "trae"
+         "agua"
       ]
    },
    {
@@ -3975,18 +3975,18 @@
       "corrected": "en",
       "probability": 0.0,
       "suggestions": [
-         "en",
-         "fin",
-         "En",
-         "n",
-         "Un",
-         "sin",
-         "Sn",
          "ni",
-         "i",
-         "ind",
          "un",
-         "ir"
+         "Un",
+         "ind",
+         "Sin",
+         "sin",
+         "En",
+         "i",
+         "en",
+         "ir",
+         "fin",
+         "Sn"
       ]
    },
    {
@@ -4004,9 +4004,9 @@
       "corrected": "dela",
       "probability": 0.0,
       "suggestions": [
-         "deja",
-         "dela",
          "deba",
+         "dura",
+         "dela",
          "era"
       ]
    },
@@ -4017,21 +4017,21 @@
       "corrected": "no",
       "probability": 0.0,
       "suggestions": [
-         "to",
          "Lo",
          "be",
-         "yo",
-         "beo",
-         "No",
-         "po",
-         "do",
-         "boz",
-         "boy",
          "lo",
-         "Yo",
+         "ro",
          "no",
          "ob",
-         "o"
+         "po",
+         "to",
+         "Yo",
+         "boz",
+         "boy",
+         "yo",
+         "o",
+         "No",
+         "do"
       ]
    },
    {
@@ -4041,8 +4041,8 @@
       "corrected": "hacer",
       "probability": 0.0,
       "suggestions": [
-         "haber",
-         "hayer"
+         "hayer",
+         "haber"
       ]
    },
    {
@@ -4052,9 +4052,9 @@
       "corrected": "manda",
       "probability": 0.0,
       "suggestions": [
-         "Saluda",
          "anda",
-         "salida"
+         "Saluda",
+         "manda"
       ]
    },
    {
@@ -4064,7 +4064,7 @@
       "corrected": "Ud",
       "probability": 0.0,
       "suggestions": [
-         "Ud",
+         "Un",
          "U"
       ]
    },
@@ -4075,13 +4075,13 @@
       "corrected": "S",
       "probability": 0.0,
       "suggestions": [
-         "Sn",
-         "Sr",
-         "Se",
-         "Su",
-         "S",
          "SS",
-         "Si"
+         "Sr",
+         "Si",
+         "Se",
+         "S",
+         "Sⁿ",
+         "Su"
       ]
    },
    {

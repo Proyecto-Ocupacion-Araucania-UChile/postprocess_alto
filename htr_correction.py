@@ -62,6 +62,7 @@ def write_text():
             txt.write(line + " ")
 
 def ner_geo(word: str):
+    #TODO : remove stop zord ? lower word to normalization ? utiliser systeme comme foncion search app (get key)
     word_split = list(word)
     first_letter = word_split[0].upper()
 
@@ -88,6 +89,7 @@ def journal_activity(path, file, n, p_word, c_word):
     :param c_word: str, zord post correction
     :return: None
     """
+
     if os.path.isfile(f"{path}/logs.txt"):
         with open(f"{path}/logs.txt", "a") as f:
             f.write(f"action: {file}, l.{n} -> {p_word} change to {c_word}")
@@ -198,6 +200,7 @@ def word_parsing(frequency, text):
                 # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
                 if len(dict_line) > 0:
                     for change in dict_line:
+                        print(change)
                         line_clean = line.replace(change, dict_line[change])
                         journal_activity(XML_CLEAN, file, n_line, p_word=change, c_word=dict_line[change])
                     element = xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=ns)
