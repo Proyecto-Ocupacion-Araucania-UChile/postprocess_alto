@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>353_b.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3797" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3796" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3795" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3794" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3793" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3792" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3791" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3790" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3789" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3788" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3787" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3786" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3785" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3784" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3783" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3782" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/>
+    <OtherTag ID="LT1287" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1289" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1288" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1324"
+          HEIGHT="2029"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1324"
+                  HEIGHT="2029">
+        
+        <TextBlock HPOS="664"
+                   VPOS="1893"
+                   WIDTH="328"
+                   HEIGHT="83"
+                   ID="eSc_textblock_72d17f39"
+                   TAGREFS="BT3791">
+          <Shape><Polygon POINTS="992 1969 664 1976 669 1893 825 1896 972 1907 985 1952"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5d87f5bb"
+                    TAGREFS="LT1287"
+                    BASELINE="669 1965 761 1965 907 1961 982 1959" 
+                    HPOS="666"
+                    VPOS="1895"
+                    WIDTH="314"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="965 1910 938 1910 936 1910 926 1902 919 1902 902 1902 886 1900 867 1908 842 1898 840 1898 838 1898 837 1898 835 1898 835 1900 823 1910 821 1912 818 1910 789 1895 787 1895 786 1895 784 1895 782 1895 782 1897 767 1910 764 1912 760 1910 742 1897 740 1897 738 1897 681 1897 679 1897 666 1932 667 1964 667 1991 980 1990 980 1957 975 1934 970 1912"/></Shape>
+	    <String CONTENT="000353"
+                    HPOS="666"
+                    VPOS="1895"
+                    WIDTH="314"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 
 from tqdm import tqdm
 import spacy
@@ -14,6 +15,8 @@ current_folder = current_dir = os.path.dirname(os.path.abspath(__file__))
 XML_NOCLEAN ="data/xml_no_clean/"
 XML_CLEAN ="data/xml_clean/"
 GROUND_TRUTH = "data/ground_truth/"
+#data spacy
+nlp = spacy.load("es_core_news_md")
 
 def suppress_char(line):
     punctuation = "!:;\",?’.⁋"
@@ -62,7 +65,6 @@ def write_text():
             txt.write(line + " ")
 
 def ner_geo(word: str):
-    #TODO : remove stop zord ? lower word to normalization ? utiliser systeme comme foncion search app (get key)
     word_split = list(word)
     first_letter = word_split[0].upper()
 
@@ -71,7 +73,7 @@ def ner_geo(word: str):
 
         try:
             for name in file[0][first_letter]:
-                if word in [w for w in name.split()]:
+                if word.lower() in [str(w).lower() for w in nlp(name) if w.is_stop is False]:
                     return True
                 else:
                     return False
@@ -79,6 +81,7 @@ def ner_geo(word: str):
             pass
 
 
+ #peut regarder le pos_ et si cést nom prop pon peut faire un if psecial pour tcheck dans un dico
 def journal_activity(path, file, n, p_word, c_word):
     """
     Journal logs to recover all actions to change text and people can verify it !
@@ -117,9 +120,17 @@ def word_parsing(frequency, text):
     :return:
     """
 
-    list_files = []
+    for filename in os.listdir(XML_CLEAN):
+        file_path = os.path.join(XML_CLEAN, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
 
-    nlp = spacy.load("es_core_news_md") #peut regarder le pos_ et si cést nom prop pon peut faire un if psecial pour tcheck dans un dico
+    list_files = []
 
     if frequency:
         if text:
@@ -169,7 +180,7 @@ def word_parsing(frequency, text):
                         }
 
                         # Registering spellchecker
-                        if dict_sugg["corrected"] is not None and dict_sugg["suggestions"] is None:
+                        if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1:
                             dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
                         # Add suggestion dict
                         else:
@@ -188,7 +199,7 @@ def word_parsing(frequency, text):
                             }
 
                             # Registering spellchecker
-                            if dict_sugg["corrected"] is not None and dict_sugg["suggestions"] is None:
+                            if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1:
                                 dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
                             # Add suggestion dict
                             else:
@@ -200,18 +211,19 @@ def word_parsing(frequency, text):
                 # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
                 if len(dict_line) > 0:
                     for change in dict_line:
-                        print(change)
                         line_clean = line.replace(change, dict_line[change])
                         journal_activity(XML_CLEAN, file, n_line, p_word=change, c_word=dict_line[change])
                     element = xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=ns)
                     element.set("CONTENT", line_clean)
 
-            # write new csv
+            # write new xml
             with open(os.path.join(current_folder, XML_CLEAN, file), 'wb') as f_write:
                 xml.write(f_write, encoding="utf-8", xml_declaration=True, pretty_print=True)
 
     with open(os.path.join(XML_CLEAN, "list_correction.json"), mode="w") as f:
         json.dump(list_files, f, indent=3, ensure_ascii=False)
+
+    print("Finish !")
 
 if __name__ == '__main__':
     word_parsing()
