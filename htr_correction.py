@@ -120,15 +120,17 @@ def word_parsing(frequency, text):
     :return:
     """
 
+    #cleaning folder
     for filename in os.listdir(XML_CLEAN):
-        file_path = os.path.join(XML_CLEAN, filename)
-        try:
-            if os.path.isfile(file_path) or os.path.islink(file_path):
-                os.unlink(file_path)
-            elif os.path.isdir(file_path):
-                shutil.rmtree(file_path)
-        except Exception as e:
-            print('Failed to delete %s. Reason: %s' % (file_path, e))
+        if filename != "readme.md":
+            file_path = os.path.join(XML_CLEAN, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print('Failed to delete %s. Reason: %s' % (file_path, e))
 
     list_files = []
 
@@ -147,78 +149,85 @@ def word_parsing(frequency, text):
         spell = SpellChecker(language='es', case_sensitive=True, distance=2)
 
     for file in os.listdir(os.path.join(current_folder, XML_NOCLEAN)):
-        with open(os.path.join(current_folder, XML_NOCLEAN, file), 'r') as f:
-            xml = etree.parse(f)
-            root = xml.getroot()
-            ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
-            text = root.xpath("//alto:String/@CONTENT", namespaces=ns)
+        if file.endswith(".xml"):
+            with open(os.path.join(current_folder, XML_NOCLEAN, file), 'r') as f:
+                xml = etree.parse(f)
+                root = xml.getroot()
+                ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
+                text = root.xpath("//alto:String/@CONTENT", namespaces=ns)
 
-            print("----" + file + "----")
-            for n_line, line in enumerate(tqdm(text)):
-                # clean lines
-                line_clean = line.replace("  ", " ")
-                line_clean = line_clean.replace("   ", " ")
-                line_spe = line_clean.replace("⁋", "")
+                print("----" + file + "----")
+                for n_line, line in enumerate(tqdm(text)):
+                    # clean lines
+                    line_clean = line.replace("  ", " ")
+                    line_clean = line_clean.replace("   ", " ")
+                    line_spe = line_clean.replace("⁋", "")
 
-                # doc modele
-                doc = nlp(str(line_spe))
+                    # doc modele
+                    doc = nlp(str(line_spe))
 
-                # dict to register modification
-                dict_line = {}
+                    # dict to register modification
+                    dict_line = {}
 
-                # tokenization
-                for token in doc:
-                    if token.pos_ != "PUNCT" and token.pos_ != "PROPN":
-                        dict_sugg = {
-                            "word": str(token),
-                            "type": str(token.pos_),
-                            "location": str(file) + ", line : " + str(n_line),
-                            "corrected": spell.correction(str(token)) if spell.correction(str(token)) != str(
-                                token) else None,
-                            "probability": spell.word_usage_frequency(str(token)),
-                            "suggestions": [sugg for sugg in spell.candidates(str(token))][:-1]
-                        }
-
-                        # Registering spellchecker
-                        if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1:
-                            dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
-                        # Add suggestion dict
-                        else:
-                            if dict_sugg["corrected"] is not None:
-                                list_files.append(dict_sugg)
-                    elif token.pos_ == "PROPN":
-                        if ner_geo(str(token)) is False:
+                    # tokenization
+                    for token in doc:
+                        if token.pos_ != "PUNCT" and token.pos_ != "PROPN":
                             dict_sugg = {
                                 "word": str(token),
                                 "type": str(token.pos_),
-                                "location": str(file) + ", line : " + str(n_line),
+                                "citation": line_clean,
+                                "file": str(file),
+                                "line": n_line,
                                 "corrected": spell.correction(str(token)) if spell.correction(str(token)) != str(
                                     token) else None,
                                 "probability": spell.word_usage_frequency(str(token)),
-                                "suggestions": [sugg for sugg in spell.candidates(str(token))][:-1]
+                                "suggestions": [sugg for sugg in spell.candidates(str(token))][:-1],
+                                "manual": False
                             }
 
                             # Registering spellchecker
-                            if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1:
+                            if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
                                 dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
                             # Add suggestion dict
                             else:
                                 if dict_sugg["corrected"] is not None:
                                     list_files.append(dict_sugg)
+                        elif token.pos_ == "PROPN":
+                            if ner_geo(str(token)) is False:
+                                dict_sugg = {
+                                    "word": str(token),
+                                    "type": str(token.pos_),
+                                    "citation": line_clean,
+                                    "file": str(file),
+                                    "line": n_line,
+                                    "corrected": spell.correction(str(token)) if spell.correction(str(token)) != str(
+                                        token) else None,
+                                    "probability": spell.word_usage_frequency(str(token)),
+                                    "suggestions": [sugg for sugg in spell.candidates(str(token))][:-1],
+                                    "manual": False
+                                }
+
+                                # Registering spellchecker
+                                if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
+                                    dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
+                                # Add suggestion dict
+                                else:
+                                    if dict_sugg["corrected"] is not None:
+                                        list_files.append(dict_sugg)
 
 
-                # pour PNOUN geo, regex capture les premieres mots dans dict, si plusieurs resultat utilse la nature en fonction des tokens precedent
-                # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
-                if len(dict_line) > 0:
-                    for change in dict_line:
-                        line_clean = line.replace(change, dict_line[change])
-                        journal_activity(XML_CLEAN, file, n_line, p_word=change, c_word=dict_line[change])
-                    element = xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=ns)
-                    element.set("CONTENT", line_clean)
+                    # pour PNOUN geo, regex capture les premieres mots dans dict, si plusieurs resultat utilse la nature en fonction des tokens precedent
+                    # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
+                    if len(dict_line) > 0:
+                        for change in dict_line:
+                            line_clean = line.replace(change, dict_line[change])
+                            journal_activity(XML_CLEAN, file, n_line, p_word=change, c_word=dict_line[change])
+                        element = xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=ns)
+                        element.set("CONTENT", line_clean)
 
-            # write new xml
-            with open(os.path.join(current_folder, XML_CLEAN, file), 'wb') as f_write:
-                xml.write(f_write, encoding="utf-8", xml_declaration=True, pretty_print=True)
+                # write new xml
+                with open(os.path.join(current_folder, XML_CLEAN, file), 'wb') as f_write:
+                    xml.write(f_write, encoding="utf-8", xml_declaration=True, pretty_print=True)
 
     with open(os.path.join(XML_CLEAN, "list_correction.json"), mode="w") as f:
         json.dump(list_files, f, indent=3, ensure_ascii=False)
