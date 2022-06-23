@@ -10,12 +10,12 @@ from pygments.lexers import JsonLexer
 from pygments.formatters import TerminalFormatter
 
 current_folder = current_dir = os.path.dirname(os.path.abspath(__file__))
-XML_CLEAN ="data/xml_clean/"
+XML_CLEAN ="data/output/"
 IMG = "data/img"
 
 
 def replacing(file, word_error, word_corrected, n):
-    with open(os.path.join(current_folder, XML_CLEAN, file), 'w') as f:
+    with open(os.path.join(current_folder, XML_CLEAN, file), 'w', encoding='utf-8') as f:
         xml = etree.parse(f)
         root = xml.getroot()
         ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
@@ -36,7 +36,7 @@ def modify_prompt(element, security):
         information = input('Is the proposal correct ? [Y/N/info] : ')
         if information == "Y" or information == "y":
             return element["word"], element["corrected"]
-        if information == "N" or information == "n":
+        elif information == "N" or information == "n":
             corr = input('Correction : ')
             corr = corr.strip()
             if security is True:
@@ -47,9 +47,11 @@ def modify_prompt(element, security):
                     return modify_prompt(element, security)
             else:
                 return element["word"], corr
-        if information == "info":
+        elif information == "info":
             p_json = json.dumps(element, indent=4, sort_keys=True)
             print(highlight(p_json, JsonLexer(), TerminalFormatter()))
+            return modify_prompt(element, security)
+        else:
             return modify_prompt(element, security)
 
 
@@ -81,6 +83,7 @@ def correction(image, security):
                 if element["file"] == file and element["manual"] is False:
                     corr = modify_prompt(element, security)
                     replacing(file, corr[0], corr[1], element["line"])
+                    element["manual"] = True
             if image:
                 img.close()
 
