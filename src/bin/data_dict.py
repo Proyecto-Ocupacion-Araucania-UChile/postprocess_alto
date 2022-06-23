@@ -1,8 +1,8 @@
 import os
-from lxml import etree
 
-from ..constants import GROUND_TRUTH
+from constants import GROUND_TRUTH
 from ..opt.utils import suppress_char
+from parser import ParserXML
 
 def write_text():
     """
@@ -17,12 +17,10 @@ def write_text():
         for directory in dirs:
             for file in os.listdir(os.path.join(GROUND_TRUTH, directory)):
                 if file.endswith(".xml"):
-                    with open(os.path.join(GROUND_TRUTH, directory, file), 'r') as f:
-                        xml = etree.parse(f)
-                        ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
-                        text = xml.xpath("//alto:String/@CONTENT", namespaces=ns)
-                        for line in text:
-                            lines.append(line)
+                    xml = ParserXML(os.path.join(GROUND_TRUTH, directory, file))
+                    text = xml.text
+                    for line in text:
+                        lines.append(line)
     with open(os.path.join(GROUND_TRUTH, "data.txt"), 'w') as txt:
         for n, line in enumerate(lines):
             #Clean data

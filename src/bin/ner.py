@@ -1,13 +1,12 @@
 import json
-import os
 
-from ..constants import CURRENT, GEO_DICT, NLP
+from constants import GEO_DICT, NLP
 
 def check_geo(word: str):
     word_split = list(word)
     first_letter = word_split[0].upper()
 
-    with open(os.path.join(CURRENT, GEO_DICT), "r") as f:
+    with open(GEO_DICT, "r") as f:
         file = json.load(f)
 
         try:
