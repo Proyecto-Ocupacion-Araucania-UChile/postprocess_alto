@@ -12,11 +12,15 @@ def write_text():
     """
 
     lines = []
+    #list of files with many errors ortho and other
+    #TODO evit error spellchecker
+    with open(os.path.join(GROUND_TRUTH, "DONT_USE.txt"), 'w') as txt:
+        list_dontuse = [bad_file for bad_file in lines]
 
     for root, dirs, files in os.walk(GROUND_TRUTH):
         for directory in dirs:
             for file in os.listdir(os.path.join(GROUND_TRUTH, directory)):
-                if file.endswith(".xml"):
+                if file.endswith(".xml") and file not in list_dontuse:
                     xml = ParserXML(os.path.join(GROUND_TRUTH, directory, file))
                     text = xml.text
                     for line in text:
