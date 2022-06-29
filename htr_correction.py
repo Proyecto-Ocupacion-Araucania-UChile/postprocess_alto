@@ -117,7 +117,8 @@ def word_parsing(frequency, text):
                 # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
                 if len(dict_line) > 0:
                     for change in dict_line:
-                        ParserXML.replacer(n_line, change, dict_line[change])
+                        print(change)
+                        xml.replacer(n_line, change, dict_line[change])
                         journal_activity(XML_CLEAN, "spellchecker", file, n_line, p_word=change,
                                          c_word=dict_line[change])
 

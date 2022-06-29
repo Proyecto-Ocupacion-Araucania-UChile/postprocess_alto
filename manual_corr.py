@@ -21,7 +21,7 @@ def prompt(element, security):
             corr = input('Correction : ')
             corr = corr.strip()
             if security is True:
-                secu = input(f"""Are you sure to change f"{element["word"]}" by \"{str(corr)}\" ? [Y/N] : """)
+                secu = input(f"""Are you sure to change "{element["word"]}" by \"{str(corr)}\" ? [Y/N] : """)
                 if secu == "Y" or secu == "y":
                     return element["word"], corr
                 elif secu == "N" or secu == "n":
@@ -48,22 +48,23 @@ def correction(image, security):
 
     for file in os.listdir(XML_CLEAN):
         if file.endswith(".xml"):
-            with open(os.path.join(XML_CLEAN, file), mode='w') as f:
-                xml = ParserXML(f)
-                if image:
-                    try:
-                        img = Image.open(os.path.join(IMG, file.replace(".xml", ".jpg")))
-                        img.show()
-                    except FileNotFoundError:
-                        print("Img directory don't contain the image associated")
-                        break
-                for element in data_corr:
-                    if element["file"] == file and element["manual"] is False:
-                        corr = prompt(element, security)
-                        xml.replacer(element["line"], corr[0], corr[1])
-                        element["manual"] = True
-                if image:
-                    img.close()
+            xml = ParserXML(file=os.path.join(XML_CLEAN, file), mode="r+")
+            if image:
+                try:
+                    img = Image.open(os.path.join(IMG, file.replace(".xml", ".jpg")))
+                    img.show()
+                except FileNotFoundError:
+                    print("Img directory don't contain the image associated")
+                    break
+            for element in data_corr:
+                if element["file"] == file and element["manual"] is False:
+                    corr = prompt(element, security)
+                    xml.replacer(element["line"], corr[0], corr[1])
+                    element["manual"] = True
+                    with open(os.path.join(XML_CLEAN, 'list_correction.json'), "w") as json_write:
+                        json.dump(data_corr, json_write, indent=3, ensure_ascii=False)
+            if image:
+                img.close()
 
 if __name__ == '__main__':
     correction()

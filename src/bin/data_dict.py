@@ -2,7 +2,7 @@ import os
 
 from constants import GROUND_TRUTH
 from ..opt.utils import suppress_char
-from parser import ParserXML
+from .parser import ParserXML
 
 def write_text():
     """
@@ -12,10 +12,9 @@ def write_text():
     """
 
     lines = []
-    #list of files with many errors ortho and other
-    #TODO evit error spellchecker
-    with open(os.path.join(GROUND_TRUTH, "DONT_USE.txt"), 'w') as txt:
-        list_dontuse = [bad_file for bad_file in lines]
+
+    with open(os.path.join(GROUND_TRUTH, "DONT_USE.txt"), 'r') as txt:
+        list_dontuse = [bad_file for bad_file in txt]
 
     for root, dirs, files in os.walk(GROUND_TRUTH):
         for directory in dirs:
