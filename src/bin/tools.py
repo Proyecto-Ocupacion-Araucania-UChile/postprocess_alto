@@ -1,8 +1,9 @@
+import json
 import os
 
-from constants import GROUND_TRUTH
 from ..opt.utils import suppress_char
 from .parser import ParserXML
+from constants import GEO_DICT, NLP, GROUND_TRUTH
 
 def write_text():
     """
@@ -21,9 +22,8 @@ def write_text():
             for file in os.listdir(os.path.join(GROUND_TRUTH, directory)):
                 if file.endswith(".xml") and file not in list_dontuse:
                     xml = ParserXML(os.path.join(GROUND_TRUTH, directory, file))
-                    text = xml.text
-                    for line in text:
-                        lines.append(line)
+                    lines = lines + xml.collect()
+
     with open(os.path.join(GROUND_TRUTH, "data.txt"), 'w') as txt:
         for n, line in enumerate(lines):
             #Clean data
@@ -45,3 +45,19 @@ def write_text():
             line = line.replace("  ", " ")
             line = line.strip()
             txt.write(line + " ")
+
+def check_geo(word: str):
+    word_split = list(word)
+    first_letter = word_split[0].upper()
+
+    with open(GEO_DICT, "r") as f:
+        file = json.load(f)
+
+        try:
+            for name in file[0][first_letter]:
+                if word.lower() in [str(w).lower() for w in NLP(name) if w.is_stop is False]:
+                    return True
+                else:
+                    return False
+        except KeyError:
+            pass

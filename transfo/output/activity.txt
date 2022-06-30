@@ -1,3 +1,1 @@
-spellchecker: 217_a.xml, l.0 -> Maunicio change to Mauricio
-spellchecker: 217_a.xml, l.1 -> Amigo change to amigo
-spellchecker: 217_a.xml, l.2 -> endio change to indio
+spellchecker: 192_a.xml, l.0 -> Maucicio change to Mauricio

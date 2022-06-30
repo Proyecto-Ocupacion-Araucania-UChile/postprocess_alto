@@ -3,8 +3,10 @@ import os
 
 from constants import XML_CLEAN
 
+from ..opt.utils import journal_activity
 
-class ParserXML:
+
+class ParserXML(object):
     ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
 
     def __init__(self, file, encode="utf-8", mode="r"):
@@ -27,21 +29,23 @@ class ParserXML:
             xml = etree.parse(f)
         return xml
 
-    def _filename_(self):
+    def _filename_(self) -> str:
         with open(self.file, mode=self.mode, encoding=self.encode) as f:
             filename = f.name
         return filename
 
-    def replacer(self, n, word_error, word_corrected):
+    def collect(self) -> list:
+        return [line for line in self.text]
+
+    def replacer(self, n, word: dict):
         for n_line, line in enumerate(self.text):
+            ex_line = line
             if n == n_line:
-                print(line)
-                tokens = list(map(lambda x: x.replace(word_error, word_corrected), line.split()))
-                print(tokens)
-                line_clean = ' '.join(tokens)
+                for change in word:
+                    tokens = list(map(lambda x: x.replace(change, word["change"]), line.split()))
+                    line = ' '.join(tokens)
                 element = self.xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=self.ns)
-                print(element)
-                element.set("CONTENT", line_clean)
+                element.set("CONTENT", line)
 
     def xml_writer(self, mode='wb'):
         if self.mode == "r":

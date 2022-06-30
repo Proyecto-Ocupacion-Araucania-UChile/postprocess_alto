@@ -9,8 +9,7 @@ from spellchecker import SpellChecker
 from src.opt.click import RequiredOption
 from constants import XML_CLEAN, XML_NOCLEAN, GROUND_TRUTH, NLP
 from src.opt.utils import journal_activity, cleaning_folder
-from src.bin.data_dict import write_text
-from src.bin.ner import check_geo
+from src.bin.tools import check_geo, write_text
 from src.bin.parser import ParserXML
 
 
@@ -30,11 +29,13 @@ def word_parsing(frequency, text):
     :return:
     """
 
+    #clean dir
     cleaning_folder(XML_CLEAN)
 
-
+    #variable
     list_files = []
 
+    #init spellchecker
     if frequency:
         if text:
             print("writing data dictionary")
@@ -49,6 +50,7 @@ def word_parsing(frequency, text):
     else:
         spell = SpellChecker(language='es', case_sensitive=True, distance=2)
 
+    #parsing
     for file in os.listdir(XML_NOCLEAN):
         if file.endswith(".xml"):
             xml = ParserXML(os.path.join(XML_NOCLEAN, file))
@@ -113,14 +115,7 @@ def word_parsing(frequency, text):
                                 if dict_sugg["corrected"] is not None:
                                     list_files.append(dict_sugg)
 
-                # pour PNOUN geo, regex capture les premieres mots dans dict, si plusieurs resultat utilse la nature en fonction des tokens precedent
-                # faire fonction a part, avec envoie de la ligne, du mot et autres afin d optimiser pour pas boucler
-                if len(dict_line) > 0:
-                    for change in dict_line:
-                        print(change)
-                        xml.replacer(n_line, change, dict_line[change])
-                        journal_activity(XML_CLEAN, "spellchecker", file, n_line, p_word=change,
-                                         c_word=dict_line[change])
+                xml.replacer(n_line, dict_line)
 
             # write new xml
             xml.xml_writer()

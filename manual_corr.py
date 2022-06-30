@@ -4,36 +4,9 @@ import os
 import click
 from PIL import Image
 
-from pygments import highlight
-from pygments.lexers import JsonLexer
-from pygments.formatters import TerminalFormatter
-
 from constants import XML_CLEAN, IMG
 from src.bin.parser import ParserXML
-
-def prompt(element, security):
-        print(element["citation"].replace(element["word"], "<--" + element["word"] + "-->"))
-        print("Proposal : " + element["corrected"])
-        information = input('Is the proposal correct ? [Y/N/info] : ')
-        if information == "Y" or information == "y":
-            return element["word"], element["corrected"]
-        elif information == "N" or information == "n":
-            corr = input('Correction : ')
-            corr = corr.strip()
-            if security is True:
-                secu = input(f"""Are you sure to change "{element["word"]}" by \"{str(corr)}\" ? [Y/N] : """)
-                if secu == "Y" or secu == "y":
-                    return element["word"], corr
-                elif secu == "N" or secu == "n":
-                    return prompt(element, security)
-            else:
-                return element["word"], corr
-        elif information == "info":
-            p_json = json.dumps(element, indent=4, sort_keys=True)
-            print(highlight(p_json, JsonLexer(), TerminalFormatter()))
-            return prompt(element, security)
-        else:
-            return prompt(element, security)
+from src.bin.terminal import prompt
 
 
 @click.command()
@@ -59,12 +32,15 @@ def correction(image, security):
             for element in data_corr:
                 if element["file"] == file and element["manual"] is False:
                     corr = prompt(element, security)
-                    xml.replacer(element["line"], corr[0], corr[1])
+                    xml.replacer(element["line"], {corr[0]: corr[1]})
                     element["manual"] = True
                     with open(os.path.join(XML_CLEAN, 'list_correction.json'), "w") as json_write:
                         json.dump(data_corr, json_write, indent=3, ensure_ascii=False)
             if image:
                 img.close()
+        if all([element["manual"] for element in data_corr]):
+            print("Correction is finished")
+            break
 
 if __name__ == '__main__':
     correction()
