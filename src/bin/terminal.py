@@ -4,6 +4,7 @@ from pygments import highlight
 from pygments.lexers import JsonLexer
 from pygments.formatters import TerminalFormatter
 
+
 def prompt(element: dict, security: bool):
     print(element["citation"].replace(element["word"], "<--" + element["word"] + "-->"))
     print("Proposal : " + element["corrected"])

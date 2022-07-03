@@ -10,14 +10,17 @@ from src.bin.terminal import prompt
 
 
 @click.command()
-@click.option("-i", "--image", "image", is_flag=True, show_default=True, default=False, help="To appear jpg associated in folder \"img\"")
-@click.option("-s", "--security", "security", is_flag=True, show_default=True, default=False, help="Security confirmation to execute the change")
+@click.option("-i", "--image", "image", is_flag=True, show_default=True, default=False,
+              help="To appear jpg associated in folder \"img\"")
+@click.option("-s", "--security", "security", is_flag=True, show_default=True, default=False,
+              help="Security confirmation to execute the change")
 def correction(image, security):
 
     global img
 
     with open(os.path.join(XML_CLEAN, 'list_correction.json')) as json_file:
         data_corr = json.load(json_file)
+        print("There are " + str(len([element["manual"] for element in data_corr])) + " items left to correct")
 
     for file in os.listdir(XML_CLEAN):
         if file.endswith(".xml"):
@@ -31,8 +34,12 @@ def correction(image, security):
                     break
             for element in data_corr:
                 if element["file"] == file and element["manual"] is False:
-                    corr = prompt(element, security)
-                    xml.replacer(element["line"], {corr[0]: corr[1]})
+                    for line in set(element["line"]):
+                        dict_line = {}
+                        if line == element["line"]:
+                            corr = prompt(element, security)
+                            dict_line[corr[0]] = corr[1]
+                        xml.replacer(element["line"], dict_line)
                     element["manual"] = True
                     with open(os.path.join(XML_CLEAN, 'list_correction.json'), "w") as json_write:
                         json.dump(data_corr, json_write, indent=3, ensure_ascii=False)
@@ -41,6 +48,7 @@ def correction(image, security):
         if all([element["manual"] for element in data_corr]):
             print("Correction is finished")
             break
+
 
 if __name__ == '__main__':
     correction()

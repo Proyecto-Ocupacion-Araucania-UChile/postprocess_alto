@@ -8,7 +8,7 @@ from spellchecker import SpellChecker
 
 from src.opt.click import RequiredOption
 from constants import XML_CLEAN, XML_NOCLEAN, GROUND_TRUTH, NLP
-from src.opt.utils import journal_activity, cleaning_folder
+from src.opt.utils import cleaning_folder
 from src.bin.tools import check_geo, write_text
 from src.bin.parser import ParserXML
 
@@ -107,14 +107,13 @@ def word_parsing(frequency, text):
                             }
 
                             # Registering spellchecker
-                            if dict_sugg["corrected"] is not None and len(
-                                    dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
+                            if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
                                 dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
                             # Add suggestion dict
                             else:
                                 if dict_sugg["corrected"] is not None:
                                     list_files.append(dict_sugg)
-
+                print(dict_line)
                 xml.replacer(n_line, dict_line)
 
             # write new xml

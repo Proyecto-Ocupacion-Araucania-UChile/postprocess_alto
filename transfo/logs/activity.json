@@ -1,0 +1,16 @@
+[
+   {
+      "date": "2022-07-02 20:58:30.924957",
+      "action": "automatic",
+      "filename": "217_a.xml",
+      "n_line": 1,
+      "word_error": [
+         "Maucicio",
+         "Garbora"
+      ],
+      "word_correction": [
+         "Mauricio",
+         "Barbosa"
+      ]
+   }
+]null

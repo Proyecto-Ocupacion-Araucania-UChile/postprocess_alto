@@ -1,1 +1,8 @@
-spellchecker: 192_a.xml, l.0 -> Maucicio change to Mauricio
+automatic: 217_a.xml, l.1 -> Maucicio change to Mauricio 
+	line original : "⁋Lor Son Maucicio Garbora" 
+automatic: 217_a.xml, l.1 -> Garbora change to Barbosa 
+	line original : "⁋Lor Son Maucicio Garbora" 
+automatic: 217_a.xml, l.2 -> Aigo change to digo 
+	"⁋Mimas querido Aigo" 
+automatic: 217_a.xml, l.3 -> Nacento change to atento 
+	"Nacento 10 de Dic^t 1859" 

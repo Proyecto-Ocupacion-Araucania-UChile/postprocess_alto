@@ -1,9 +1,9 @@
 from lxml import etree
 import os
+import json
+import datetime
 
-from constants import XML_CLEAN
-
-from ..opt.utils import journal_activity
+from constants import XML_CLEAN, LOGS, TXT_LOGS
 
 
 class ParserXML(object):
@@ -30,9 +30,7 @@ class ParserXML(object):
         return xml
 
     def _filename_(self) -> str:
-        with open(self.file, mode=self.mode, encoding=self.encode) as f:
-            filename = f.name
-        return filename
+        return str(os.path.basename(self.file))
 
     def collect(self) -> list:
         return [line for line in self.text]
@@ -42,10 +40,14 @@ class ParserXML(object):
             ex_line = line
             if n == n_line:
                 for change in word:
-                    tokens = list(map(lambda x: x.replace(change, word["change"]), line.split()))
+                    tokens = list(map(lambda x: x.replace(change, word[change]), line.split()))
                     line = ' '.join(tokens)
-                element = self.xml.find(f"//alto:String[@CONTENT='{line}']", namespaces=self.ns)
+                element = self.xml.find(f"//alto:String[@CONTENT='{ex_line}']", namespaces=self.ns)
                 element.set("CONTENT", line)
+                #Register
+                journal = Journal(n_line=n_line, correction=word, file=self.file)
+                journal.export_text(ex_line)
+                journal.export_json()
 
     def xml_writer(self, mode='wb'):
         if self.mode == "r":
@@ -53,3 +55,50 @@ class ParserXML(object):
                 self.xml.write(f_write, encoding=self.encode, xml_declaration=True, pretty_print=True)
         else:
             self.xml.write(self.filename, encoding=self.encode, xml_declaration=True, pretty_print=True)
+
+
+class Journal(ParserXML):
+    action = ["automatic", "manuel"]
+    json_dir = LOGS
+    txt_dir = TXT_LOGS
+
+    def __init__(self, n_line, correction, file):
+        super().__init__(file)
+        self.n_line = n_line
+        self.correction = correction
+
+    def export_text(self, line: str):
+        """
+        Journal logs to recover all actions to change text and people can verify it !
+        :return: None
+        """
+
+        if os.path.isfile(self.txt_dir):
+            with open(self.txt_dir, "a") as f:
+                for change in self.correction:
+                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line + 1} -> {change} change to {self.correction[change]} \n\t"{line}" """)
+                    f.write("\n")
+        else:
+            with open(self.txt_dir, "w") as f:
+                for change in self.correction:
+                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line + 1} -> {change} change to {self.correction[change]} \n\tline original : "{line}" """)
+                    f.write("\n")
+
+    def export_json(self):
+        asset = {
+            "date": str(datetime.datetime.now()),
+            "action": self.action[0] if self.mode == "r" else self.action[1],
+            "filename": self.filename,
+            "n_line": self.n_line + 1,
+            "word_error": [element for element in self.correction],
+            "word_correction": [self.correction[element] for element in self.correction]
+        }
+
+        if os.path.isfile(self.json_dir):
+            with open(self.json_dir, "r+", encoding="utf-8") as f:
+                data_corr = json.load(f)
+                data_corr = data_corr.append(asset)
+                json.dump(data_corr, f, indent=3, ensure_ascii=False)
+        else:
+            with open(self.json_dir, "w", encoding="utf-8") as f:
+                json.dump([asset], f, indent=3, ensure_ascii=False)
