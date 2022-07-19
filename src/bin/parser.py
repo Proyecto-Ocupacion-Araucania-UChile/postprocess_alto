@@ -88,7 +88,6 @@ class Journal(ParserXML):
         asset = {
             "date": str(datetime.datetime.now()),
             "action": self.action[0] if self.mode == "r" else self.action[1],
-            "filename": self.filename,
             "n_line": self.n_line + 1,
             "word_error": [element for element in self.correction],
             "word_correction": [self.correction[element] for element in self.correction]
@@ -97,8 +96,13 @@ class Journal(ParserXML):
         if os.path.isfile(self.json_dir):
             with open(self.json_dir, "r+", encoding="utf-8") as f:
                 data_corr = json.load(f)
-                data_corr = data_corr.append(asset)
-                json.dump(data_corr, f, indent=3, ensure_ascii=False)
+                if self.filename in data_corr:
+                    listed = [data_corr[data_corr.index(str(self.filename))], asset]
+                    print(listed)
+                else:
+                    updated = data_corr.append({self.filename: asset})
+                f.seek(0)
+                json.dump(updated, f, indent=3, ensure_ascii=False)
         else:
             with open(self.json_dir, "w", encoding="utf-8") as f:
-                json.dump([asset], f, indent=3, ensure_ascii=False)
+                json.dump([{self.filename: asset}], f, indent=3, ensure_ascii=False)

@@ -113,8 +113,8 @@ def word_parsing(frequency, text):
                             else:
                                 if dict_sugg["corrected"] is not None:
                                     list_files.append(dict_sugg)
-                print(dict_line)
-                xml.replacer(n_line, dict_line)
+                if len(dict_line) > 0:
+                    xml.replacer(n_line, dict_line)
 
             # write new xml
             xml.xml_writer()
