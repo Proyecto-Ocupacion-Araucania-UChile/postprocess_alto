@@ -1,8 +1,148 @@
+automatic: 192_a.xml, l.1 -> Maucicio change to Mauricio 
+	line original : "⁋Lor Son Maucicio Garbora" 
+automatic: 192_a.xml, l.1 -> Garbora change to Barbosa 
+	line original : "⁋Lor Son Maucicio Garbora" 
+automatic: 192_a.xml, l.2 -> Aigo change to digo 
+	"⁋Mimas querido Aigo" 
+automatic: 192_a.xml, l.3 -> Nacento change to atento 
+	"Nacento 10 de Dic^t 1859" 
+automatic: 192_a.xml, l.4 -> queto change to Cueto 
+	"⁋Ponecta tendré el queto de salidren" 
+automatic: 192_a.xml, l.5 -> miemo change to mismo 
+	"⁋aU. del modo mas afectuoro y al miemo tiempo do" 
+automatic: 192_a.xml, l.6 -> anigo change to amigo 
+	"acuerdo con el anigo celtalz hago a U. estopreso" 
+automatic: 192_a.xml, l.7 -> deceamos change to debemos 
+	"por que deceamos sabea hu paradero, como lo" 
+automatic: 192_a.xml, l.8 -> tratan change to trata 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 192_a.xml, l.8 -> buenras change to buenas 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 192_a.xml, l.8 -> fentes change to gentes 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 192_a.xml, l.8 -> luago change to luego 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 192_a.xml, l.9 -> pongamos change to tengamos 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 192_a.xml, l.9 -> repcion change to relacion 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 192_a.xml, l.9 -> paradar change to pagada 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 192_a.xml, l.9 -> por- change to por 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 192_a.xml, l.10 -> operaceones change to operaciones 
+	"aca alas operaceones, tudgo que tengamos avs" 
+automatic: 192_a.xml, l.14 -> Ahora change to ahora 
+	"⁋Ahora mando eslo propio por medio del lacr" 
+automatic: 192_a.xml, l.14 -> lacr change to lacer 
+	"⁋Ahora mando eslo propio por medio del lacr" 
+automatic: 192_a.xml, l.15 -> Amuigo change to amigo 
+	"que Jueupan de Caicipil que ec mí Amuigo, s" 
+automatic: 192_a.xml, l.16 -> acepla change to acepta 
+	"talevien y acepla mis conuejos, por hay puedo" 
+automatic: 192_a.xml, l.16 -> conuejos change to consejo 
+	"talevien y acepla mis conuejos, por hay puedo" 
+automatic: 192_a.xml, l.17 -> cepañoles change to españoles 
+	"U. disifisie a esta por medio de cepañoles debar do" 
+automatic: 192_a.xml, l.18 -> hucapel change to Tucapel 
+	"hucapel o de los endios amigos de que U. se ha" 
+automatic: 192_a.xml, l.18 -> endios change to indios 
+	"hucapel o de los endios amigos de que U. se ha" 
+automatic: 192_a.xml, l.19 -> totula change to total 
+	"ga en esa, oenlaaeno disigirla totula da" 
+automatic: 192_a.xml, l.20 -> lacique change to cacique 
+	"para mi al lacique Colima do Anqul para que" 
+automatic: 192_a.xml, l.21 -> hacta change to hasta 
+	"me la mando hacta aqui o ala hacienda" 
+automatic: 192_a.xml, l.21 -> hacienda change to haciendo 
+	"me la mando hacta aqui o ala hacienda" 
+automatic: 192_a.xml, l.22 -> laugue change to llegue 
+	"⁋El laugue la" 
+automatic: 192_a.xml, l.23 -> ayudar change to ayudan 
+	"triles esta en meny buen centido para ayudar" 
+automatic: 192_a.xml, l.24 -> Govierno change to Gobierno 
+	"al Govierno alíado con muches otros de im" 
+automatic: 192_a.xml, l.24 -> muches change to muchos 
+	"al Govierno alíado con muches otros de im" 
+automatic: 192_a.xml, l.25 -> portancia change to importancia 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 192_a.xml, l.25 -> hoyo change to hoy 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 192_a.xml, l.25 -> moretones change to mocetones 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 192_a.xml, l.26 -> Intendento change to Intendente 
+	"que mande con tecados al Intendento y se le" 
 automatic: 217_a.xml, l.1 -> Maucicio change to Mauricio 
-	line original : "⁋Lor Son Maucicio Garbora" 
+	"⁋Lor Son Maucicio Garbora" 
 automatic: 217_a.xml, l.1 -> Garbora change to Barbosa 
-	line original : "⁋Lor Son Maucicio Garbora" 
+	"⁋Lor Son Maucicio Garbora" 
 automatic: 217_a.xml, l.2 -> Aigo change to digo 
 	"⁋Mimas querido Aigo" 
 automatic: 217_a.xml, l.3 -> Nacento change to atento 
 	"Nacento 10 de Dic^t 1859" 
+automatic: 217_a.xml, l.4 -> queto change to Cueto 
+	"⁋Ponecta tendré el queto de salidren" 
+automatic: 217_a.xml, l.5 -> miemo change to mismo 
+	"⁋aU. del modo mas afectuoro y al miemo tiempo do" 
+automatic: 217_a.xml, l.6 -> anigo change to amigo 
+	"acuerdo con el anigo celtalz hago a U. estopreso" 
+automatic: 217_a.xml, l.7 -> deceamos change to debemos 
+	"por que deceamos sabea hu paradero, como lo" 
+automatic: 217_a.xml, l.8 -> tratan change to trata 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 217_a.xml, l.8 -> buenras change to buenas 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 217_a.xml, l.8 -> fentes change to gentes 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 217_a.xml, l.8 -> luago change to luego 
+	"tratan esas buenras fentes y que dedo luago nos" 
+automatic: 217_a.xml, l.9 -> pongamos change to tengamos 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 217_a.xml, l.9 -> repcion change to relacion 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 217_a.xml, l.9 -> paradar change to pagada 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 217_a.xml, l.9 -> por- change to por 
+	"pongamos en repcion paradar préscipio por-" 
+automatic: 217_a.xml, l.10 -> operaceones change to operaciones 
+	"aca alas operaceones, tudgo que tengamos avs" 
+automatic: 217_a.xml, l.14 -> Ahora change to ahora 
+	"⁋Ahora mando eslo propio por medio del lacr" 
+automatic: 217_a.xml, l.14 -> lacr change to lacer 
+	"⁋Ahora mando eslo propio por medio del lacr" 
+automatic: 217_a.xml, l.15 -> Amuigo change to amigo 
+	"que Jueupan de Caicipil que ec mí Amuigo, s" 
+automatic: 217_a.xml, l.16 -> acepla change to acepta 
+	"talevien y acepla mis conuejos, por hay puedo" 
+automatic: 217_a.xml, l.16 -> conuejos change to consejo 
+	"talevien y acepla mis conuejos, por hay puedo" 
+automatic: 217_a.xml, l.17 -> cepañoles change to españoles 
+	"U. disifisie a esta por medio de cepañoles debar do" 
+automatic: 217_a.xml, l.18 -> hucapel change to Tucapel 
+	"hucapel o de los endios amigos de que U. se ha" 
+automatic: 217_a.xml, l.18 -> endios change to indios 
+	"hucapel o de los endios amigos de que U. se ha" 
+automatic: 217_a.xml, l.19 -> totula change to total 
+	"ga en esa, oenlaaeno disigirla totula da" 
+automatic: 217_a.xml, l.20 -> lacique change to cacique 
+	"para mi al lacique Colima do Anqul para que" 
+automatic: 217_a.xml, l.21 -> hacta change to hasta 
+	"me la mando hacta aqui o ala hacienda" 
+automatic: 217_a.xml, l.21 -> hacienda change to haciendo 
+	"me la mando hacta aqui o ala hacienda" 
+automatic: 217_a.xml, l.22 -> laugue change to llegue 
+	"⁋El laugue la" 
+automatic: 217_a.xml, l.23 -> ayudar change to ayudan 
+	"triles esta en meny buen centido para ayudar" 
+automatic: 217_a.xml, l.24 -> Govierno change to Gobierno 
+	"al Govierno alíado con muches otros de im" 
+automatic: 217_a.xml, l.24 -> muches change to muchos 
+	"al Govierno alíado con muches otros de im" 
+automatic: 217_a.xml, l.25 -> portancia change to importancia 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 217_a.xml, l.25 -> hoyo change to hoy 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 217_a.xml, l.25 -> moretones change to mocetones 
+	"portancia, hoyo lo han retirado unos moretones" 
+automatic: 217_a.xml, l.26 -> Intendento change to Intendente 
+	"que mande con tecados al Intendento y se le" 

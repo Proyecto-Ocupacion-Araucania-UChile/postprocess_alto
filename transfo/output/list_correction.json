@@ -1,0 +1,1058 @@
+[
+   {
+      "word": "Lor",
+      "type": "PROPN",
+      "citation": "⁋Lor Son Maucicio Garbora",
+      "file": "192_a.xml",
+      "line": 0,
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "Por",
+         "Lo",
+         "Los",
+         "por"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Mimas",
+      "type": "NOUN",
+      "citation": "⁋Mimas querido Aigo",
+      "file": "192_a.xml",
+      "line": 1,
+      "corrected": "mas",
+      "probability": 0.0,
+      "suggestions": [
+         "mas",
+         "Mas",
+         "dias",
+         "jamas",
+         "mismas",
+         "digas",
+         "sima",
+         "armas",
+         "demas",
+         "fijas",
+         "Tomas",
+         "visas"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Dic^t",
+      "type": "NOUN",
+      "citation": "Nacento 10 de Dic^t 1859",
+      "file": "192_a.xml",
+      "line": 2,
+      "corrected": "Dic",
+      "probability": 0.0,
+      "suggestions": [
+         "Dicho"
+      ],
+      "manual": false
+   },
+   {
+      "word": "aU.",
+      "type": "ADJ",
+      "citation": "⁋aU. del modo mas afectuoro y al miemo tiempo do",
+      "file": "192_a.xml",
+      "line": 4,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "Ud",
+         "amí",
+         "aun",
+         "a",
+         "ahí",
+         "así",
+         "asi",
+         "aff",
+         "afm",
+         "acá",
+         "aca",
+         "Un",
+         "alo",
+         "año",
+         "abe",
+         "al",
+         "U",
+         "af",
+         "ai",
+         "am",
+         "ala"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "NOUN",
+      "citation": "acuerdo con el anigo celtalz hago a U. estopreso",
+      "file": "192_a.xml",
+      "line": 5,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "sabea",
+      "type": "PROPN",
+      "citation": "por que deceamos sabea hu paradero, como lo",
+      "file": "192_a.xml",
+      "line": 6,
+      "corrected": "saber",
+      "probability": 0.0,
+      "suggestions": [
+         "sabe",
+         "sabes"
+      ],
+      "manual": false
+   },
+   {
+      "word": "hu",
+      "type": "NOUN",
+      "citation": "por que deceamos sabea hu paradero, como lo",
+      "file": "192_a.xml",
+      "line": 6,
+      "corrected": "su",
+      "probability": 0.0,
+      "suggestions": [
+         "su",
+         "eu",
+         "há",
+         "tu",
+         "ha",
+         "u",
+         "gu",
+         "he",
+         "Su",
+         "Tu"
+      ],
+      "manual": false
+   },
+   {
+      "word": "dedo",
+      "type": "NOUN",
+      "citation": "tratan esas buenras fentes y que dedo luago nos",
+      "file": "192_a.xml",
+      "line": 7,
+      "corrected": "dado",
+      "probability": 0.0,
+      "suggestions": [
+         "debo",
+         "delo",
+         "dado",
+         "dudo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "tudgo",
+      "type": "NOUN",
+      "citation": "aca alas operaceones, tudgo que tengamos avs",
+      "file": "192_a.xml",
+      "line": 9,
+      "corrected": "tengo",
+      "probability": 0.0,
+      "suggestions": [
+         "tengo",
+         "tuyo",
+         "luego",
+         "tuvo",
+         "juego",
+         "pudo",
+         "todo",
+         "dudo",
+         "fuego"
+      ],
+      "manual": false
+   },
+   {
+      "word": "avs",
+      "type": "VERB",
+      "citation": "aca alas operaceones, tudgo que tengamos avs",
+      "file": "192_a.xml",
+      "line": 9,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "mes",
+         "mas",
+         "les",
+         "aiso",
+         "los",
+         "país",
+         "ms",
+         "amí",
+         "aun",
+         "Mas",
+         "qys",
+         "ahí",
+         "alos",
+         "s",
+         "a",
+         "vé",
+         "sus",
+         "das",
+         "así",
+         "asi",
+         "alas",
+         "aff",
+         "amis",
+         "Les",
+         "save",
+         "vos",
+         "nos",
+         "Tus",
+         "afm",
+         "acá",
+         "Dos",
+         "aca",
+         "vá",
+         "Los",
+         "mis",
+         "res",
+         "Las",
+         "va",
+         "alo",
+         "es",
+         "has",
+         "año",
+         "ví",
+         "años",
+         "abe",
+         "más",
+         "al",
+         "asus",
+         "ai",
+         "af",
+         "Es",
+         "aviso",
+         "tus",
+         "veas",
+         "dos",
+         "las",
+         "am",
+         "pais",
+         "ala"
+      ],
+      "manual": false
+   },
+   {
+      "word": "hare",
+      "type": "VERB",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "192_a.xml",
+      "line": 10,
+      "corrected": "hace",
+      "probability": 0.0,
+      "suggestions": [
+         "hará",
+         "haré"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "192_a.xml",
+      "line": 10,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "alla",
+      "type": "PROPN",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "192_a.xml",
+      "line": 10,
+      "corrected": "halla",
+      "probability": 0.0,
+      "suggestions": [
+         "ella",
+         "allí",
+         "alli",
+         "allá",
+         "ala",
+         "halla"
+      ],
+      "manual": false
+   },
+   {
+      "word": "omi-",
+      "type": "VERB",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "192_a.xml",
+      "line": 10,
+      "corrected": "mi",
+      "probability": 0.0,
+      "suggestions": [
+         "mil",
+         "mis",
+         "mio",
+         "amis",
+         "mi"
+      ],
+      "manual": false
+   },
+   {
+      "word": "eslo",
+      "type": "ADJ",
+      "citation": "⁋Ahora mando eslo propio por medio del lacr",
+      "file": "192_a.xml",
+      "line": 13,
+      "corrected": "esto",
+      "probability": 0.0,
+      "suggestions": [
+         "eso",
+         "selo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "ec",
+      "type": "PROPN",
+      "citation": "que Jueupan de Caicipil que ec mí Amuigo, s",
+      "file": "192_a.xml",
+      "line": 14,
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "el",
+         "en",
+         "er",
+         "eu",
+         "e"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "NOUN",
+      "citation": "U. disifisie a esta por medio de cepañoles debar do",
+      "file": "192_a.xml",
+      "line": 16,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "debar",
+      "type": "VERB",
+      "citation": "U. disifisie a esta por medio de cepañoles debar do",
+      "file": "192_a.xml",
+      "line": 16,
+      "corrected": "dejar",
+      "probability": 0.0,
+      "suggestions": [
+         "deban",
+         "deber",
+         "deba"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "citation": "hucapel o de los endios amigos de que U. se ha",
+      "file": "192_a.xml",
+      "line": 17,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "ga",
+      "type": "PROPN",
+      "citation": "ga en esa, oenlaaeno disigirla totula da",
+      "file": "192_a.xml",
+      "line": 18,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "da",
+         "ma",
+         "a",
+         "Ha",
+         "Ya",
+         "la",
+         "ha",
+         "La",
+         "ya",
+         "va",
+         "gu",
+         "ta",
+         "ra"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Anqul",
+      "type": "PROPN",
+      "citation": "para mi al lacique Colima do Anqul para que",
+      "file": "192_a.xml",
+      "line": 19,
+      "corrected": "Angol",
+      "probability": 0.0,
+      "suggestions": [
+         "Angol",
+         "Ancud",
+         "Aqui",
+         "Aquí"
+      ],
+      "manual": false
+   },
+   {
+      "word": "triles",
+      "type": "NOUN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "192_a.xml",
+      "line": 22,
+      "corrected": "tres",
+      "probability": 0.0,
+      "suggestions": [
+         "utiles",
+         "tribus",
+         "tristes",
+         "tres"
+      ],
+      "manual": false
+   },
+   {
+      "word": "meny",
+      "type": "PROPN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "192_a.xml",
+      "line": 22,
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "mes",
+         "menos",
+         "pena",
+         "me",
+         "en",
+         "den",
+         "mano",
+         "seno",
+         "mand",
+         "Ten",
+         "ley",
+         "mun",
+         "muy",
+         "melo",
+         "menor"
+      ],
+      "manual": false
+   },
+   {
+      "word": "centido",
+      "type": "NOUN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "192_a.xml",
+      "line": 22,
+      "corrected": "tenido",
+      "probability": 0.0,
+      "suggestions": [
+         "tenido",
+         "benido",
+         "venido",
+         "entodo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "alíado",
+      "type": "ADJ",
+      "citation": "al Govierno alíado con muches otros de im",
+      "file": "192_a.xml",
+      "line": 23,
+      "corrected": "lado",
+      "probability": 0.0,
+      "suggestions": [
+         "malvado",
+         "callado",
+         "lado"
+      ],
+      "manual": false
+   },
+   {
+      "word": "im",
+      "type": "PROPN",
+      "citation": "al Govierno alíado con muches otros de im",
+      "file": "192_a.xml",
+      "line": 23,
+      "corrected": "i",
+      "probability": 0.0,
+      "suggestions": [
+         "pm",
+         "ir",
+         "i",
+         "am",
+         "in",
+         "mi"
+      ],
+      "manual": false
+   },
+   {
+      "word": "tecados",
+      "type": "ADJ",
+      "citation": "que mande con tecados al Intendento y se le",
+      "file": "192_a.xml",
+      "line": 25,
+      "corrected": "techos",
+      "probability": 0.0,
+      "suggestions": [
+         "tapados",
+         "dejados"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Lor",
+      "type": "PROPN",
+      "citation": "⁋Lor Son Maucicio Garbora",
+      "file": "217_a.xml",
+      "line": 0,
+      "corrected": "por",
+      "probability": 0.0,
+      "suggestions": [
+         "Por",
+         "Lo",
+         "Los",
+         "por"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Mimas",
+      "type": "NOUN",
+      "citation": "⁋Mimas querido Aigo",
+      "file": "217_a.xml",
+      "line": 1,
+      "corrected": "mas",
+      "probability": 0.0,
+      "suggestions": [
+         "mas",
+         "Mas",
+         "dias",
+         "jamas",
+         "mismas",
+         "digas",
+         "sima",
+         "armas",
+         "demas",
+         "fijas",
+         "Tomas",
+         "visas"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Dic^t",
+      "type": "NOUN",
+      "citation": "Nacento 10 de Dic^t 1859",
+      "file": "217_a.xml",
+      "line": 2,
+      "corrected": "Dic",
+      "probability": 0.0,
+      "suggestions": [
+         "Dicho"
+      ],
+      "manual": false
+   },
+   {
+      "word": "aU.",
+      "type": "ADJ",
+      "citation": "⁋aU. del modo mas afectuoro y al miemo tiempo do",
+      "file": "217_a.xml",
+      "line": 4,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "Ud",
+         "amí",
+         "aun",
+         "a",
+         "ahí",
+         "así",
+         "asi",
+         "aff",
+         "afm",
+         "acá",
+         "aca",
+         "Un",
+         "alo",
+         "año",
+         "abe",
+         "al",
+         "U",
+         "af",
+         "ai",
+         "am",
+         "ala"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "NOUN",
+      "citation": "acuerdo con el anigo celtalz hago a U. estopreso",
+      "file": "217_a.xml",
+      "line": 5,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "sabea",
+      "type": "PROPN",
+      "citation": "por que deceamos sabea hu paradero, como lo",
+      "file": "217_a.xml",
+      "line": 6,
+      "corrected": "saber",
+      "probability": 0.0,
+      "suggestions": [
+         "sabe",
+         "sabes"
+      ],
+      "manual": false
+   },
+   {
+      "word": "hu",
+      "type": "NOUN",
+      "citation": "por que deceamos sabea hu paradero, como lo",
+      "file": "217_a.xml",
+      "line": 6,
+      "corrected": "su",
+      "probability": 0.0,
+      "suggestions": [
+         "su",
+         "eu",
+         "há",
+         "tu",
+         "ha",
+         "u",
+         "gu",
+         "he",
+         "Su",
+         "Tu"
+      ],
+      "manual": false
+   },
+   {
+      "word": "dedo",
+      "type": "NOUN",
+      "citation": "tratan esas buenras fentes y que dedo luago nos",
+      "file": "217_a.xml",
+      "line": 7,
+      "corrected": "dado",
+      "probability": 0.0,
+      "suggestions": [
+         "debo",
+         "delo",
+         "dado",
+         "dudo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "tudgo",
+      "type": "NOUN",
+      "citation": "aca alas operaceones, tudgo que tengamos avs",
+      "file": "217_a.xml",
+      "line": 9,
+      "corrected": "tengo",
+      "probability": 0.0,
+      "suggestions": [
+         "tengo",
+         "tuyo",
+         "luego",
+         "tuvo",
+         "juego",
+         "pudo",
+         "todo",
+         "dudo",
+         "fuego"
+      ],
+      "manual": false
+   },
+   {
+      "word": "avs",
+      "type": "VERB",
+      "citation": "aca alas operaceones, tudgo que tengamos avs",
+      "file": "217_a.xml",
+      "line": 9,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "mes",
+         "mas",
+         "les",
+         "aiso",
+         "los",
+         "país",
+         "ms",
+         "amí",
+         "aun",
+         "Mas",
+         "qys",
+         "ahí",
+         "alos",
+         "s",
+         "a",
+         "vé",
+         "sus",
+         "das",
+         "así",
+         "asi",
+         "alas",
+         "aff",
+         "amis",
+         "Les",
+         "save",
+         "vos",
+         "nos",
+         "Tus",
+         "afm",
+         "acá",
+         "Dos",
+         "aca",
+         "vá",
+         "Los",
+         "mis",
+         "res",
+         "Las",
+         "va",
+         "alo",
+         "es",
+         "has",
+         "año",
+         "ví",
+         "años",
+         "abe",
+         "más",
+         "al",
+         "asus",
+         "ai",
+         "af",
+         "Es",
+         "aviso",
+         "tus",
+         "veas",
+         "dos",
+         "las",
+         "am",
+         "pais",
+         "ala"
+      ],
+      "manual": false
+   },
+   {
+      "word": "hare",
+      "type": "VERB",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "217_a.xml",
+      "line": 10,
+      "corrected": "hace",
+      "probability": 0.0,
+      "suggestions": [
+         "hará",
+         "haré"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "217_a.xml",
+      "line": 10,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "alla",
+      "type": "PROPN",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "217_a.xml",
+      "line": 10,
+      "corrected": "halla",
+      "probability": 0.0,
+      "suggestions": [
+         "ella",
+         "allí",
+         "alli",
+         "allá",
+         "ala",
+         "halla"
+      ],
+      "manual": false
+   },
+   {
+      "word": "omi-",
+      "type": "VERB",
+      "citation": "to de los progresos que hare U. por alla, me omi-",
+      "file": "217_a.xml",
+      "line": 10,
+      "corrected": "mi",
+      "probability": 0.0,
+      "suggestions": [
+         "mil",
+         "mis",
+         "mio",
+         "amis",
+         "mi"
+      ],
+      "manual": false
+   },
+   {
+      "word": "eslo",
+      "type": "ADJ",
+      "citation": "⁋Ahora mando eslo propio por medio del lacr",
+      "file": "217_a.xml",
+      "line": 13,
+      "corrected": "esto",
+      "probability": 0.0,
+      "suggestions": [
+         "eso",
+         "selo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "ec",
+      "type": "PROPN",
+      "citation": "que Jueupan de Caicipil que ec mí Amuigo, s",
+      "file": "217_a.xml",
+      "line": 14,
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "el",
+         "en",
+         "er",
+         "eu",
+         "e"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "NOUN",
+      "citation": "U. disifisie a esta por medio de cepañoles debar do",
+      "file": "217_a.xml",
+      "line": 16,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "debar",
+      "type": "VERB",
+      "citation": "U. disifisie a esta por medio de cepañoles debar do",
+      "file": "217_a.xml",
+      "line": 16,
+      "corrected": "dejar",
+      "probability": 0.0,
+      "suggestions": [
+         "deban",
+         "deber",
+         "deba"
+      ],
+      "manual": false
+   },
+   {
+      "word": "U.",
+      "type": "PROPN",
+      "citation": "hucapel o de los endios amigos de que U. se ha",
+      "file": "217_a.xml",
+      "line": 17,
+      "corrected": "Ud",
+      "probability": 0.0,
+      "suggestions": [
+         "U",
+         "Un"
+      ],
+      "manual": false
+   },
+   {
+      "word": "ga",
+      "type": "PROPN",
+      "citation": "ga en esa, oenlaaeno disigirla totula da",
+      "file": "217_a.xml",
+      "line": 18,
+      "corrected": "a",
+      "probability": 0.0,
+      "suggestions": [
+         "da",
+         "ma",
+         "a",
+         "Ha",
+         "Ya",
+         "la",
+         "ha",
+         "La",
+         "ya",
+         "va",
+         "gu",
+         "ta",
+         "ra"
+      ],
+      "manual": false
+   },
+   {
+      "word": "Anqul",
+      "type": "PROPN",
+      "citation": "para mi al lacique Colima do Anqul para que",
+      "file": "217_a.xml",
+      "line": 19,
+      "corrected": "Angol",
+      "probability": 0.0,
+      "suggestions": [
+         "Angol",
+         "Ancud",
+         "Aqui",
+         "Aquí"
+      ],
+      "manual": false
+   },
+   {
+      "word": "triles",
+      "type": "NOUN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "217_a.xml",
+      "line": 22,
+      "corrected": "tres",
+      "probability": 0.0,
+      "suggestions": [
+         "utiles",
+         "tribus",
+         "tristes",
+         "tres"
+      ],
+      "manual": false
+   },
+   {
+      "word": "meny",
+      "type": "PROPN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "217_a.xml",
+      "line": 22,
+      "corrected": "en",
+      "probability": 0.0,
+      "suggestions": [
+         "mes",
+         "menos",
+         "pena",
+         "me",
+         "en",
+         "den",
+         "mano",
+         "seno",
+         "mand",
+         "Ten",
+         "ley",
+         "mun",
+         "muy",
+         "melo",
+         "menor"
+      ],
+      "manual": false
+   },
+   {
+      "word": "centido",
+      "type": "NOUN",
+      "citation": "triles esta en meny buen centido para ayudar",
+      "file": "217_a.xml",
+      "line": 22,
+      "corrected": "tenido",
+      "probability": 0.0,
+      "suggestions": [
+         "tenido",
+         "benido",
+         "venido",
+         "entodo"
+      ],
+      "manual": false
+   },
+   {
+      "word": "alíado",
+      "type": "ADJ",
+      "citation": "al Govierno alíado con muches otros de im",
+      "file": "217_a.xml",
+      "line": 23,
+      "corrected": "lado",
+      "probability": 0.0,
+      "suggestions": [
+         "malvado",
+         "callado",
+         "lado"
+      ],
+      "manual": false
+   },
+   {
+      "word": "im",
+      "type": "PROPN",
+      "citation": "al Govierno alíado con muches otros de im",
+      "file": "217_a.xml",
+      "line": 23,
+      "corrected": "i",
+      "probability": 0.0,
+      "suggestions": [
+         "pm",
+         "ir",
+         "i",
+         "am",
+         "in",
+         "mi"
+      ],
+      "manual": false
+   },
+   {
+      "word": "tecados",
+      "type": "ADJ",
+      "citation": "que mande con tecados al Intendento y se le",
+      "file": "217_a.xml",
+      "line": 25,
+      "corrected": "techos",
+      "probability": 0.0,
+      "suggestions": [
+         "tapados",
+         "dejados"
+      ],
+      "manual": false
+   }
+]

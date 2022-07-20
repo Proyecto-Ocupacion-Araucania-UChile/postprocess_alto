@@ -94,15 +94,14 @@ class Journal(ParserXML):
         }
 
         if os.path.isfile(self.json_dir):
-            with open(self.json_dir, "r+", encoding="utf-8") as f:
-                data_corr = json.load(f)
-                if self.filename in data_corr:
-                    listed = [data_corr[data_corr.index(str(self.filename))], asset]
-                    print(listed)
+            with open(self.json_dir, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if self.filename in data:
+                    data[self.filename] = data[self.filename] + [asset]
                 else:
-                    updated = data_corr.append({self.filename: asset})
-                f.seek(0)
-                json.dump(updated, f, indent=3, ensure_ascii=False)
+                    data[self.filename] = [asset]
+            with open(self.json_dir, "w", encoding="utf-8") as f_write:
+                json.dump(data, f_write, indent=3, ensure_ascii=False)
         else:
             with open(self.json_dir, "w", encoding="utf-8") as f:
-                json.dump([{self.filename: asset}], f, indent=3, ensure_ascii=False)
+                json.dump({self.filename: [asset]}, f, indent=3, ensure_ascii=False)

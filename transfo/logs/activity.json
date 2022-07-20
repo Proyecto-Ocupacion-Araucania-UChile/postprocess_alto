@@ -1,6 +1,7 @@
-null {
-      "217_a.xml": {
-         "date": "2022-07-19 16:44:36.989691",
+{
+   "192_a.xml": [
+      {
+         "date": "2022-07-20 16:37:44.453312",
          "action": "automatic",
          "n_line": 1,
          "word_error": [
@@ -11,6 +12,557 @@ null {
             "Mauricio",
             "Barbosa"
          ]
+      },
+      {
+         "date": "2022-07-20 16:37:47.103936",
+         "action": "automatic",
+         "n_line": 2,
+         "word_error": [
+            "Aigo"
+         ],
+         "word_correction": [
+            "digo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:37:54.898579",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Nacento"
+         ],
+         "word_correction": [
+            "atento"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:02.334292",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "queto"
+         ],
+         "word_correction": [
+            "Cueto"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:08.572121",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "miemo"
+         ],
+         "word_correction": [
+            "mismo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:16.807064",
+         "action": "automatic",
+         "n_line": 6,
+         "word_error": [
+            "anigo"
+         ],
+         "word_correction": [
+            "amigo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:27.140892",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "deceamos"
+         ],
+         "word_correction": [
+            "debemos"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:27.172017",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tratan",
+            "buenras",
+            "fentes",
+            "luago"
+         ],
+         "word_correction": [
+            "trata",
+            "buenas",
+            "gentes",
+            "luego"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:48.048508",
+         "action": "automatic",
+         "n_line": 9,
+         "word_error": [
+            "pongamos",
+            "repcion",
+            "paradar",
+            "por-"
+         ],
+         "word_correction": [
+            "tengamos",
+            "relacion",
+            "pagada",
+            "por"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:38:51.751371",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "operaceones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:39:14.666683",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "Ahora",
+            "lacr"
+         ],
+         "word_correction": [
+            "ahora",
+            "lacer"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:39:25.862861",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Amuigo"
+         ],
+         "word_correction": [
+            "amigo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:39:36.007837",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "acepla",
+            "conuejos"
+         ],
+         "word_correction": [
+            "acepta",
+            "consejo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:39:48.972734",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "cepañoles"
+         ],
+         "word_correction": [
+            "españoles"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:39:49.019391",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "hucapel",
+            "endios"
+         ],
+         "word_correction": [
+            "Tucapel",
+            "indios"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:02.831023",
+         "action": "automatic",
+         "n_line": 19,
+         "word_error": [
+            "totula"
+         ],
+         "word_correction": [
+            "total"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:07.885692",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "lacique"
+         ],
+         "word_correction": [
+            "cacique"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:07.936011",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "hacta",
+            "hacienda"
+         ],
+         "word_correction": [
+            "hasta",
+            "haciendo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:11.465705",
+         "action": "automatic",
+         "n_line": 22,
+         "word_error": [
+            "laugue"
+         ],
+         "word_correction": [
+            "llegue"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:23.042648",
+         "action": "automatic",
+         "n_line": 23,
+         "word_error": [
+            "ayudar"
+         ],
+         "word_correction": [
+            "ayudan"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:27.183551",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Govierno",
+            "muches"
+         ],
+         "word_correction": [
+            "Gobierno",
+            "muchos"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:37.993574",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "portancia",
+            "hoyo",
+            "moretones"
+         ],
+         "word_correction": [
+            "importancia",
+            "hoy",
+            "mocetones"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:46.567012",
+         "action": "automatic",
+         "n_line": 26,
+         "word_error": [
+            "Intendento"
+         ],
+         "word_correction": [
+            "Intendente"
+         ]
       }
-   }
-]
+   ],
+   "217_a.xml": [
+      {
+         "date": "2022-07-20 16:40:52.301321",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Maucicio",
+            "Garbora"
+         ],
+         "word_correction": [
+            "Mauricio",
+            "Barbosa"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:40:55.008228",
+         "action": "automatic",
+         "n_line": 2,
+         "word_error": [
+            "Aigo"
+         ],
+         "word_correction": [
+            "digo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:02.387231",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Nacento"
+         ],
+         "word_correction": [
+            "atento"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:09.740551",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "queto"
+         ],
+         "word_correction": [
+            "Cueto"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:16.192600",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "miemo"
+         ],
+         "word_correction": [
+            "mismo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:25.008578",
+         "action": "automatic",
+         "n_line": 6,
+         "word_error": [
+            "anigo"
+         ],
+         "word_correction": [
+            "amigo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:35.321677",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "deceamos"
+         ],
+         "word_correction": [
+            "debemos"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:35.353234",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tratan",
+            "buenras",
+            "fentes",
+            "luago"
+         ],
+         "word_correction": [
+            "trata",
+            "buenas",
+            "gentes",
+            "luego"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:56.096682",
+         "action": "automatic",
+         "n_line": 9,
+         "word_error": [
+            "pongamos",
+            "repcion",
+            "paradar",
+            "por-"
+         ],
+         "word_correction": [
+            "tengamos",
+            "relacion",
+            "pagada",
+            "por"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:41:59.983935",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "operaceones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:42:22.473671",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "Ahora",
+            "lacr"
+         ],
+         "word_correction": [
+            "ahora",
+            "lacer"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:42:34.380835",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Amuigo"
+         ],
+         "word_correction": [
+            "amigo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:42:45.174683",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "acepla",
+            "conuejos"
+         ],
+         "word_correction": [
+            "acepta",
+            "consejo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:42:57.647668",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "cepañoles"
+         ],
+         "word_correction": [
+            "españoles"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:42:57.694295",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "hucapel",
+            "endios"
+         ],
+         "word_correction": [
+            "Tucapel",
+            "indios"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:11.303530",
+         "action": "automatic",
+         "n_line": 19,
+         "word_error": [
+            "totula"
+         ],
+         "word_correction": [
+            "total"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:16.220279",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "lacique"
+         ],
+         "word_correction": [
+            "cacique"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:16.264474",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "hacta",
+            "hacienda"
+         ],
+         "word_correction": [
+            "hasta",
+            "haciendo"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:19.827192",
+         "action": "automatic",
+         "n_line": 22,
+         "word_error": [
+            "laugue"
+         ],
+         "word_correction": [
+            "llegue"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:29.847496",
+         "action": "automatic",
+         "n_line": 23,
+         "word_error": [
+            "ayudar"
+         ],
+         "word_correction": [
+            "ayudan"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:33.658723",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Govierno",
+            "muches"
+         ],
+         "word_correction": [
+            "Gobierno",
+            "muchos"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:41.509081",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "portancia",
+            "hoyo",
+            "moretones"
+         ],
+         "word_correction": [
+            "importancia",
+            "hoy",
+            "mocetones"
+         ]
+      },
+      {
+         "date": "2022-07-20 16:43:46.137208",
+         "action": "automatic",
+         "n_line": 26,
+         "word_error": [
+            "Intendento"
+         ],
+         "word_correction": [
+            "Intendente"
+         ]
+      }
+   ]
+}
