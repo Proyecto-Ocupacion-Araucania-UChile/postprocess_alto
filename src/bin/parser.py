@@ -88,7 +88,7 @@ class Journal(ParserXML):
         asset = {
             "date": str(datetime.datetime.now()),
             "action": self.action[0] if self.mode == "r" else self.action[1],
-            "n_line": self.n_line + 1,
+            "n_line": self.n_line,
             "word_error": [element for element in self.correction],
             "word_correction": [self.correction[element] for element in self.correction]
         }

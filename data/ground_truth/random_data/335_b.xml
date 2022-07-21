@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>335_b.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3955" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3954" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3953" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3952" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3951" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3950" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3949" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3948" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3947" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3946" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3945" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3944" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3943" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3942" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3941" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3940" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/>
+    <OtherTag ID="LT1335" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1334" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1333" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2410"
+          HEIGHT="3066"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2410"
+                  HEIGHT="3066">
+        
+        <TextBlock HPOS="194"
+                   VPOS="236"
+                   WIDTH="2106"
+                   HEIGHT="243"
+                   ID="eSc_textblock_a253347a"
+                   TAGREFS="BT3945">
+          <Shape><Polygon POINTS="194 236 194 479 2300 479 2300 236"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_664eb46d"
+                    TAGREFS="LT1333"
+                    BASELINE="230 293 1193 288" 
+                    HPOS="227"
+                    VPOS="227"
+                    WIDTH="966"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="968 229 945 250 835 250 807 227 805 227 802 227 710 227 707 227 705 227 702 227 544 241 431 255 339 237 329 240 304 240 278 242 255 242 250 242 227 286 230 293 230 304 1190 304 1193 288 1188 252 1001 229 994 229"/></Shape>
+	    <String CONTENT="⁋a U. se sirva contentarme luego."
+                    HPOS="227"
+                    VPOS="227"
+                    WIDTH="966"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3212d367"
+                    TAGREFS="LT1333"
+                    BASELINE="414 380 2266 373" 
+                    HPOS="411"
+                    VPOS="309"
+                    WIDTH="1855"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1896 309 1865 329 1855 337 1801 321 1794 329 1771 311 1765 311 1740 311 1714 311 1689 311 1663 311 1643 327 1633 334 1566 339 1397 339 1377 324 1362 311 1357 311 1334 309 1288 321 1239 334 1119 321 1116 321 1114 321 1073 337 943 324 940 324 825 342 713 342 677 314 672 309 669 309 667 309 664 309 411 309 414 380 414 393 442 408 444 408 447 408 511 393 518 393 526 393 580 408 582 408 585 411 789 411 789 408 920 396 966 393 1078 398 1272 406 1275 406 1277 406 1293 398 1313 390 1500 390 1564 401 1602 406 1604 406 1607 406 1622 401 1658 388 1901 388 1919 403 1921 403 1924 403 1926 406 2264 406 2266 373 2261 337 2182 337 2179 334 2146 311 2144 311 2141 311 2139 311 2136 311 2075 332 1962 332 1926 309 1919 309"/></Shape>
+	    <String CONTENT="⁋La Sabina me encarga en este momento dé a U. muchos"
+                    HPOS="411"
+                    VPOS="309"
+                    WIDTH="1855"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9bf2cf5"
+                    TAGREFS="LT1333"
+                    BASELINE="232 459 536 467" 
+                    HPOS="230"
+                    VPOS="393"
+                    WIDTH="306"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="232 459 230 475 332 493 334 493 534 477 536 467 534 431 475 426 437 393 434 393 431 393 378 393 375 393 373 393 370 393 332 424 232 424 232 459"/></Shape>
+	    <String CONTENT="recuerdos."
+                    HPOS="230"
+                    VPOS="393"
+                    WIDTH="306"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="360"
+                   VPOS="480"
+                   WIDTH="1669"
+                   HEIGHT="212"
+                   ID="eSc_textblock_2a2525f4"
+                   TAGREFS="BT3943">
+          <Shape><Polygon POINTS="1955 480 1990 500 2024 643 2029 643 2029 655 1267 655 1267 666 1306 666 1306 671 521 692 388 679 375 498 360 495 360 480"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f23851b9"
+                    TAGREFS="LT1333"
+                    BASELINE="408 551 1970 544" 
+                    HPOS="406"
+                    VPOS="475"
+                    WIDTH="1564"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="408 551 408 562 444 577 447 577 449 579 608 579 608 577 610 577 638 564 667 577 669 577 672 577 674 577 707 564 733 577 736 577 738 577 741 577 787 564 792 564 802 564 917 577 920 577 976 564 994 562 1012 567 1045 574 1047 574 1050 574 1052 574 1078 567 1088 562 1098 567 1116 574 1119 574 1121 574 1231 567 1305 562 1318 567 1336 574 1339 574 1341 574 1390 567 1449 559 1967 569 1970 544 1965 503 1852 503 1850 500 1822 475 1819 475 1817 475 1768 475 1765 475 1763 475 1760 475 1730 498 1727 500 1722 498 1689 488 1686 488 1684 488 1681 488 1645 498 1638 500 1633 498 1610 477 1610 475 1607 475 1604 475 1566 475 1564 475 1561 475 1558 475 1558 477 1535 495 1530 503 1449 503 1438 495 1418 477 1415 477 1413 477 1410 477 1408 477 1357 493 1326 503 1262 493 1167 477 1165 477 1162 477 1127 490 1093 503 953 500 943 488 932 480 932 477 930 477 927 477 925 477 820 488 774 490 728 485 674 480 672 480 669 480 667 480 661 485 633 505 406 482 408 551"/></Shape>
+	    <String CONTENT="⁋Deseo a U. salud i mui feliz éxito en la empresa."
+                    HPOS="406"
+                    VPOS="475"
+                    WIDTH="1564"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_484c58e3"
+                    TAGREFS="LT1333"
+                    BASELINE="426 646 1975 633" 
+                    HPOS="407"
+                    VPOS="572"
+                    WIDTH="1568"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="426 646 426 664 526 689 529 692 733 692 733 689 830 687 833 687 876 664 879 664 884 664 986 687 989 687 1088 684 1091 684 1134 664 1142 661 1316 661 1326 664 1380 682 1382 682 1385 682 1538 664 1561 661 1566 664 1594 674 1597 674 1599 674 1602 674 1640 664 1666 656 1827 656 1832 664 1850 677 1850 679 1852 679 1855 679 1857 679 1975 661 1975 633 1967 574 1765 595 1717 579 1691 572 1689 572 1686 572 1684 572 1681 572 1671 579 1650 600 1620 600 1571 582 1543 574 1541 574 1362 574 1359 574 1290 590 1244 600 1198 592 1114 577 1111 577 1109 577 1060 595 1040 605 897 605 889 600 858 587 856 587 853 587 851 587 810 597 743 579 741 579 738 579 736 579 733 579 697 605 695 605 687 605 536 587 534 587 531 587 480 605 454 587 452 587 449 587 447 587 444 587 442 587 442 590 407 597 424 638"/></Shape>
+	    <String CONTENT="Disponga U. como guste de su afmo am^o y comp^o"
+                    HPOS="407"
+                    VPOS="572"
+                    WIDTH="1568"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1455"
+                   VPOS="666"
+                   WIDTH="767"
+                   HEIGHT="159"
+                   ID="eSc_textblock_2bcb7ca4"
+                   TAGREFS="BT3952">
+          <Shape><Polygon POINTS="2222 666 2222 741 2187 743 2103 804 1809 825 1512 815 1461 794 1459 712 1455 711 1455 666"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e98e5889"
+                    TAGREFS="LT1333"
+                    BASELINE="1484 730 2149 723" 
+                    HPOS="1482"
+                    VPOS="654"
+                    WIDTH="667"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1484 759 1629 757 1788 749 1816 747 1850 760 1891 752 1995 744 2075 746 2103 734 2141 752 2149 723 2141 656 2059 666 1990 659 1942 654 1939 654 1937 654 1921 661 1878 679 1786 666 1783 666 1699 682 1482 671 1484 730"/></Shape>
+	    <String CONTENT="Marino Cueto"
+                    HPOS="1482"
+                    VPOS="654"
+                    WIDTH="667"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2187"
+                   VPOS="71"
+                   WIDTH="67"
+                   HEIGHT="89"
+                   ID="eSc_textblock_668dcc41"
+                   TAGREFS="BT3951">
+          <Shape><Polygon POINTS="2187 160 2197 71 2254 75 2254 160"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5b54c7a0"
+                    TAGREFS="LT1333"
+                    BASELINE="2201 143 2215 141 2254 141" 
+                    HPOS="2200"
+                    VPOS="71"
+                    WIDTH="51"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="2225 74 2200 71 2200 140 2200 150 2248 163 2251 140 2251 84 2225 71 2225 74"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2200"
+                    VPOS="71"
+                    WIDTH="51"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1707"
+                   VPOS="2902"
+                   WIDTH="325"
+                   HEIGHT="102"
+                   ID="eSc_textblock_33c98384"
+                   TAGREFS="BT3949">
+          <Shape><Polygon POINTS="1880 2902 2031 2922 2032 3004 1707 3002 1717 2922"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ca9847c"
+                    TAGREFS="LT1333"
+                    BASELINE="1722 2991 2028 2985" 
+                    HPOS="1717"
+                    VPOS="2920"
+                    WIDTH="309"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1719 3010 2019 3007 2026 2984 2021 2928 1717 2920 1719 2989"/></Shape>
+	    <String CONTENT="000335"
+                    HPOS="1717"
+                    VPOS="2920"
+                    WIDTH="309"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
+

@@ -1,7 +1,7 @@
 import os
 import spacy
 
-#contantes
+#constants
 CURRENT = os.path.dirname(os.path.abspath(__file__))
 XML_NOCLEAN = os.path.join(CURRENT, "transfo/input/")
 XML_CLEAN = os.path.join(CURRENT, "transfo/output/")
@@ -11,5 +11,5 @@ GEO_DICT = os.path.join(CURRENT, "data/dict/diccionario.json")
 LOGS = os.path.join(CURRENT, "transfo/logs/activity.json")
 TXT_LOGS = os.path.join(XML_CLEAN, "activity.txt")
 
-#spacy
+#spacy model
 NLP = spacy.load("es_core_news_md")
