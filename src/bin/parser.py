@@ -42,6 +42,11 @@ class ParserXML(object):
                 for change in word:
                     tokens = list(map(lambda x: x.replace(change, word[change]), line.split()))
                     line = ' '.join(tokens)
+                    if line[0] == '⁋':
+                        list_line = list(line)
+                        list_line[1] = list_line[1].upper()
+                        line = ''.join(list_line)
+                    print(line)
                 element = self.xml.find(f"//alto:String[@CONTENT='{ex_line}']", namespaces=self.ns)
                 element.set("CONTENT", line)
                 #Register
@@ -51,6 +56,7 @@ class ParserXML(object):
 
     def xml_writer(self, mode='wb'):
         if self.mode == "r":
+            print("hello")
             with open(os.path.join(XML_CLEAN, self.filename), mode) as f_write:
                 self.xml.write(f_write, encoding=self.encode, xml_declaration=True, pretty_print=True)
         else:
@@ -76,12 +82,12 @@ class Journal(ParserXML):
         if os.path.isfile(self.txt_dir):
             with open(self.txt_dir, "a") as f:
                 for change in self.correction:
-                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line + 1} -> {change} change to {self.correction[change]} \n\t"{line}" """)
+                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line} -> {change} change to {self.correction[change]} \n\t"{line}" """)
                     f.write("\n")
         else:
             with open(self.txt_dir, "w") as f:
                 for change in self.correction:
-                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line + 1} -> {change} change to {self.correction[change]} \n\tline original : "{line}" """)
+                    f.write(f"""{self.action[0] if self.mode == "r" else self.action[1]}: {self.filename}, l.{self.n_line} -> {change} change to {self.correction[change]} \n\tline original : "{line}" """)
                     f.write("\n")
 
     def export_json(self):
