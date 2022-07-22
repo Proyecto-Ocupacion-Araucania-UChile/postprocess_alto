@@ -21,18 +21,18 @@ def correction(image, security):
     :param security: Boolean, to activate confirmation mode of changement
     :return: None
     """
-    global img
+    img = None
 
     # Open json correction missed
     with open(os.path.join(XML_CLEAN, 'list_correction.json')) as json_file:
         data_corr = json.load(json_file)
-        print("There are " + str(len([element["manual"] for element in data_corr])) + " items left to correct")
+        print("There are " + str(len([element for element in data_corr if element['manual'] is False])) + " items left to correct")
 
     # File iteration
     for file in os.listdir(XML_CLEAN):
         if file.endswith(".xml"):
             #instanciation Parser
-            xml = ParserXML(file=os.path.join(XML_CLEAN, file), mode="r+")
+            xml = ParserXML(file=os.path.join(XML_CLEAN, file), mode="r+", automatic=False)
             # Print jpg
             if image:
                 try:
@@ -41,14 +41,14 @@ def correction(image, security):
                 except FileNotFoundError:
                     print("Img directory don't contain the image associated")
                     break
-            #order json by file and line number
+            # order json by file and line number
             data_corr.sort(key=lambda x: (x['file'], x['line']))
 
             line_prev = None
+            dict_line = {}
 
             for element in data_corr:
                 if element["file"] == file and element["manual"] is False:
-                    dict_line = {}
                     if line_prev == element["line"]:
                         corr = prompt(element, security)
                         dict_line[corr[0]] = corr[1]
@@ -56,19 +56,24 @@ def correction(image, security):
                         corr = prompt(element, security)
                         dict_line[corr[0]] = corr[1]
                         line_prev = element["line"]
-                    else:
+                    elif line_prev != element["line"] and line_prev is not None:
                         xml.replacer(line_prev, dict_line)
+                        dict_line = {}
+                        corr = prompt(element, security)
+                        dict_line[corr[0]] = corr[1]
                         line_prev = element["line"]
                     element["manual"] = True
                     with open(os.path.join(XML_CLEAN, 'list_correction.json'), "w") as json_write:
                         json.dump(data_corr, json_write, indent=3, ensure_ascii=False)
-                xml.replacer()xml_writer
+            xml.replacer(line_prev, dict_line)
+            print("hola")
+            xml.xml_writer()
             if image:
                 img.close()
         # Verify if all corrections are done
-        #if all([element["manual"] for element in data_corr]):
+        if all([element["manual"] for element in data_corr]):
             print("Correction is finished")
-            #break
+            break
 
 
 if __name__ == '__main__':

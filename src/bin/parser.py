@@ -9,20 +9,21 @@ from constants import XML_CLEAN, LOGS, TXT_LOGS
 class ParserXML(object):
     ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
 
-    def __init__(self, file, encode="utf-8", mode="r"):
+    def __init__(self, file, automatic=True, encode="utf-8", mode="r"):
         self.file = file
         self.encode = encode
         self.mode = mode
+        self.automatic = automatic
         self.filename = ParserXML._filename_(self)
         self.xml = ParserXML._opener_(self)
         self.root = self.xml.getroot()
         self.text = self.root.xpath("//alto:String/@CONTENT", namespaces=self.ns)
 
     def __repr__(self):
-        return f'ParserXML("{self.filename}","{self.encode}","{self.ns}","{self.mode}")'
+        return f"""ParserXML("{self.filename}","{self.encode}","{self.ns}","{self.mode}", "{self.automatic}")"""
 
     def __str__(self):
-        return f'({self.filename},{self.encode},{self.ns},{self.mode})'
+        return f'({self.filename},{self.encode},{self.ns},{self.mode}, {self.automatic})'
 
     def _opener_(self):
         with open(self.file, mode=self.mode, encoding=self.encode) as f:
@@ -46,9 +47,9 @@ class ParserXML(object):
                         list_line = list(line)
                         list_line[1] = list_line[1].upper()
                         line = ''.join(list_line)
-                    print(line)
                 element = self.xml.find(f"//alto:String[@CONTENT='{ex_line}']", namespaces=self.ns)
                 element.set("CONTENT", line)
+                print(self.xml)
                 #Register
                 journal = Journal(n_line=n_line, correction=word, file=self.file)
                 journal.export_text(ex_line)
@@ -60,7 +61,7 @@ class ParserXML(object):
             with open(os.path.join(XML_CLEAN, self.filename), mode) as f_write:
                 self.xml.write(f_write, encoding=self.encode, xml_declaration=True, pretty_print=True)
         else:
-            self.xml.write(self.filename, encoding=self.encode, xml_declaration=True, pretty_print=True)
+            self.xml.write(os.path.join(XML_CLEAN, self.filename), encoding=self.encode, xml_declaration=True, pretty_print=True)
 
 
 class Journal(ParserXML):
@@ -93,7 +94,7 @@ class Journal(ParserXML):
     def export_json(self):
         asset = {
             "date": str(datetime.datetime.now()),
-            "action": self.action[0] if self.mode == "r" else self.action[1],
+            "action": self.action[0] if self.automatic is True else self.action[1],
             "n_line": self.n_line,
             "word_error": [element for element in self.correction],
             "word_correction": [self.correction[element] for element in self.correction]
