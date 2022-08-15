@@ -66,7 +66,6 @@ def correction(image, security):
                     with open(os.path.join(XML_CLEAN, 'list_correction.json'), "w") as json_write:
                         json.dump(data_corr, json_write, indent=3, ensure_ascii=False)
             xml.replacer(line_prev, dict_line)
-            print("hola")
             xml.xml_writer()
             if image:
                 img.close()

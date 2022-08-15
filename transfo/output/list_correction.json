@@ -9,7 +9,7 @@
       "probability": 0.0,
       "suggestions": [
          "prudente",
-         "prometen",
+         "puramente",
          "presente"
       ],
       "manual": true
@@ -23,29 +23,29 @@
       "corrected": "de",
       "probability": 0.0,
       "suggestions": [
+         "Me",
+         "Un",
+         "he",
+         "He",
+         "Se",
+         "Ud",
          "ue",
          "me",
-         "Ud",
-         "fe",
-         "He",
-         "U",
-         "de",
-         "US",
-         "Me",
-         "pe",
-         "se",
-         "De",
          "le",
-         "ie",
-         "Te",
-         "e",
-         "Le",
-         "te",
-         "Un",
+         "US",
+         "De",
          "re",
-         "he",
-         "Se",
-         "ae"
+         "de",
+         "ie",
+         "Le",
+         "ae",
+         "Te",
+         "se",
+         "be",
+         "pe",
+         "e",
+         "U",
+         "te"
       ],
       "manual": true
    },
@@ -58,8 +58,8 @@
       "corrected": "ha",
       "probability": 0.0,
       "suggestions": [
-         "dha",
          "fha",
+         "dha",
          "ha"
       ],
       "manual": true
@@ -73,10 +73,10 @@
       "corrected": "Ayer",
       "probability": 0.0,
       "suggestions": [
-         "Art",
-         "Ant",
+         "Alta",
          "ArtS",
-         "Ayer"
+         "Ayer",
+         "Ant"
       ],
       "manual": true
    },
@@ -89,13 +89,13 @@
       "corrected": "hice",
       "probability": 0.0,
       "suggestions": [
-         "hira",
-         "hise",
-         "hare",
          "jire",
-         "hir",
+         "hare",
+         "hise",
+         "hiré",
+         "mire",
          "hice",
-         "hiré"
+         "hir"
       ],
       "manual": true
    },
@@ -108,11 +108,11 @@
       "corrected": "pr",
       "probability": 0.0,
       "suggestions": [
-         "pr",
          "vre",
+         "pte",
+         "re",
          "pe",
-         "bre",
-         "re"
+         "bre"
       ],
       "manual": true
    },
@@ -125,15 +125,15 @@
       "corrected": "Bio",
       "probability": 0.0,
       "suggestions": [
-         "Bio",
          "pido",
-         "mio",
          "po",
-         "lio",
-         "pié",
          "dio",
+         "pié",
+         "rio",
+         "lio",
+         "mio",
          "bio",
-         "rio"
+         "Bio"
       ],
       "manual": true
    },
@@ -173,7 +173,7 @@
       "suggestions": [
          "manden",
          "tabien",
-         "tenien"
+         "Daniel"
       ],
       "manual": true
    },
@@ -186,8 +186,8 @@
       "corrected": "mand",
       "probability": 0.0,
       "suggestions": [
-         "man",
-         "mand"
+         "mand",
+         "man"
       ],
       "manual": true
    },
@@ -200,8 +200,8 @@
       "corrected": "buenos",
       "probability": 0.0,
       "suggestions": [
-         "buenos",
-         "dueños"
+         "dueños",
+         "cuentos"
       ],
       "manual": true
    },
@@ -260,13 +260,13 @@
       "corrected": "Enero",
       "probability": 0.0,
       "suggestions": [
-         "ponerlo",
-         "jenero",
-         "poner",
+         "Enero",
          "Cornelo",
+         "jenero",
+         "ponerlo",
+         "poner",
          "dinero",
-         "Correo",
-         "Enero"
+         "Correo"
       ],
       "manual": true
    },
@@ -279,12 +279,12 @@
       "corrected": "dia",
       "probability": 0.0,
       "suggestions": [
-         "via",
-         "dia",
          "ci",
-         "cir",
+         "cita",
          "acia",
-         "cita"
+         "cir",
+         "mia",
+         "dia"
       ],
       "manual": true
    },
@@ -297,9 +297,9 @@
       "corrected": "ha",
       "probability": 0.0,
       "suggestions": [
-         "dha",
          "fha",
-         "ha"
+         "ta",
+         "dha"
       ],
       "manual": true
    },
@@ -325,9 +325,9 @@
       "corrected": "propio",
       "probability": 0.0,
       "suggestions": [
-         "prov",
+         "propia",
          "proveo",
-         "propia"
+         "prov"
       ],
       "manual": true
    },
@@ -341,14 +341,14 @@
       "probability": 0.0,
       "suggestions": [
          "ella",
-         "esa",
-         "echa",
-         "era",
          "pa",
-         "pena",
-         "enta",
+         "esa",
+         "era",
+         "enla",
          "esta",
-         "enla"
+         "sepa",
+         "echa",
+         "pena"
       ],
       "manual": true
    },
@@ -361,11 +361,11 @@
       "corrected": "No",
       "probability": 0.0,
       "suggestions": [
-         "No",
-         "Nº",
+         "Nob",
          "N",
-         "Nov",
-         "7º"
+         "7º",
+         "Nº",
+         "No"
       ],
       "manual": true
    },
@@ -378,14 +378,14 @@
       "corrected": "dos",
       "probability": 0.0,
       "suggestions": [
-         "dias",
-         "dia",
-         "das",
-         "dies",
-         "dio",
          "dos",
+         "dio",
          "mis",
-         "di"
+         "dió",
+         "dies",
+         "das",
+         "di",
+         "dias"
       ],
       "manual": true
    },
@@ -398,14 +398,14 @@
       "corrected": "ella",
       "probability": 0.0,
       "suggestions": [
-         "ella",
-         "Silva",
-         "alla",
-         "ila",
-         "halla",
          "isla",
+         "Silva",
+         "ella",
+         "cita",
          "Coilla",
-         "culpa"
+         "halla",
+         "alla",
+         "ila"
       ],
       "manual": true
    },
@@ -418,13 +418,13 @@
       "corrected": "llegado",
       "probability": 0.0,
       "suggestions": [
-         "Llegado",
-         "quedado",
          "negado",
          "llegado",
-         "juzgados",
+         "juntado",
+         "quedado",
+         "juzgando",
          "juego",
-         "juzgando"
+         "juzgados"
       ],
       "manual": true
    },
@@ -438,13 +438,13 @@
       "probability": 0.0,
       "suggestions": [
          "s",
-         "Usd",
-         "es",
-         "Ud",
+         "ms",
+         "Un",
          "Es",
          "U",
-         "ms",
-         "US"
+         "es",
+         "US",
+         "Usd"
       ],
       "manual": true
    },
@@ -457,19 +457,19 @@
       "corrected": "mui",
       "probability": 0.0,
       "suggestions": [
-         "guia",
-         "ñui",
-         "ir",
-         "hir",
-         "Sur",
-         "Mui",
-         "cir",
-         "cui",
          "Hui",
-         "mui",
+         "ñui",
+         "guia",
          "fui",
+         "cir",
          "Luis",
-         "guar"
+         "guar",
+         "cui",
+         "mui",
+         "ir",
+         "sur",
+         "Sur",
+         "hir"
       ],
       "manual": true
    },
@@ -482,9 +482,9 @@
       "corrected": "solo",
       "probability": 0.0,
       "suggestions": [
+         "solo",
          "Solo",
-         "Todo",
-         "solo"
+         "olo"
       ],
       "manual": true
    },
@@ -497,16 +497,16 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "El",
-         "US",
-         "Ud",
-         "Dl",
-         "al",
-         "U",
-         "Al",
          "l",
+         "al",
          "Un",
-         "él"
+         "él",
+         "Dl",
+         "El",
+         "Al",
+         "U",
+         "US",
+         "Ud"
       ],
       "manual": true
    },
@@ -519,8 +519,8 @@
       "corrected": "con",
       "probability": 0.0,
       "suggestions": [
-         "co",
-         "con"
+         "con",
+         "com"
       ],
       "manual": true
    },
@@ -546,8 +546,8 @@
       "corrected": "el",
       "probability": 0.0,
       "suggestions": [
-         "del",
          "Jil",
+         "Del",
          "el"
       ],
       "manual": true

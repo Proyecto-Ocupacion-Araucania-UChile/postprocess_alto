@@ -1,76 +1,142 @@
-automatic: 203_a.xml, l.1 -> inteime change to intimó 
-	line original : "⁋E^te inteime de" 
-automatic: 203_a.xml, l.2 -> Gobemador change to Gobernador 
-	"⁋Por el Gobemador del dep^t de Sauteno" 
-automatic: 203_a.xml, l.8 -> poricion change to posicion 
-	"poricion de Ud al reo Juan llmor-" 
-automatic: 203_a.xml, l.9 -> tetulado change to titulado 
-	"cilla, tetulado Sarjento mayor dela-" 
-automatic: 203_a.xml, l.9 -> Sarjento change to Sargento 
-	"cilla, tetulado Sarjento mayor dela-" 
-automatic: 203_a.xml, l.9 -> dela- change to dela 
-	"cilla, tetulado Sarjento mayor dela-" 
-automatic: 203_a.xml, l.11 -> allí change to alli 
-	"allí sea juegado; i en su concecuencio" 
-automatic: 203_a.xml, l.11 -> concecuencio change to consecuencia 
-	"allí sea juegado; i en su concecuencio" 
-automatic: 203_a.xml, l.12 -> Ud. change to Ud 
-	"selo remito bajo segura custodia; i Ud." 
-automatic: 203_a.xml, l.13 -> servirá change to servirá 
-	"se servirá acuzarme recibo. = Dios que a Us" 
-automatic: 203_a.xml, l.14 -> Parcual change to Pascal 
-	"Parcual Ruir." 
-automatic: 203_a.xml, l.15 -> nocimiento change to nacimiento 
-	"nocimiento." 
-automatic: 203_a.xml, l.16 -> trarcribo change to trascribo 
-	"⁋Tolo lo trarcribo a Ul para su co-" 
-automatic: 203_a.xml, l.17 -> determinas change to determinar 
-	"Mientras Ud se sirva determinas" 
-automatic: 203_a.xml, l.18 -> dispueto change to dispuesto 
-	"de dicho reo, he dispueto mandarlo" 
-automatic: 203_a.xml, l.18 -> mandarlo change to mandarle 
-	"de dicho reo, he dispueto mandarlo" 
-automatic: 203_a.xml, l.19 -> Maipú change to Maipu 
-	"abordo del vapor Maipú, para la" 
-automatic: 203_a.xml, l.21 -> Lonezo change to Lopez 
-	"Arauco Lonezo 2 de 1860" 
-automatic: 203_a.xml, l.25 -> Sõr change to Sor 
-	"⁋Al Sõr Comand^o en fefe dela" 
-automatic: 203_a.xml, l.25 -> fefe change to Jefe 
-	"⁋Al Sõr Comand^o en fefe dela" 
-automatic: 203_a.xml, l.26 -> deoperaciones change to operaciones 
-	"Piarcion deoperaciones de" 
-automatic: 203_a.xml, l.28 -> gu~e change to gue 
-	"⁋Dios gu~e a Ud" 
-automatic: 203_a.xml, l.29 -> C. change to C 
-	"⁋Jel C. Diaz" 
-automatic: 189_a.xml, l.4 -> Inmediatamente change to inmediatamente 
-	"⁋Inmediatamente hire pre" 
-automatic: 189_a.xml, l.5 -> Anpeles change to Angeles 
+automatic: 189_a.xml, l.3 -> Inmediatamente change to inmediatamente 
+	line original : "⁋Inmediatamente hire pre" 
+automatic: 189_a.xml, l.4 -> Anpeles change to Angeles 
 	"pio a los Anpeles, participando al" 
-automatic: 189_a.xml, l.6 -> Sõr change to Sor 
+automatic: 189_a.xml, l.5 -> Sõr change to Sor 
 	"⁋Sõr Intend^te, el endito que ha" 
-automatic: 189_a.xml, l.11 -> Jodabia change to todabia 
+automatic: 189_a.xml, l.10 -> Jodabia change to todabia 
 	"⁋Jodabia no he recibo" 
-automatic: 189_a.xml, l.13 -> corespondiente change to correspondientes 
+automatic: 189_a.xml, l.12 -> corespondiente change to correspondientes 
 	"de, para hacer la corespondiente" 
-automatic: 189_a.xml, l.14 -> débolucion change to debolución 
+automatic: 189_a.xml, l.13 -> débolucion change to debolución 
 	"débolucion asus dueños" 
-automatic: 189_a.xml, l.16 -> Salvador change to malvados 
+automatic: 189_a.xml, l.15 -> Salvador change to malvados 
 	"⁋El conductor D^n Salvador Elmnosilla" 
-automatic: 189_a.xml, l.16 -> Elmnosilla change to Elmorilla 
+automatic: 189_a.xml, l.15 -> Elmnosilla change to Elmorilla 
 	"⁋El conductor D^n Salvador Elmnosilla" 
-automatic: 189_a.xml, l.17 -> lanzar change to lanar 
+automatic: 189_a.xml, l.16 -> lanzar change to lanar 
 	"lleba 25 lanzar, con estas son" 
-automatic: 189_a.xml, l.20 -> aUd change to Ud 
+automatic: 189_a.xml, l.19 -> aUd change to Ud 
 	"⁋Dios gue. aUd." 
-automatic: 189_a.xml, l.21 -> Jdel change to del 
+automatic: 189_a.xml, l.20 -> Jdel change to del 
 	"⁋Jdel C. Dize" 
-automatic: 189_a.xml, l.21 -> C. change to C 
+automatic: 189_a.xml, l.20 -> C. change to C 
 	"⁋Jdel C. Dize" 
-automatic: 189_a.xml, l.21 -> Dize change to Dime 
+automatic: 189_a.xml, l.20 -> Dize change to Dime 
 	"⁋Jdel C. Dize" 
-automatic: 189_a.xml, l.22 -> Señor change to Senor 
+automatic: 189_a.xml, l.21 -> Señor change to Senor 
 	"⁋Al Señor Coronel Comand^" 
-automatic: 189_a.xml, l.23 -> pacificadora change to Pacificadora 
+automatic: 189_a.xml, l.22 -> pacificadora change to Pacificadora 
 	"U Jefe dela Divicion pacificadora" 
+automatic: 203_a.xml, l.0 -> inteime change to intimó 
+	"⁋E^te inteime de" 
+automatic: 203_a.xml, l.1 -> Gobemador change to Gobernador 
+	"⁋Por el Gobemador del dep^t de Sauteno" 
+automatic: 203_a.xml, l.7 -> poricion change to posicion 
+	"poricion de Ud al reo Juan llmor-" 
+automatic: 203_a.xml, l.8 -> tetulado change to titulado 
+	"cilla, tetulado Sarjento mayor dela-" 
+automatic: 203_a.xml, l.8 -> Sarjento change to Sargento 
+	"cilla, tetulado Sarjento mayor dela-" 
+automatic: 203_a.xml, l.8 -> dela- change to dela 
+	"cilla, tetulado Sarjento mayor dela-" 
+automatic: 203_a.xml, l.10 -> allí change to alli 
+	"allí sea juegado; i en su concecuencio" 
+automatic: 203_a.xml, l.10 -> concecuencio change to consecuencia 
+	"allí sea juegado; i en su concecuencio" 
+automatic: 203_a.xml, l.11 -> Ud. change to Ud 
+	"selo remito bajo segura custodia; i Ud." 
+automatic: 203_a.xml, l.12 -> servirá change to servirá 
+	"se servirá acuzarme recibo. = Dios que a Us" 
+automatic: 203_a.xml, l.13 -> Parcual change to Pascal 
+	"Parcual Ruir." 
+automatic: 203_a.xml, l.14 -> nocimiento change to nacimiento 
+	"nocimiento." 
+automatic: 203_a.xml, l.15 -> trarcribo change to trascribo 
+	"⁋Tolo lo trarcribo a Ul para su co-" 
+automatic: 203_a.xml, l.16 -> determinas change to determinar 
+	"Mientras Ud se sirva determinas" 
+automatic: 203_a.xml, l.17 -> dispueto change to dispuesto 
+	"de dicho reo, he dispueto mandarlo" 
+automatic: 203_a.xml, l.17 -> mandarlo change to mandarle 
+	"de dicho reo, he dispueto mandarlo" 
+automatic: 203_a.xml, l.18 -> Maipú change to Maipu 
+	"abordo del vapor Maipú, para la" 
+automatic: 203_a.xml, l.20 -> Lonezo change to Lopez 
+	"Arauco Lonezo 2 de 1860" 
+automatic: 203_a.xml, l.24 -> Sõr change to Sor 
+	"⁋Al Sõr Comand^o en fefe dela" 
+automatic: 203_a.xml, l.24 -> fefe change to Jefe 
+	"⁋Al Sõr Comand^o en fefe dela" 
+automatic: 203_a.xml, l.25 -> deoperaciones change to operaciones 
+	"Piarcion deoperaciones de" 
+automatic: 203_a.xml, l.27 -> gu~e change to gue 
+	"⁋Dios gu~e a Ud" 
+automatic: 203_a.xml, l.28 -> C. change to C 
+	"⁋Jel C. Diaz" 
+automatic: 189_a.xml, l.1 -> promente change to presente 
+	"⁋En este promente recibi la nota de" 
+automatic: 189_a.xml, l.2 -> Ue change to Ud. 
+	"Ue pha. de Aytt." 
+automatic: 189_a.xml, l.2 -> pha change to fha 
+	"Ue pha. de Aytt." 
+automatic: 189_a.xml, l.2 -> Aytt change to Ayer 
+	"Ue pha. de Aytt." 
+automatic: 189_a.xml, l.3 -> hire change to hice 
+	"⁋Inmediatamente hire pre" 
+automatic: 189_a.xml, l.3 -> pre change to pre- 
+	"⁋Inmediatamente hire pre" 
+automatic: 189_a.xml, l.4 -> pio change to pio 
+	"pio a los Angeles, participando al" 
+automatic: 189_a.xml, l.5 -> Intend^te change to Intend^te 
+	"⁋Sor Intend^te, el endito que ha" 
+automatic: 189_a.xml, l.5 -> endito change to indio 
+	"⁋Sor Intend^te, el endito que ha" 
+automatic: 189_a.xml, l.9 -> Vanien change to Venien 
+	"Vanien ilegalmente." 
+automatic: 189_a.xml, l.11 -> man- change to man- 
+	"do los 80 animales que le man-" 
+automatic: 189_a.xml, l.13 -> dueños change to dueños 
+	"debolución asus dueños" 
+automatic: 189_a.xml, l.15 -> D^n change to D^n 
+	"⁋El conductor D^n malvados Elmorilla" 
+automatic: 189_a.xml, l.21 -> Comand^ change to Comand 
+	"⁋Al Senor Coronel Comand^" 
+automatic: 203_a.xml, l.0 -> E^te change to Gob 
+	"⁋E^te intimó de" 
+automatic: 203_a.xml, l.1 -> dep^t change to dep^t 
+	"⁋Por el Gobernador del dep^t de Sauteno" 
+automatic: 203_a.xml, l.3 -> Conero change to Enero 
+	"Santa Juana Conero 2 de 1860." 
+automatic: 203_a.xml, l.4 -> cia change to cia 
+	"cia en nota oficial tha 29 del mes" 
+automatic: 203_a.xml, l.4 -> tha change to fha 
+	"cia en nota oficial tha 29 del mes" 
+automatic: 203_a.xml, l.5 -> Intend^a change to Intend^a 
+	"⁋Por la Intend^a demi provin" 
+automatic: 203_a.xml, l.5 -> provin change to provin- 
+	"⁋Por la Intend^a demi provin" 
+automatic: 203_a.xml, l.6 -> ep^a change to esta 
+	"ep^a No N72, seme ordena poner a dis" 
+automatic: 203_a.xml, l.6 -> N72 change to 72 
+	"ep^a No N72, seme ordena poner a dis" 
+automatic: 203_a.xml, l.6 -> dis change to dis- 
+	"ep^a No N72, seme ordena poner a dis" 
+automatic: 203_a.xml, l.8 -> cilla change to cilla 
+	"cilla, titulado Sargento mayor dela" 
+automatic: 203_a.xml, l.10 -> juegado change to juegado 
+	"alli sea juegado; i en su consecuencia" 
+automatic: 203_a.xml, l.12 -> Us change to Ud 
+	"se servirá acuzarme recibo. = Dios que a Us" 
+automatic: 203_a.xml, l.13 -> Ruir change to Ruir 
+	"Pascal Ruir." 
+automatic: 203_a.xml, l.15 -> Tolo change to Solo 
+	"⁋Tolo lo trascribo a Ul para su co-" 
+automatic: 203_a.xml, l.15 -> Ul change to Ud 
+	"⁋Tolo lo trascribo a Ul para su co-" 
+automatic: 203_a.xml, l.15 -> co- change to co- 
+	"⁋Tolo lo trascribo a Ul para su co-" 
+automatic: 203_a.xml, l.24 -> Comand^o change to Comand^o 
+	"⁋Al Sor Comand^o en Jefe dela" 
+automatic: 203_a.xml, l.28 -> Jel change to Jose 
+	"⁋Jel C Diaz" 

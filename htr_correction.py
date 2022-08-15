@@ -1,7 +1,6 @@
 import json
 import os
 
-
 from tqdm import tqdm
 import click
 from spellchecker import SpellChecker
@@ -29,13 +28,13 @@ def word_parsing(frequency, text):
     :return:
     """
 
-    #clean dir
+    # clean dir
     cleaning_folder(XML_CLEAN)
 
-    #variable
+    # variable
     list_files = []
 
-    #init spellchecker
+    # init spellchecker
     if frequency:
         if text:
             print("writing data dictionary")
@@ -46,11 +45,12 @@ def word_parsing(frequency, text):
             spell = SpellChecker(language=None, case_sensitive=True, distance=4)
             spell.word_frequency.load_text_file(text_parsing)
         except FileNotFoundError:
-            return print("Data ground truth is not found. You can active option [text] to generate data for dictionary !")
+            return print(
+                "Data ground truth is not found. You can active option [text] to generate data for dictionary !")
     else:
         spell = SpellChecker(language='es', case_sensitive=True, distance=2)
 
-    #parsing
+    # parsing
     for file in os.listdir(XML_NOCLEAN):
         if file.endswith(".xml"):
             xml = ParserXML(os.path.join(XML_NOCLEAN, file))
@@ -107,7 +107,8 @@ def word_parsing(frequency, text):
                             }
 
                             # Registering spellchecker
-                            if dict_sugg["corrected"] is not None and len(dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
+                            if dict_sugg["corrected"] is not None and len(
+                                    dict_sugg["suggestions"]) <= 1 and "^" not in list(dict_sugg["word"]):
                                 dict_line[dict_sugg["word"]] = dict_sugg["corrected"]
                             # Add suggestion dict
                             else:
@@ -123,6 +124,7 @@ def word_parsing(frequency, text):
         json.dump(list_files, f, indent=3, ensure_ascii=False)
 
     print("Finish !")
+
 
 if __name__ == '__main__':
     word_parsing()

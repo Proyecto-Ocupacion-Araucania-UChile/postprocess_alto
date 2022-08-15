@@ -49,7 +49,6 @@ class ParserXML(object):
                         line = ''.join(list_line)
                 element = self.xml.find(f"//alto:String[@CONTENT='{ex_line}']", namespaces=self.ns)
                 element.set("CONTENT", line)
-                print(self.xml)
                 #Register
                 journal = Journal(n_line=n_line, correction=word, file=self.file)
                 journal.export_text(ex_line)
@@ -57,7 +56,6 @@ class ParserXML(object):
 
     def xml_writer(self, mode='wb'):
         if self.mode == "r":
-            print("hello")
             with open(os.path.join(XML_CLEAN, self.filename), mode) as f_write:
                 self.xml.write(f_write, encoding=self.encode, xml_declaration=True, pretty_print=True)
         else:

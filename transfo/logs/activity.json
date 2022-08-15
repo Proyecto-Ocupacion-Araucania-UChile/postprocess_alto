@@ -1,520 +1,9 @@
 {
-   "203_a.xml": [
-      {
-         "date": "2022-07-21 14:29:20.227449",
-         "action": "automatic",
-         "n_line": 1,
-         "word_error": [
-            "inteime"
-         ],
-         "word_correction": [
-            "intimó"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:29:35.925553",
-         "action": "automatic",
-         "n_line": 2,
-         "word_error": [
-            "Gobemador"
-         ],
-         "word_correction": [
-            "Gobernador"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:29:58.100374",
-         "action": "automatic",
-         "n_line": 8,
-         "word_error": [
-            "poricion"
-         ],
-         "word_correction": [
-            "posicion"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:01.238732",
-         "action": "automatic",
-         "n_line": 9,
-         "word_error": [
-            "tetulado",
-            "Sarjento",
-            "dela-"
-         ],
-         "word_correction": [
-            "titulado",
-            "Sargento",
-            "dela"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:22.452514",
-         "action": "automatic",
-         "n_line": 11,
-         "word_error": [
-            "allí",
-            "concecuencio"
-         ],
-         "word_correction": [
-            "alli",
-            "consecuencia"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:22.466429",
-         "action": "automatic",
-         "n_line": 12,
-         "word_error": [
-            "Ud."
-         ],
-         "word_correction": [
-            "Ud"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:35.382372",
-         "action": "automatic",
-         "n_line": 13,
-         "word_error": [
-            "servirá"
-         ],
-         "word_correction": [
-            "servirá"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:43.912812",
-         "action": "automatic",
-         "n_line": 14,
-         "word_error": [
-            "Parcual"
-         ],
-         "word_correction": [
-            "Pascal"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:43.928198",
-         "action": "automatic",
-         "n_line": 15,
-         "word_error": [
-            "nocimiento"
-         ],
-         "word_correction": [
-            "nacimiento"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:44.054042",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [
-            "trarcribo"
-         ],
-         "word_correction": [
-            "trascribo"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:44.120737",
-         "action": "automatic",
-         "n_line": 17,
-         "word_error": [
-            "determinas"
-         ],
-         "word_correction": [
-            "determinar"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:44.172561",
-         "action": "automatic",
-         "n_line": 18,
-         "word_error": [
-            "dispueto",
-            "mandarlo"
-         ],
-         "word_correction": [
-            "dispuesto",
-            "mandarle"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:44.239496",
-         "action": "automatic",
-         "n_line": 19,
-         "word_error": [
-            "Maipú"
-         ],
-         "word_correction": [
-            "Maipu"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:48.871204",
-         "action": "automatic",
-         "n_line": 21,
-         "word_error": [
-            "Lonezo"
-         ],
-         "word_correction": [
-            "Lopez"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:30:56.313710",
-         "action": "automatic",
-         "n_line": 25,
-         "word_error": [
-            "Sõr",
-            "fefe"
-         ],
-         "word_correction": [
-            "Sor",
-            "Jefe"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:31:18.972802",
-         "action": "automatic",
-         "n_line": 26,
-         "word_error": [
-            "deoperaciones"
-         ],
-         "word_correction": [
-            "operaciones"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:31:19.114404",
-         "action": "automatic",
-         "n_line": 28,
-         "word_error": [
-            "gu~e"
-         ],
-         "word_correction": [
-            "gue"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:31:19.214255",
-         "action": "automatic",
-         "n_line": 29,
-         "word_error": [
-            "C."
-         ],
-         "word_correction": [
-            "C"
-         ]
-      },
-      {
-         "date": "2022-07-21 14:36:25.857427",
-         "action": "automatic",
-         "n_line": 1,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.913141",
-         "action": "automatic",
-         "n_line": 2,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.917499",
-         "action": "automatic",
-         "n_line": 4,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.922202",
-         "action": "automatic",
-         "n_line": 5,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.926106",
-         "action": "automatic",
-         "n_line": 5,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.929392",
-         "action": "automatic",
-         "n_line": 6,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.932764",
-         "action": "automatic",
-         "n_line": 6,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.936598",
-         "action": "automatic",
-         "n_line": 7,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.940291",
-         "action": "automatic",
-         "n_line": 7,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.944440",
-         "action": "automatic",
-         "n_line": 7,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.948244",
-         "action": "automatic",
-         "n_line": 9,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.952199",
-         "action": "automatic",
-         "n_line": 11,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.954721",
-         "action": "automatic",
-         "n_line": 11,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.958516",
-         "action": "automatic",
-         "n_line": 13,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.960985",
-         "action": "automatic",
-         "n_line": 13,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.965302",
-         "action": "automatic",
-         "n_line": 14,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.967859",
-         "action": "automatic",
-         "n_line": 14,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.971678",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.974974",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.978908",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.981851",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.985842",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.988650",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.993181",
-         "action": "automatic",
-         "n_line": 25,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:25.995982",
-         "action": "automatic",
-         "n_line": 25,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:26.003176",
-         "action": "automatic",
-         "n_line": 29,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:26.006025",
-         "action": "automatic",
-         "n_line": 29,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:00:00.826424",
-         "action": "automatic",
-         "n_line": 2,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:00:00.917585",
-         "action": "automatic",
-         "n_line": 1,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:00:00.923568",
-         "action": "automatic",
-         "n_line": 2,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:00:00.929174",
-         "action": "automatic",
-         "n_line": 4,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:07:14.756527",
-         "action": "automatic",
-         "n_line": 1,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:07:14.822659",
-         "action": "automatic",
-         "n_line": 2,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:07:14.829054",
-         "action": "automatic",
-         "n_line": 4,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:07:39.224123",
-         "action": "automatic",
-         "n_line": 5,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:08:14.652483",
-         "action": "automatic",
-         "n_line": 6,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:10:17.504178",
-         "action": "automatic",
-         "n_line": 7,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:10:17.511975",
-         "action": "automatic",
-         "n_line": 9,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:10:17.516936",
-         "action": "automatic",
-         "n_line": 11,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:10:17.523555",
-         "action": "automatic",
-         "n_line": 13,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:10:17.528988",
-         "action": "automatic",
-         "n_line": 14,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:11:27.781860",
-         "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 16:11:27.788988",
-         "action": "automatic",
-         "n_line": 25,
-         "word_error": [],
-         "word_correction": []
-      }
-   ],
    "189_a.xml": [
       {
-         "date": "2022-07-21 14:31:36.757531",
+         "date": "2022-07-22 16:29:15.952496",
          "action": "automatic",
-         "n_line": 4,
+         "n_line": 3,
          "word_error": [
             "Inmediatamente"
          ],
@@ -523,9 +12,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:31:48.316408",
+         "date": "2022-07-22 16:29:20.534989",
          "action": "automatic",
-         "n_line": 5,
+         "n_line": 4,
          "word_error": [
             "Anpeles"
          ],
@@ -534,9 +23,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:32:02.450893",
+         "date": "2022-07-22 16:29:25.155751",
          "action": "automatic",
-         "n_line": 6,
+         "n_line": 5,
          "word_error": [
             "Sõr"
          ],
@@ -545,9 +34,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:32:23.002208",
+         "date": "2022-07-22 16:29:32.738006",
          "action": "automatic",
-         "n_line": 11,
+         "n_line": 10,
          "word_error": [
             "Jodabia"
          ],
@@ -556,9 +45,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:32:42.919547",
+         "date": "2022-07-22 16:29:45.311519",
          "action": "automatic",
-         "n_line": 13,
+         "n_line": 12,
          "word_error": [
             "corespondiente"
          ],
@@ -567,9 +56,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:00.965454",
+         "date": "2022-07-22 16:29:52.832285",
          "action": "automatic",
-         "n_line": 14,
+         "n_line": 13,
          "word_error": [
             "débolucion"
          ],
@@ -578,9 +67,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:18.656245",
+         "date": "2022-07-22 16:30:00.565623",
          "action": "automatic",
-         "n_line": 16,
+         "n_line": 15,
          "word_error": [
             "Salvador",
             "Elmnosilla"
@@ -591,9 +80,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:18.699789",
+         "date": "2022-07-22 16:30:00.624105",
          "action": "automatic",
-         "n_line": 17,
+         "n_line": 16,
          "word_error": [
             "lanzar"
          ],
@@ -602,9 +91,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:20.765150",
+         "date": "2022-07-22 16:30:02.025840",
          "action": "automatic",
-         "n_line": 20,
+         "n_line": 19,
          "word_error": [
             "aUd"
          ],
@@ -613,9 +102,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:20.869596",
+         "date": "2022-07-22 16:30:02.297462",
          "action": "automatic",
-         "n_line": 21,
+         "n_line": 20,
          "word_error": [
             "Jdel",
             "C.",
@@ -628,9 +117,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:20.979934",
+         "date": "2022-07-22 16:30:02.546825",
          "action": "automatic",
-         "n_line": 22,
+         "n_line": 21,
          "word_error": [
             "Señor"
          ],
@@ -639,9 +128,9 @@
          ]
       },
       {
-         "date": "2022-07-21 14:33:21.083361",
+         "date": "2022-07-22 16:30:02.686859",
          "action": "automatic",
-         "n_line": 23,
+         "n_line": 22,
          "word_error": [
             "pacificadora"
          ],
@@ -650,186 +139,2460 @@
          ]
       },
       {
-         "date": "2022-07-21 14:36:27.041896",
+         "date": "2022-07-22 16:33:57.655299",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [],
+         "word_correction": []
+      },
+      {
+         "date": "2022-07-22 16:39:03.699667",
          "action": "automatic",
          "n_line": 2,
          "word_error": [],
          "word_correction": []
       },
       {
-         "date": "2022-07-21 14:36:27.046813",
+         "date": "2022-07-22 16:42:07.444927",
          "action": "automatic",
          "n_line": 3,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "pre"
+         ],
+         "word_correction": [
+            "pr"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.128419",
-         "action": "automatic",
-         "n_line": 3,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:27.133349",
-         "action": "automatic",
-         "n_line": 3,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:27.138306",
+         "date": "2022-07-22 16:42:07.452867",
          "action": "automatic",
          "n_line": 4,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "pre"
+         ],
+         "word_correction": [
+            "pr"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.143239",
-         "action": "automatic",
-         "n_line": 4,
-         "word_error": [],
-         "word_correction": []
-      },
-      {
-         "date": "2022-07-21 14:36:27.148781",
+         "date": "2022-07-22 16:44:49.443164",
          "action": "automatic",
          "n_line": 5,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "endito"
+         ],
+         "word_correction": [
+            "indio"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.154778",
+         "date": "2022-07-22 16:44:49.448818",
          "action": "automatic",
-         "n_line": 6,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 9,
+         "word_error": [
+            "endito"
+         ],
+         "word_correction": [
+            "indio"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.160268",
+         "date": "2022-07-22 16:44:49.454043",
          "action": "automatic",
-         "n_line": 6,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 11,
+         "word_error": [
+            "endito"
+         ],
+         "word_correction": [
+            "indio"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.166196",
+         "date": "2022-07-22 16:44:49.457689",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "endito"
+         ],
+         "word_correction": [
+            "indio"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:44:49.461573",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "endito"
+         ],
+         "word_correction": [
+            "indio"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:22.137379",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Inmediatamente"
+         ],
+         "word_correction": [
+            "inmediatamente"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:26.847456",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "Anpeles"
+         ],
+         "word_correction": [
+            "Angeles"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:31.399750",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Sõr"
+         ],
+         "word_correction": [
+            "Sor"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:38.452343",
          "action": "automatic",
          "n_line": 10,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "Jodabia"
+         ],
+         "word_correction": [
+            "todabia"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.172013",
+         "date": "2022-07-22 16:59:45.460859",
          "action": "automatic",
          "n_line": 12,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "corespondiente"
+         ],
+         "word_correction": [
+            "correspondientes"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.181633",
+         "date": "2022-07-22 16:59:52.099263",
          "action": "automatic",
-         "n_line": 14,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 13,
+         "word_error": [
+            "débolucion"
+         ],
+         "word_correction": [
+            "debolución"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.188211",
+         "date": "2022-07-22 16:59:58.415455",
          "action": "automatic",
-         "n_line": 14,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 15,
+         "word_error": [
+            "Salvador",
+            "Elmnosilla"
+         ],
+         "word_correction": [
+            "malvados",
+            "Elmorilla"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.194337",
+         "date": "2022-07-22 16:59:58.457883",
          "action": "automatic",
          "n_line": 16,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "lanzar"
+         ],
+         "word_correction": [
+            "lanar"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.200916",
+         "date": "2022-07-22 16:59:59.275992",
          "action": "automatic",
-         "n_line": 16,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 19,
+         "word_error": [
+            "aUd"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.207938",
+         "date": "2022-07-22 16:59:59.387050",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Jdel",
+            "C.",
+            "Dize"
+         ],
+         "word_correction": [
+            "del",
+            "C",
+            "Dime"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:59.488012",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Señor"
+         ],
+         "word_correction": [
+            "Senor"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:59:59.584800",
          "action": "automatic",
          "n_line": 22,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "pacificadora"
+         ],
+         "word_correction": [
+            "Pacificadora"
+         ]
       },
       {
-         "date": "2022-07-21 14:36:27.211681",
+         "date": "2022-07-22 17:01:14.224729",
          "action": "automatic",
-         "n_line": 22,
-         "word_error": [],
-         "word_correction": []
+         "n_line": 1,
+         "word_error": [
+            "promente"
+         ],
+         "word_correction": [
+            "presente"
+         ]
       },
       {
-         "date": "2022-07-21 16:12:55.629662",
+         "date": "2022-07-22 17:03:04.443777",
          "action": "automatic",
          "n_line": 2,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "Ue",
+            "pha",
+            "Aytt"
+         ],
+         "word_correction": [
+            "ayer",
+            "ha",
+            "Ayer"
+         ]
       },
       {
-         "date": "2022-07-21 16:13:26.467406",
+         "date": "2022-07-22 17:03:07.969279",
          "action": "automatic",
          "n_line": 3,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "hire",
+            "pre"
+         ],
+         "word_correction": [
+            "hice",
+            "pr"
+         ]
       },
       {
-         "date": "2022-07-21 16:13:47.964175",
+         "date": "2022-07-22 17:03:09.161798",
          "action": "automatic",
          "n_line": 4,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "pio"
+         ],
+         "word_correction": [
+            "Bio"
+         ]
       },
       {
-         "date": "2022-07-21 16:13:47.969684",
+         "date": "2022-07-22 17:03:10.049209",
          "action": "automatic",
          "n_line": 5,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "Intend^te",
+            "endito"
+         ],
+         "word_correction": [
+            "Intendente",
+            "indio"
+         ]
       },
       {
-         "date": "2022-07-21 16:14:33.301501",
+         "date": "2022-07-22 17:03:10.414666",
+         "action": "automatic",
+         "n_line": 9,
+         "word_error": [
+            "Vanien"
+         ],
+         "word_correction": [
+            "manden"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:10.744804",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "man-"
+         ],
+         "word_correction": [
+            "mand"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:11.045733",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "dueños"
+         ],
+         "word_correction": [
+            "buenos"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:11.414118",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "D^n"
+         ],
+         "word_correction": [
+            "Don"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:04.918662",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Inmediatamente"
+         ],
+         "word_correction": [
+            "inmediatamente"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:10.111138",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "Anpeles"
+         ],
+         "word_correction": [
+            "Angeles"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:15.118153",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Sõr"
+         ],
+         "word_correction": [
+            "Sor"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:22.237270",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "Jodabia"
+         ],
+         "word_correction": [
+            "todabia"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:29.311527",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "corespondiente"
+         ],
+         "word_correction": [
+            "correspondientes"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:35.924880",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "débolucion"
+         ],
+         "word_correction": [
+            "debolución"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:42.257559",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Salvador",
+            "Elmnosilla"
+         ],
+         "word_correction": [
+            "malvados",
+            "Elmorilla"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:42.300188",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "lanzar"
+         ],
+         "word_correction": [
+            "lanar"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:43.130820",
+         "action": "automatic",
+         "n_line": 19,
+         "word_error": [
+            "aUd"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:43.226353",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Jdel",
+            "C.",
+            "Dize"
+         ],
+         "word_correction": [
+            "del",
+            "C",
+            "Dime"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:43.323458",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Señor"
+         ],
+         "word_correction": [
+            "Senor"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:43.419232",
+         "action": "automatic",
+         "n_line": 22,
+         "word_error": [
+            "pacificadora"
+         ],
+         "word_correction": [
+            "Pacificadora"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:40.523704",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "promente"
+         ],
+         "word_correction": [
+            "presente"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:42.764711",
+         "action": "automatic",
+         "n_line": 2,
+         "word_error": [
+            "Ue",
+            "pha",
+            "Aytt"
+         ],
+         "word_correction": [
+            "de",
+            "ha",
+            "Ayer"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:44.442775",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "hire",
+            "pre"
+         ],
+         "word_correction": [
+            "hice",
+            "pr"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:47.526710",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "pio"
+         ],
+         "word_correction": [
+            "Bio"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:50.041566",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Intend^te",
+            "endito"
+         ],
+         "word_correction": [
+            "Intendente",
+            "indio"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:52.101544",
+         "action": "automatic",
+         "n_line": 9,
+         "word_error": [
+            "Vanien"
+         ],
+         "word_correction": [
+            "manden"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:53.060404",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "man-"
+         ],
+         "word_correction": [
+            "mand"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:54.032160",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "dueños"
+         ],
+         "word_correction": [
+            "buenos"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:55.524924",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "D^n"
+         ],
+         "word_correction": [
+            "Don"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:56.543170",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Comand^"
+         ],
+         "word_correction": [
+            "Comand"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:26:42.857670",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "promente"
+         ],
+         "word_correction": [
+            "promete"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:09.334623",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Inmediatamente"
+         ],
+         "word_correction": [
+            "inmediatamente"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:14.534762",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "Anpeles"
+         ],
+         "word_correction": [
+            "Angeles"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:20.865407",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Sõr"
+         ],
+         "word_correction": [
+            "Sor"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:28.027002",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "Jodabia"
+         ],
+         "word_correction": [
+            "todabia"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:38.813409",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "corespondiente"
+         ],
+         "word_correction": [
+            "correspondientes"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:46.473656",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "débolucion"
+         ],
+         "word_correction": [
+            "debolución"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:53.252888",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Salvador",
+            "Elmnosilla"
+         ],
+         "word_correction": [
+            "malvados",
+            "Elmorilla"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:53.353828",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "lanzar"
+         ],
+         "word_correction": [
+            "lanar"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:55.063421",
+         "action": "automatic",
+         "n_line": 19,
+         "word_error": [
+            "aUd"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:55.169228",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Jdel",
+            "C.",
+            "Dize"
+         ],
+         "word_correction": [
+            "del",
+            "C",
+            "Dime"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:55.290981",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Señor"
+         ],
+         "word_correction": [
+            "Senor"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:55.396314",
+         "action": "automatic",
+         "n_line": 22,
+         "word_error": [
+            "pacificadora"
+         ],
+         "word_correction": [
+            "Pacificadora"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:02.996856",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Inmediatamente"
+         ],
+         "word_correction": [
+            "inmediatamente"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:06.530284",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "Anpeles"
+         ],
+         "word_correction": [
+            "Angeles"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:11.032365",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Sõr"
+         ],
+         "word_correction": [
+            "Sor"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:18.061414",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "Jodabia"
+         ],
+         "word_correction": [
+            "todabia"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:25.052617",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "corespondiente"
+         ],
+         "word_correction": [
+            "correspondientes"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:31.617394",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "débolucion"
+         ],
+         "word_correction": [
+            "debolución"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:37.895972",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Salvador",
+            "Elmnosilla"
+         ],
+         "word_correction": [
+            "malvados",
+            "Elmorilla"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:37.936955",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "lanzar"
+         ],
+         "word_correction": [
+            "lanar"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:38.731288",
+         "action": "automatic",
+         "n_line": 19,
+         "word_error": [
+            "aUd"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:38.820215",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Jdel",
+            "C.",
+            "Dize"
+         ],
+         "word_correction": [
+            "del",
+            "C",
+            "Dime"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:38.910545",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Señor"
+         ],
+         "word_correction": [
+            "Senor"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:39.005614",
+         "action": "automatic",
+         "n_line": 22,
+         "word_error": [
+            "pacificadora"
+         ],
+         "word_correction": [
+            "Pacificadora"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:58:28.502225",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "promente"
+         ],
+         "word_correction": [
+            "presente"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:59:01.134215",
+         "action": "automatic",
+         "n_line": 2,
+         "word_error": [
+            "Ue",
+            "pha",
+            "Aytt"
+         ],
+         "word_correction": [
+            "Ud.",
+            "fha",
+            "Ayer"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:00:26.414723",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "hire",
+            "pre"
+         ],
+         "word_correction": [
+            "hice",
+            "pre-"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:00:54.486308",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "pio"
+         ],
+         "word_correction": [
+            "pio"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:01:19.761102",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Intend^te",
+            "endito"
+         ],
+         "word_correction": [
+            "Intend^te",
+            "indio"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:02:14.872805",
+         "action": "automatic",
+         "n_line": 9,
+         "word_error": [
+            "Vanien"
+         ],
+         "word_correction": [
+            "Venien"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:02:22.583905",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "man-"
+         ],
+         "word_correction": [
+            "man-"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:03:00.949637",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "dueños"
+         ],
+         "word_correction": [
+            "dueños"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:03:13.884235",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "D^n"
+         ],
+         "word_correction": [
+            "D^n"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:03:27.656212",
+         "action": "automatic",
+         "n_line": 21,
+         "word_error": [
+            "Comand^"
+         ],
+         "word_correction": [
+            "Comand"
+         ]
+      }
+   ],
+   "203_a.xml": [
+      {
+         "date": "2022-07-22 16:30:05.747693",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "inteime"
+         ],
+         "word_correction": [
+            "intimó"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:14.721816",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Gobemador"
+         ],
+         "word_correction": [
+            "Gobernador"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:27.769021",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "poricion"
+         ],
+         "word_correction": [
+            "posicion"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:29.381464",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tetulado",
+            "Sarjento",
+            "dela-"
+         ],
+         "word_correction": [
+            "titulado",
+            "Sargento",
+            "dela"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:41.263245",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "allí",
+            "concecuencio"
+         ],
+         "word_correction": [
+            "alli",
+            "consecuencia"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:41.284344",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "Ud."
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:49.410422",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "servirá"
+         ],
+         "word_correction": [
+            "servirá"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.665246",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Parcual"
+         ],
+         "word_correction": [
+            "Pascal"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.681852",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "nocimiento"
+         ],
+         "word_correction": [
+            "nacimiento"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.815790",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "trarcribo"
+         ],
+         "word_correction": [
+            "trascribo"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.873112",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "determinas"
+         ],
+         "word_correction": [
+            "determinar"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.894468",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "dispueto",
+            "mandarlo"
+         ],
+         "word_correction": [
+            "dispuesto",
+            "mandarle"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:53.949708",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "Maipú"
+         ],
+         "word_correction": [
+            "Maipu"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:30:56.312460",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Lonezo"
+         ],
+         "word_correction": [
+            "Lopez"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:31:00.193463",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Sõr",
+            "fefe"
+         ],
+         "word_correction": [
+            "Sor",
+            "Jefe"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:31:11.628980",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "deoperaciones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:31:11.761435",
+         "action": "automatic",
+         "n_line": 27,
+         "word_error": [
+            "gu~e"
+         ],
+         "word_correction": [
+            "gue"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:31:11.887587",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "C."
+         ],
+         "word_correction": [
+            "C"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:55:48.667467",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Este"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:55:48.673058",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Este"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:55:48.676663",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Este"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:56:01.597125",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "E^te",
+            "tha"
+         ],
+         "word_correction": [
+            "Este",
+            "fha"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:56:39.039146",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "E^te",
+            "tha",
+            "provin"
+         ],
+         "word_correction": [
+            "Este",
+            "fha",
+            "propio"
+         ]
+      },
+      {
+         "date": "2022-07-22 16:58:12.899358",
          "action": "automatic",
          "n_line": 6,
          "word_error": [],
          "word_correction": []
       },
       {
-         "date": "2022-07-21 16:14:33.307942",
+         "date": "2022-07-22 16:58:12.905975",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [],
+         "word_correction": []
+      },
+      {
+         "date": "2022-07-22 16:58:12.910753",
          "action": "automatic",
          "n_line": 10,
          "word_error": [],
          "word_correction": []
       },
       {
-         "date": "2022-07-21 16:14:33.317398",
+         "date": "2022-07-22 16:58:12.914498",
          "action": "automatic",
          "n_line": 12,
          "word_error": [],
          "word_correction": []
       },
       {
-         "date": "2022-07-21 16:14:33.322911",
+         "date": "2022-07-22 16:58:12.918455",
          "action": "automatic",
-         "n_line": 14,
+         "n_line": 13,
          "word_error": [],
          "word_correction": []
       },
       {
-         "date": "2022-07-21 16:14:33.328794",
+         "date": "2022-07-22 17:00:01.556814",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "inteime"
+         ],
+         "word_correction": [
+            "intimó"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:07.021586",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Gobemador"
+         ],
+         "word_correction": [
+            "Gobernador"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:14.898900",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "poricion"
+         ],
+         "word_correction": [
+            "posicion"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:15.973273",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tetulado",
+            "Sarjento",
+            "dela-"
+         ],
+         "word_correction": [
+            "titulado",
+            "Sargento",
+            "dela"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:23.523495",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "allí",
+            "concecuencio"
+         ],
+         "word_correction": [
+            "alli",
+            "consecuencia"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:23.540053",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "Ud."
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:29.848750",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "servirá"
+         ],
+         "word_correction": [
+            "servirá"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:33.733370",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Parcual"
+         ],
+         "word_correction": [
+            "Pascal"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:33.750268",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "nocimiento"
+         ],
+         "word_correction": [
+            "nacimiento"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:33.875511",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "trarcribo"
+         ],
+         "word_correction": [
+            "trascribo"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:33.928021",
          "action": "automatic",
          "n_line": 16,
-         "word_error": [],
-         "word_correction": []
+         "word_error": [
+            "determinas"
+         ],
+         "word_correction": [
+            "determinar"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:33.954523",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "dispueto",
+            "mandarlo"
+         ],
+         "word_correction": [
+            "dispuesto",
+            "mandarle"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:34.013647",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "Maipú"
+         ],
+         "word_correction": [
+            "Maipu"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:35.621241",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Lonezo"
+         ],
+         "word_correction": [
+            "Lopez"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:38.263885",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Sõr",
+            "fefe"
+         ],
+         "word_correction": [
+            "Sor",
+            "Jefe"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:45.996985",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "deoperaciones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:46.097156",
+         "action": "automatic",
+         "n_line": 27,
+         "word_error": [
+            "gu~e"
+         ],
+         "word_correction": [
+            "gue"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:00:46.194983",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "C."
+         ],
+         "word_correction": [
+            "C"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:12.177050",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Este"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:12.527713",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "dep^t"
+         ],
+         "word_correction": [
+            "depart"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:12.886937",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Conero"
+         ],
+         "word_correction": [
+            "Enero"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:13.610020",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "cia",
+            "tha"
+         ],
+         "word_correction": [
+            "dia",
+            "ha"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:14.340105",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Intend^a",
+            "provin"
+         ],
+         "word_correction": [
+            "Intend",
+            "propio"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:16.189219",
+         "action": "automatic",
+         "n_line": 6,
+         "word_error": [
+            "ep^a",
+            "N72",
+            "dis"
+         ],
+         "word_correction": [
+            "esta",
+            "No",
+            "dos"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:16.725456",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "cilla"
+         ],
+         "word_correction": [
+            "ella"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:17.346460",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "juegado"
+         ],
+         "word_correction": [
+            "llegado"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:18.193223",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "Us"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:18.939971",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Ruir"
+         ],
+         "word_correction": [
+            "mui"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:21.200026",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Tolo",
+            "Ul",
+            "co-"
+         ],
+         "word_correction": [
+            "solo",
+            "el",
+            "con"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:03:21.745704",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Comand^o"
+         ],
+         "word_correction": [
+            "Comand"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:45.407440",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "inteime"
+         ],
+         "word_correction": [
+            "intimó"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:50.893924",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Gobemador"
+         ],
+         "word_correction": [
+            "Gobernador"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:58.788892",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "poricion"
+         ],
+         "word_correction": [
+            "posicion"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:22:59.874584",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tetulado",
+            "Sarjento",
+            "dela-"
+         ],
+         "word_correction": [
+            "titulado",
+            "Sargento",
+            "dela"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:07.118788",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "allí",
+            "concecuencio"
+         ],
+         "word_correction": [
+            "alli",
+            "consecuencia"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:07.134881",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "Ud."
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:11.509646",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "servirá"
+         ],
+         "word_correction": [
+            "servirá"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.199258",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Parcual"
+         ],
+         "word_correction": [
+            "Pascal"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.213955",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "nocimiento"
+         ],
+         "word_correction": [
+            "nacimiento"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.317912",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "trarcribo"
+         ],
+         "word_correction": [
+            "trascribo"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.362287",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "determinas"
+         ],
+         "word_correction": [
+            "determinar"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.379570",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "dispueto",
+            "mandarlo"
+         ],
+         "word_correction": [
+            "dispuesto",
+            "mandarle"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:14.423569",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "Maipú"
+         ],
+         "word_correction": [
+            "Maipu"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:15.937799",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Lonezo"
+         ],
+         "word_correction": [
+            "Lopez"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:18.557879",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Sõr",
+            "fefe"
+         ],
+         "word_correction": [
+            "Sor",
+            "Jefe"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:26.454750",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "deoperaciones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:26.562194",
+         "action": "automatic",
+         "n_line": 27,
+         "word_error": [
+            "gu~e"
+         ],
+         "word_correction": [
+            "gue"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:23:26.661015",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "C."
+         ],
+         "word_correction": [
+            "C"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:59:15.567689",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Este"
+         ]
+      },
+      {
+         "date": "2022-07-22 17:59:25.241811",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "dep^t"
+         ],
+         "word_correction": [
+            "depart"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:27:57.454016",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "inteime"
+         ],
+         "word_correction": [
+            "intimó"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:03.017021",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Gobemador"
+         ],
+         "word_correction": [
+            "Gobernador"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:12.860748",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "poricion"
+         ],
+         "word_correction": [
+            "posicion"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:14.452220",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tetulado",
+            "Sarjento",
+            "dela-"
+         ],
+         "word_correction": [
+            "titulado",
+            "Sargento",
+            "dela"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:23.092871",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "allí",
+            "concecuencio"
+         ],
+         "word_correction": [
+            "alli",
+            "consecuencia"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:23.107438",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "Ud."
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:27.547152",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "servirá"
+         ],
+         "word_correction": [
+            "servirá"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.315321",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Parcual"
+         ],
+         "word_correction": [
+            "Pascal"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.329592",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "nocimiento"
+         ],
+         "word_correction": [
+            "nacimiento"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.432649",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "trarcribo"
+         ],
+         "word_correction": [
+            "trascribo"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.476462",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "determinas"
+         ],
+         "word_correction": [
+            "determinar"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.493753",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "dispueto",
+            "mandarlo"
+         ],
+         "word_correction": [
+            "dispuesto",
+            "mandarle"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:30.537255",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "Maipú"
+         ],
+         "word_correction": [
+            "Maipu"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:32.054747",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Lonezo"
+         ],
+         "word_correction": [
+            "Lopez"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:34.727186",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Sõr",
+            "fefe"
+         ],
+         "word_correction": [
+            "Sor",
+            "Jefe"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:42.707542",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "deoperaciones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:42.816162",
+         "action": "automatic",
+         "n_line": 27,
+         "word_error": [
+            "gu~e"
+         ],
+         "word_correction": [
+            "gue"
+         ]
+      },
+      {
+         "date": "2022-08-02 15:28:42.914131",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "C."
+         ],
+         "word_correction": [
+            "C"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:40.952934",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "inteime"
+         ],
+         "word_correction": [
+            "intimó"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:46.398271",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "Gobemador"
+         ],
+         "word_correction": [
+            "Gobernador"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:54.126265",
+         "action": "automatic",
+         "n_line": 7,
+         "word_error": [
+            "poricion"
+         ],
+         "word_correction": [
+            "posicion"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:54:55.193002",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "tetulado",
+            "Sarjento",
+            "dela-"
+         ],
+         "word_correction": [
+            "titulado",
+            "Sargento",
+            "dela"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:02.381150",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "allí",
+            "concecuencio"
+         ],
+         "word_correction": [
+            "alli",
+            "consecuencia"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:02.400966",
+         "action": "automatic",
+         "n_line": 11,
+         "word_error": [
+            "Ud."
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:06.700677",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "servirá"
+         ],
+         "word_correction": [
+            "servirá"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.357427",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Parcual"
+         ],
+         "word_correction": [
+            "Pascal"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.369971",
+         "action": "automatic",
+         "n_line": 14,
+         "word_error": [
+            "nocimiento"
+         ],
+         "word_correction": [
+            "nacimiento"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.456630",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "trarcribo"
+         ],
+         "word_correction": [
+            "trascribo"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.493159",
+         "action": "automatic",
+         "n_line": 16,
+         "word_error": [
+            "determinas"
+         ],
+         "word_correction": [
+            "determinar"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.508201",
+         "action": "automatic",
+         "n_line": 17,
+         "word_error": [
+            "dispueto",
+            "mandarlo"
+         ],
+         "word_correction": [
+            "dispuesto",
+            "mandarle"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:09.543532",
+         "action": "automatic",
+         "n_line": 18,
+         "word_error": [
+            "Maipú"
+         ],
+         "word_correction": [
+            "Maipu"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:11.000831",
+         "action": "automatic",
+         "n_line": 20,
+         "word_error": [
+            "Lonezo"
+         ],
+         "word_correction": [
+            "Lopez"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:13.593475",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Sõr",
+            "fefe"
+         ],
+         "word_correction": [
+            "Sor",
+            "Jefe"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:21.394722",
+         "action": "automatic",
+         "n_line": 25,
+         "word_error": [
+            "deoperaciones"
+         ],
+         "word_correction": [
+            "operaciones"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:21.483633",
+         "action": "automatic",
+         "n_line": 27,
+         "word_error": [
+            "gu~e"
+         ],
+         "word_correction": [
+            "gue"
+         ]
+      },
+      {
+         "date": "2022-08-15 15:55:21.564776",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "C."
+         ],
+         "word_correction": [
+            "C"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:03:49.119669",
+         "action": "automatic",
+         "n_line": 0,
+         "word_error": [
+            "E^te"
+         ],
+         "word_correction": [
+            "Gob"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:04:05.492876",
+         "action": "automatic",
+         "n_line": 1,
+         "word_error": [
+            "dep^t"
+         ],
+         "word_correction": [
+            "dep^t"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:04:10.869491",
+         "action": "automatic",
+         "n_line": 3,
+         "word_error": [
+            "Conero"
+         ],
+         "word_correction": [
+            "Enero"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:05:50.410149",
+         "action": "automatic",
+         "n_line": 4,
+         "word_error": [
+            "cia",
+            "tha"
+         ],
+         "word_correction": [
+            "cia",
+            "fha"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:06:21.543737",
+         "action": "automatic",
+         "n_line": 5,
+         "word_error": [
+            "Intend^a",
+            "provin"
+         ],
+         "word_correction": [
+            "Intend^a",
+            "provin-"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:07:27.945523",
+         "action": "automatic",
+         "n_line": 6,
+         "word_error": [
+            "ep^a",
+            "N72",
+            "dis"
+         ],
+         "word_correction": [
+            "esta",
+            "72",
+            "dis-"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:07:36.422966",
+         "action": "automatic",
+         "n_line": 8,
+         "word_error": [
+            "cilla"
+         ],
+         "word_correction": [
+            "cilla"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:07:56.786568",
+         "action": "automatic",
+         "n_line": 10,
+         "word_error": [
+            "juegado"
+         ],
+         "word_correction": [
+            "juegado"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:08:01.295588",
+         "action": "automatic",
+         "n_line": 12,
+         "word_error": [
+            "Us"
+         ],
+         "word_correction": [
+            "Ud"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:08:09.675552",
+         "action": "automatic",
+         "n_line": 13,
+         "word_error": [
+            "Ruir"
+         ],
+         "word_correction": [
+            "Ruir"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:08:33.087458",
+         "action": "automatic",
+         "n_line": 15,
+         "word_error": [
+            "Tolo",
+            "Ul",
+            "co-"
+         ],
+         "word_correction": [
+            "Solo",
+            "Ud",
+            "co-"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:08:46.518521",
+         "action": "automatic",
+         "n_line": 24,
+         "word_error": [
+            "Comand^o"
+         ],
+         "word_correction": [
+            "Comand^o"
+         ]
+      },
+      {
+         "date": "2022-08-15 16:09:08.274418",
+         "action": "automatic",
+         "n_line": 28,
+         "word_error": [
+            "Jel"
+         ],
+         "word_correction": [
+            "Jose"
+         ]
       }
    ]
 }
