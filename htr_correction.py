@@ -20,12 +20,13 @@ from src.bin.parser import ParserXML
               required_if="text", help="To do list of world frequency of data ground truth")
 def word_parsing(frequency, text):
     """
-    https://github.com/Anatole-DC/learning_english/blob/master/server/analyses.py
-    https://github.com/ElkheirT/Data-Science-Final-Project/blob/main/main.py
-    https://github.com/ElkheirT/Data-Science-Final-Project/blob/main/SpellCheck.py
-    https://spacy.io/models/es
-    https://github.com/andresdtobar/text_classification_GRUNet/blob/main/dictionary_construction.ipynb
-    :return:
+    Function parsing the xml files in the transfo/input/ folder in order to make an automatic correction 
+    thanks to the Levenstein distance and a probability dictionary.
+    
+    :frequency: Option boolean to use dictionary frequency with ground_truth
+    :text: Option boolean to create dictionary frequency with ground_truth. Frequency option must be activated
+    :HELP: https://github.com/Anatole-DC/learning_english
+    :return: None
     """
 
     # clean dir
@@ -114,6 +115,7 @@ def word_parsing(frequency, text):
                             else:
                                 if dict_sugg["corrected"] is not None:
                                     list_files.append(dict_sugg)
+                #replace
                 if len(dict_line) > 0:
                     xml.replacer(n_line, dict_line)
 
